@@ -1,0 +1,21 @@
+folder,file,use
+01_Key_Results,potential_malignant_T_cell_definition.csv,Exact top-25% cell definition
+01_Key_Results,potential_malignant_T_cell_counts_and_proportions_by_sample.csv,Cell counts and proportions for all six samples
+01_Key_Results,KEGG_GSEA_focus_pathways_relapse_vs_diagnosis.csv,Focused hypothesis pathways with NES and FDR
+01_Key_Results,KEGG_GSEA_significant_pathways_FDR0.05.csv,All significant KEGG results
+01_Key_Results,GO_BP_GSEA_summary.csv,GO BP test summary
+01_Key_Results,GO_BP_GSEA_significant_terms_FDR0.05.csv,All significant GO BP terms
+01_Key_Results,mitophagy_autophagy_paired_consistency_summary.csv,Patient-direction consistency for mitophagy and autophagy
+01_Key_Results,mitophagy_leading_edge_paired_directions.csv,Per-gene paired directions in the mitophagy leading edge
+01_Key_Results,STAT5_downstream_gene_set_GSEA_relapse_vs_diagnosis.csv,Custom STAT5 downstream gene-set test
+01_Key_Results,STAT5A_STAT5B_pseudobulk_DEG.csv,STAT5A and STAT5B gene-level statistics
+01_Key_Results,sphingolipid_KEGG_GSEA_summary.csv,Sphingolipid pathway GSEA results
+01_Key_Results,sphingolipid_leading_edge_gene_paired_directions.csv,Sphingolipid leading-edge directions
+01_Key_Results,cross_dataset_STAT5B_N642H_vs_relapse_GSEA_key_pathways.csv,Relapse and STAT5B N642H pathway comparison
+01_Key_Results,cross_dataset_KEGG_FDR0.10_same_direction_venn_counts.csv,Venn counts used in the cross-dataset figure
+01_Key_Results,cross_dataset_KEGG_FDR0.10_same_direction_intersection.csv,Names of same-direction shared pathways
+01_Key_Results,cross_dataset_STAT5_pathway_leading_edge_summary.csv,STAT5-axis overlap within shared leading edges
+02_Full_Results,,Complete DEG GSEA metadata and gene-level audit tables
+03_Sensitivity_Checks,,Alternative cell-compartment definitions retained only for robustness
+04_Method_Inputs,infercnv_nonTref_cell_cnv_burden.csv,Cell-level inferCNV burden used to define the top 25%
+04_Method_Inputs,STAT5_downstream_gene_sets_used.csv,Exact custom STAT5 gene sets

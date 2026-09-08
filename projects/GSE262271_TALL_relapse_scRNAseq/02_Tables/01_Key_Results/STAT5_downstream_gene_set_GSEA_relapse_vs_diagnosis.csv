@@ -1,0 +1,4 @@
+"analysis_population","comparison","pathway","size","ES","NES","pval","padj","log2err","direction","significant_FDR_0.05","leadingEdge"
+"potential malignant T cells (CNV-high top 25%)","relapse_vs_diagnosis_paired_pseudobulk_N3","STAT5_canonical_feedback_survival",16,0.392325854044584,1.11062980257693,0.310416666666667,0.458077709611452,0.109250039480711,"relapse_up",FALSE,"MYC;PIM1;JAK3;IL2RA;PIM3"
+"potential malignant T cells (CNV-high top 25%)","relapse_vs_diagnosis_paired_pseudobulk_N3","STAT5_T_cell_cytokine_program",19,0.364295049177794,1.07828919300057,0.378435517970402,0.458077709611452,0.0978773277424561,"relapse_up",FALSE,"MYC;PIM1;CD44;JAK3;IL2RA"
+"potential malignant T cells (CNV-high top 25%)","relapse_vs_diagnosis_paired_pseudobulk_N3","STAT5_leukemia_relevant_core",14,0.370398068837878,1.01197365110849,0.458077709611452,0.458077709611452,0.0850427463764322,"relapse_up",FALSE,"MYC;PIM1;JAK3"

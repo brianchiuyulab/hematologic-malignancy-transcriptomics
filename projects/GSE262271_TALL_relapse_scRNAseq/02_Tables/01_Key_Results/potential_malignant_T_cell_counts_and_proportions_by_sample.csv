@@ -1,0 +1,7 @@
+"patient_pair","sample_id","condition_simple","candidate_T_cells","potential_malignant_T_cells","potential_malignant_T_cell_percent"
+"P1","M104","diagnosis",2889,140,4.84596746278989
+"P1","M127","relapse",2991,971,32.4640588431963
+"P2","M143","diagnosis",2279,712,31.2417727073278
+"P2","M148","relapse",1965,269,13.6895674300254
+"P3","M187","diagnosis",713,456,63.9551192145863
+"P3","M187r","relapse",1991,659,33.0989452536414

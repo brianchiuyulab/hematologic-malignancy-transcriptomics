@@ -1,0 +1,4 @@
+"pathway_name","leading_edge_n","up_3_of_3","up_2_of_3","down_2_of_3","down_3_of_3","NES","pval","padj","direction"
+"Autophagy - animal",42,0,2,24,16,-0.930497218533958,0.617647058823529,0.754427030327702,"relapse_down"
+"Autophagy - other",13,0,2,7,4,-1.3362951295557,0.116541353383459,0.299392911347201,"relapse_down"
+"Mitophagy - animal",31,14,16,1,0,1.44241575371799,0.0158390970690435,0.0998428797387919,"relapse_up"

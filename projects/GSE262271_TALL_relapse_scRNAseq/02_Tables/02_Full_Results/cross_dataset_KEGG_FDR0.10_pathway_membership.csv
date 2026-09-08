@@ -1,0 +1,163 @@
+"pathway","original_sc","original_bulk","in_sc_FDR_lt_0.10","in_bulk_FDR_lt_0.10","sc_NES","sc_FDR","sc_direction","bulk_NES","bulk_FDR","bulk_direction","same_direction","shared_direction"
+"Acute myeloid leukemia","Acute myeloid leukemia","Acute myeloid leukemia",TRUE,TRUE,1.63115626030422,0.0623844155231814,"up",1.40613851444826,0.0928100077843595,"up",TRUE,"up"
+"Alzheimer disease","Alzheimer disease","Alzheimer disease",TRUE,TRUE,1.54170546660291,0.00895915987839187,"up",1.92905451322039,0.000879507475813544,"up",TRUE,"up"
+"B cell receptor signaling pathway","B cell receptor signaling pathway","B cell receptor signaling pathway",TRUE,TRUE,1.5923376010265,0.0618337374561215,"up",1.60887792643337,0.0174010250785683,"up",TRUE,"up"
+"Cardiac muscle contraction","Cardiac muscle contraction","Cardiac muscle contraction",TRUE,TRUE,1.76903678791511,0.0509734394479694,"up",1.94005026238208,0.000879507475813544,"up",TRUE,"up"
+"Epstein-Barr virus infection","Epstein-Barr virus infection","Epstein-Barr virus infection",TRUE,TRUE,1.69233211410977,0.00895915987839187,"up",1.82664492066253,0.000879507475813544,"up",TRUE,"up"
+"HIF-1 signaling pathway","HIF-1 signaling pathway","HIF-1 signaling pathway",TRUE,TRUE,1.43811918560752,0.0985737715282058,"up",1.43614254552175,0.0565682574050775,"up",TRUE,"up"
+"Human T-cell leukemia virus 1 infection","Human T-cell leukemia virus 1 infection","Human T-cell leukemia virus 1 infection",TRUE,TRUE,1.61178684494008,0.00895915987839187,"up",1.53063925915084,0.00591881360669484,"up",TRUE,"up"
+"Human cytomegalovirus infection","Human cytomegalovirus infection","Human cytomegalovirus infection",TRUE,TRUE,1.52965794757019,0.0376803192614525,"up",1.70180907033612,0.0017687219215395,"up",TRUE,"up"
+"Human immunodeficiency virus 1 infection","Human immunodeficiency virus 1 infection","Human immunodeficiency virus 1 infection",TRUE,TRUE,1.4866338342675,0.0500957823345489,"up",1.46482704416371,0.0160427807486631,"up",TRUE,"up"
+"Huntington disease","Huntington disease","Huntington disease",TRUE,TRUE,1.52015959867647,0.0202918064854715,"up",1.83905546394052,0.000879507475813544,"up",TRUE,"up"
+"JAK-STAT signaling pathway","JAK-STAT signaling pathway","JAK-STAT signaling pathway",TRUE,TRUE,1.51584761499378,0.0930092060387557,"up",1.74106369322325,0.00134468848050202,"up",TRUE,"up"
+"Mitophagy","Mitophagy - animal","Mitophagy",TRUE,TRUE,1.44241575371799,0.0998428797387919,"up",1.55696250950632,0.0337483264909529,"up",TRUE,"up"
+"Natural killer cell mediated cytotoxicity","Natural killer cell mediated cytotoxicity","Natural killer cell mediated cytotoxicity",TRUE,TRUE,1.78918524149156,0.01186865141802,"up",1.4451845895034,0.0485398579321231,"up",TRUE,"up"
+"Osteoclast differentiation","Osteoclast differentiation","Osteoclast differentiation",TRUE,TRUE,1.53977910397968,0.0606590453539384,"up",2.01752486932228,0.000879507475813544,"up",TRUE,"up"
+"Oxidative phosphorylation","Oxidative phosphorylation","Oxidative phosphorylation",TRUE,TRUE,1.94058599087587,0.00168353396409522,"up",2.31861080913684,0.000879507475813544,"up",TRUE,"up"
+"Parkinson disease","Parkinson disease","Parkinson disease",TRUE,TRUE,1.94032690804444,4.52555804043056e-05,"up",2.06382578736557,0.000879507475813544,"up",TRUE,"up"
+"Pathways in cancer","Pathways in cancer","Pathways in cancer",TRUE,TRUE,1.29477762515202,0.0953594626684773,"up",1.47057458409251,0.000879507475813544,"up",TRUE,"up"
+"Proteoglycans in cancer","Proteoglycans in cancer","Proteoglycans in cancer",TRUE,TRUE,1.4906316671804,0.0821853770667468,"up",1.47073092282381,0.0158220085365255,"up",TRUE,"up"
+"Rap1 signaling pathway","Rap1 signaling pathway","Rap1 signaling pathway",TRUE,TRUE,1.49773937115336,0.0718564087134411,"up",1.59880466855888,0.00355691056910569,"up",TRUE,"up"
+"Relaxin signaling pathway","Relaxin signaling pathway","Relaxin signaling pathway",TRUE,TRUE,1.56029998950793,0.0606590453539384,"up",1.61239276207195,0.00591881360669484,"up",TRUE,"up"
+"Retrograde endocannabinoid signaling","Retrograde endocannabinoid signaling","Retrograde endocannabinoid signaling",TRUE,TRUE,1.5971177226238,0.0606590453539384,"up",1.92711640860664,0.000879507475813544,"up",TRUE,"up"
+"Ribosome","Ribosome","Ribosome",TRUE,TRUE,1.81898817570886,0.00129799008617765,"up",1.75342119171876,0.00134468848050202,"up",TRUE,"up"
+"T cell receptor signaling pathway","T cell receptor signaling pathway","T cell receptor signaling pathway",TRUE,TRUE,1.45827201741288,0.0858142031056873,"up",1.38642125842023,0.0801120669812407,"up",TRUE,"up"
+"Th1 and Th2 cell differentiation","Th1 and Th2 cell differentiation","Th1 and Th2 cell differentiation",TRUE,TRUE,1.81041771463379,0.00895915987839187,"up",1.83590559953878,0.000879507475813544,"up",TRUE,"up"
+"Th17 cell differentiation","Th17 cell differentiation","Th17 cell differentiation",TRUE,TRUE,1.65284849554038,0.0378268091005295,"up",2.03139823842452,0.000879507475813544,"up",TRUE,"up"
+"Thermogenesis","Thermogenesis","Thermogenesis",TRUE,TRUE,1.54390894123201,0.0215151301955458,"up",1.77210088185478,0.000879507475813544,"up",TRUE,"up"
+"Thyroid cancer","Thyroid cancer","Thyroid cancer",TRUE,TRUE,1.5925726719173,0.0930092060387557,"up",1.72540696861127,0.0121684108055488,"up",TRUE,"up"
+"Transcriptional misregulation in cancer","Transcriptional misregulation in cancer","Transcriptional misregulation in cancer",TRUE,TRUE,1.52724362889563,0.0683446568274279,"up",1.63354480978002,0.00236153531282471,"up",TRUE,"up"
+"AGE-RAGE signaling pathway in diabetic complications",NA,"AGE-RAGE signaling pathway in diabetic complications",FALSE,TRUE,NA,NA,NA,1.60889918125232,0.0114717716522609,"up",FALSE,NA
+"Adipocytokine signaling pathway",NA,"Adipocytokine signaling pathway",FALSE,TRUE,NA,NA,NA,1.55958349623178,0.0348892032060349,"up",FALSE,NA
+"Adrenergic signaling in cardiomyocytes",NA,"Adrenergic signaling in cardiomyocytes",FALSE,TRUE,NA,NA,NA,1.39093685992552,0.0694736842105263,"up",FALSE,NA
+"Alanine, aspartate and glutamate metabolism","Alanine, aspartate and glutamate metabolism",NA,TRUE,FALSE,1.66470784516846,0.0944087016602781,"up",NA,NA,NA,FALSE,NA
+"Aldosterone synthesis and secretion",NA,"Aldosterone synthesis and secretion",FALSE,TRUE,NA,NA,NA,1.54681089891767,0.0330506482823456,"up",FALSE,NA
+"Allograft rejection",NA,"Allograft rejection",FALSE,TRUE,NA,NA,NA,1.9613026694236,0.000879507475813544,"up",FALSE,NA
+"Amoebiasis",NA,"Amoebiasis",FALSE,TRUE,NA,NA,NA,1.66821812494489,0.00769726650823127,"up",FALSE,NA
+"Amphetamine addiction",NA,"Amphetamine addiction",FALSE,TRUE,NA,NA,NA,1.61284761187724,0.0250604633401222,"up",FALSE,NA
+"Amyotrophic lateral sclerosis","Amyotrophic lateral sclerosis",NA,TRUE,FALSE,1.64986429659315,0.00216753368069917,"up",NA,NA,NA,FALSE,NA
+"Amyotrophic lateral sclerosis (ALS)",NA,"Amyotrophic lateral sclerosis (ALS)",FALSE,TRUE,NA,NA,NA,1.68655475682472,0.0160427807486631,"up",FALSE,NA
+"Antigen processing and presentation",NA,"Antigen processing and presentation",FALSE,TRUE,NA,NA,NA,1.94015625127892,0.000879507475813544,"up",FALSE,NA
+"Apelin signaling pathway",NA,"Apelin signaling pathway",FALSE,TRUE,NA,NA,NA,1.39321050921825,0.0689289501590668,"up",FALSE,NA
+"Apoptosis",NA,"Apoptosis",FALSE,TRUE,NA,NA,NA,1.90744686559635,0.000879507475813544,"up",FALSE,NA
+"Arachidonic acid metabolism",NA,"Arachidonic acid metabolism",FALSE,TRUE,NA,NA,NA,2.0492608184318,0.000879507475813544,"up",FALSE,NA
+"Arginine and proline metabolism",NA,"Arginine and proline metabolism",FALSE,TRUE,NA,NA,NA,1.5494571651545,0.0523038179508071,"up",FALSE,NA
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",NA,"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",FALSE,TRUE,NA,NA,NA,1.66783929833339,0.0130891955962129,"up",FALSE,NA
+"Asthma",NA,"Asthma",FALSE,TRUE,NA,NA,NA,2.12590338312564,0.000930746272361179,"up",FALSE,NA
+"Autoimmune thyroid disease",NA,"Autoimmune thyroid disease",FALSE,TRUE,NA,NA,NA,1.98533024344704,0.000879507475813544,"up",FALSE,NA
+"Axon guidance",NA,"Axon guidance",FALSE,TRUE,NA,NA,NA,1.48271900591573,0.0197092417573135,"up",FALSE,NA
+"Bacterial invasion of epithelial cells",NA,"Bacterial invasion of epithelial cells",FALSE,TRUE,NA,NA,NA,1.41117299433238,0.0933683807020426,"up",FALSE,NA
+"C-type lectin receptor signaling pathway",NA,"C-type lectin receptor signaling pathway",FALSE,TRUE,NA,NA,NA,1.79159490732965,0.000879507475813544,"up",FALSE,NA
+"Calcium signaling pathway",NA,"Calcium signaling pathway",FALSE,TRUE,NA,NA,NA,1.58806480347981,0.00906806228463352,"up",FALSE,NA
+"Cell adhesion molecules (CAMs)",NA,"Cell adhesion molecules (CAMs)",FALSE,TRUE,NA,NA,NA,2.11178701601636,0.000879507475813544,"up",FALSE,NA
+"Cell cycle","Cell cycle","Cell cycle",TRUE,TRUE,1.42658205360796,0.0821853770667468,"up",-1.45011180222611,0.0182002022244692,"down",FALSE,NA
+"Cellular senescence","Cellular senescence",NA,TRUE,FALSE,1.70418305060453,0.00895915987839187,"up",NA,NA,NA,FALSE,NA
+"Chagas disease (American trypanosomiasis)",NA,"Chagas disease (American trypanosomiasis)",FALSE,TRUE,NA,NA,NA,1.38618709264091,0.0859613663504776,"up",FALSE,NA
+"Chemical carcinogenesis - reactive oxygen species","Chemical carcinogenesis - reactive oxygen species",NA,TRUE,FALSE,1.82669546018957,0.00168353396409522,"up",NA,NA,NA,FALSE,NA
+"Chemical carcinogenesis - receptor activation","Chemical carcinogenesis - receptor activation",NA,TRUE,FALSE,1.53062224389947,0.0821853770667468,"up",NA,NA,NA,FALSE,NA
+"Chemokine signaling pathway",NA,"Chemokine signaling pathway",FALSE,TRUE,NA,NA,NA,1.85159797821573,0.000879507475813544,"up",FALSE,NA
+"Cholinergic synapse",NA,"Cholinergic synapse",FALSE,TRUE,NA,NA,NA,1.52789950706028,0.034189962250052,"up",FALSE,NA
+"Chronic myeloid leukemia","Chronic myeloid leukemia",NA,TRUE,FALSE,1.64803372027917,0.0302206972427231,"up",NA,NA,NA,FALSE,NA
+"Circadian entrainment","Circadian entrainment",NA,TRUE,FALSE,1.7217316017298,0.0606590453539384,"up",NA,NA,NA,FALSE,NA
+"Circadian rhythm",NA,"Circadian rhythm",FALSE,TRUE,NA,NA,NA,1.53976581798947,0.0655082057647221,"up",FALSE,NA
+"Collecting duct acid secretion",NA,"Collecting duct acid secretion",FALSE,TRUE,NA,NA,NA,1.77801002553457,0.00980413516634349,"up",FALSE,NA
+"Colorectal cancer","Colorectal cancer",NA,TRUE,FALSE,1.5594266522599,0.0566137241931487,"up",NA,NA,NA,FALSE,NA
+"Complement and coagulation cascades",NA,"Complement and coagulation cascades",FALSE,TRUE,NA,NA,NA,2.09125937433258,0.000879507475813544,"up",FALSE,NA
+"Coronavirus disease","Coronavirus disease",NA,TRUE,FALSE,1.76444829768339,0.003124212163753,"up",NA,NA,NA,FALSE,NA
+"Cortisol synthesis and secretion",NA,"Cortisol synthesis and secretion",FALSE,TRUE,NA,NA,NA,1.55885602006111,0.0431841587866305,"up",FALSE,NA
+"Cytokine-cytokine receptor interaction",NA,"Cytokine-cytokine receptor interaction",FALSE,TRUE,NA,NA,NA,2.2988685755774,0.000879507475813544,"up",FALSE,NA
+"Cytosolic DNA-sensing pathway",NA,"Cytosolic DNA-sensing pathway",FALSE,TRUE,NA,NA,NA,1.5957541943447,0.0345766896103864,"up",FALSE,NA
+"DNA replication","DNA replication","DNA replication",TRUE,TRUE,1.91391671986323,0.0174238195499497,"up",-1.79800967337495,0.0130891955962129,"down",FALSE,NA
+"Diabetic cardiomyopathy","Diabetic cardiomyopathy",NA,TRUE,FALSE,1.67343391176899,0.00516865286030713,"up",NA,NA,NA,FALSE,NA
+"Dilated cardiomyopathy (DCM)",NA,"Dilated cardiomyopathy (DCM)",FALSE,TRUE,NA,NA,NA,1.69174671591633,0.00626906841643332,"up",FALSE,NA
+"ECM-receptor interaction",NA,"ECM-receptor interaction",FALSE,TRUE,NA,NA,NA,1.89636741428378,0.000879507475813544,"up",FALSE,NA
+"Endocytosis",NA,"Endocytosis",FALSE,TRUE,NA,NA,NA,1.64870670595198,0.00133885238036796,"up",FALSE,NA
+"Ether lipid metabolism",NA,"Ether lipid metabolism",FALSE,TRUE,NA,NA,NA,1.45993027463744,0.0947311439913389,"up",FALSE,NA
+"Fanconi anemia pathway",NA,"Fanconi anemia pathway",FALSE,TRUE,NA,NA,NA,-2.18484690489295,0.00255002295020655,"down",FALSE,NA
+"Fc epsilon RI signaling pathway",NA,"Fc epsilon RI signaling pathway",FALSE,TRUE,NA,NA,NA,1.42014481035285,0.0864082861887472,"up",FALSE,NA
+"Ferroptosis",NA,"Ferroptosis",FALSE,TRUE,NA,NA,NA,1.84233367799881,0.00362654631905549,"up",FALSE,NA
+"Fluid shear stress and atherosclerosis",NA,"Fluid shear stress and atherosclerosis",FALSE,TRUE,NA,NA,NA,1.90542444673161,0.000879507475813544,"up",FALSE,NA
+"Focal adhesion",NA,"Focal adhesion",FALSE,TRUE,NA,NA,NA,1.57679416021446,0.00437836891163479,"up",FALSE,NA
+"GABAergic synapse",NA,"GABAergic synapse",FALSE,TRUE,NA,NA,NA,1.519262259095,0.0490776517512153,"up",FALSE,NA
+"Glutamatergic synapse","Glutamatergic synapse",NA,TRUE,FALSE,1.57476239640802,0.0932791193538795,"up",NA,NA,NA,FALSE,NA
+"Glutathione metabolism",NA,"Glutathione metabolism",FALSE,TRUE,NA,NA,NA,1.71005055778808,0.00811461899328008,"up",FALSE,NA
+"Glycolysis / Gluconeogenesis",NA,"Glycolysis / Gluconeogenesis",FALSE,TRUE,NA,NA,NA,1.50428376617389,0.0565682574050775,"up",FALSE,NA
+"Glycosphingolipid biosynthesis",NA,"Glycosphingolipid biosynthesis",FALSE,TRUE,NA,NA,NA,1.76750965683431,0.00874840888313438,"up",FALSE,NA
+"Graft-versus-host disease",NA,"Graft-versus-host disease",FALSE,TRUE,NA,NA,NA,1.97503929909131,0.000879507475813544,"up",FALSE,NA
+"Hematopoietic cell lineage",NA,"Hematopoietic cell lineage",FALSE,TRUE,NA,NA,NA,2.32309390588288,0.000879507475813544,"up",FALSE,NA
+"Hepatitis B","Hepatitis B",NA,TRUE,FALSE,1.69729265953075,0.0159346726101995,"up",NA,NA,NA,FALSE,NA
+"Hepatocellular carcinoma","Hepatocellular carcinoma",NA,TRUE,FALSE,1.54023487062292,0.0574685979561291,"up",NA,NA,NA,FALSE,NA
+"Homologous recombination",NA,"Homologous recombination",FALSE,TRUE,NA,NA,NA,-1.51937231120138,0.0572202193067752,"down",FALSE,NA
+"Human papillomavirus infection",NA,"Human papillomavirus infection",FALSE,TRUE,NA,NA,NA,1.53184645521378,0.00296169053295621,"up",FALSE,NA
+"Hypertrophic cardiomyopathy (HCM)",NA,"Hypertrophic cardiomyopathy (HCM)",FALSE,TRUE,NA,NA,NA,1.7130713011359,0.00591881360669484,"up",FALSE,NA
+"IL-17 signaling pathway",NA,"IL-17 signaling pathway",FALSE,TRUE,NA,NA,NA,2.05018446794026,0.000879507475813544,"up",FALSE,NA
+"IgSF CAM signaling","IgSF CAM signaling",NA,TRUE,FALSE,1.73303222326682,0.00503705020476243,"up",NA,NA,NA,FALSE,NA
+"Inflammatory bowel disease (IBD)",NA,"Inflammatory bowel disease (IBD)",FALSE,TRUE,NA,NA,NA,2.02200570191331,0.000879507475813544,"up",FALSE,NA
+"Influenza A",NA,"Influenza A",FALSE,TRUE,NA,NA,NA,1.40669016024811,0.0485398579321231,"up",FALSE,NA
+"Insulin secretion",NA,"Insulin secretion",FALSE,TRUE,NA,NA,NA,1.54994750830583,0.0361898738624785,"up",FALSE,NA
+"Intestinal immune network for IgA production",NA,"Intestinal immune network for IgA production",FALSE,TRUE,NA,NA,NA,1.63729046850002,0.0252306022788931,"up",FALSE,NA
+"Kaposi sarcoma-associated herpesvirus infection",NA,"Kaposi sarcoma-associated herpesvirus infection",FALSE,TRUE,NA,NA,NA,1.72193702426386,0.00134468848050202,"up",FALSE,NA
+"Legionellosis",NA,"Legionellosis",FALSE,TRUE,NA,NA,NA,1.94327208885499,0.000879507475813544,"up",FALSE,NA
+"Leishmaniasis",NA,"Leishmaniasis",FALSE,TRUE,NA,NA,NA,1.88166662286728,0.00141212355139659,"up",FALSE,NA
+"Leukocyte transendothelial migration",NA,"Leukocyte transendothelial migration",FALSE,TRUE,NA,NA,NA,1.65803086744382,0.00722586280816298,"up",FALSE,NA
+"Longevity regulating pathway",NA,"Longevity regulating pathway",FALSE,TRUE,NA,NA,NA,1.37109065132765,0.0933683807020426,"up",FALSE,NA
+"Lysine degradation",NA,"Lysine degradation",FALSE,TRUE,NA,NA,NA,-2.08217472600965,0.00255002295020655,"down",FALSE,NA
+"Lysosome",NA,"Lysosome",FALSE,TRUE,NA,NA,NA,1.86275487157943,0.000879507475813544,"up",FALSE,NA
+"MAPK signaling pathway",NA,"MAPK signaling pathway",FALSE,TRUE,NA,NA,NA,1.45433168070481,0.0125931367404764,"up",FALSE,NA
+"Measles",NA,"Measles",FALSE,TRUE,NA,NA,NA,1.38826738940696,0.065545420291492,"up",FALSE,NA
+"Mismatch repair",NA,"Mismatch repair",FALSE,TRUE,NA,NA,NA,-1.68832830372226,0.0345766896103864,"down",FALSE,NA
+"Morphine addiction",NA,"Morphine addiction",FALSE,TRUE,NA,NA,NA,1.57155150525838,0.034189962250052,"up",FALSE,NA
+"NF-kappa B signaling pathway",NA,"NF-kappa B signaling pathway",FALSE,TRUE,NA,NA,NA,2.06700533307521,0.000879507475813544,"up",FALSE,NA
+"NOD-like receptor signaling pathway",NA,"NOD-like receptor signaling pathway",FALSE,TRUE,NA,NA,NA,1.82620278480387,0.000879507475813544,"up",FALSE,NA
+"Necroptosis",NA,"Necroptosis",FALSE,TRUE,NA,NA,NA,1.66083170597308,0.00281609756463883,"up",FALSE,NA
+"Neuroactive ligand-receptor interaction",NA,"Neuroactive ligand-receptor interaction",FALSE,TRUE,NA,NA,NA,1.91768322956637,0.000879507475813544,"up",FALSE,NA
+"Non-alcoholic fatty liver disease","Non-alcoholic fatty liver disease",NA,TRUE,FALSE,1.45028202057212,0.0857853294302532,"up",NA,NA,NA,FALSE,NA
+"Non-alcoholic fatty liver disease (NAFLD)",NA,"Non-alcoholic fatty liver disease (NAFLD)",FALSE,TRUE,NA,NA,NA,2.1245939954041,0.000879507475813544,"up",FALSE,NA
+"Non-small cell lung cancer","Non-small cell lung cancer",NA,TRUE,FALSE,1.61906282589241,0.0606590453539384,"up",NA,NA,NA,FALSE,NA
+"One carbon pool by folate",NA,"One carbon pool by folate",FALSE,TRUE,NA,NA,NA,-1.73905122142827,0.0348892032060349,"down",FALSE,NA
+"Other glycan degradation",NA,"Other glycan degradation",FALSE,TRUE,NA,NA,NA,1.64473289818621,0.0382878737601782,"up",FALSE,NA
+"Oxytocin signaling pathway",NA,"Oxytocin signaling pathway",FALSE,TRUE,NA,NA,NA,1.35938210832144,0.0908579033579034,"up",FALSE,NA
+"PD-L1 expression and PD-1 checkpoint pathway in cancer","PD-L1 expression and PD-1 checkpoint pathway in cancer",NA,TRUE,FALSE,1.76438629713811,0.00895915987839187,"up",NA,NA,NA,FALSE,NA
+"PI3K-Akt signaling pathway",NA,"PI3K-Akt signaling pathway",FALSE,TRUE,NA,NA,NA,1.63841708539494,0.000879507475813544,"up",FALSE,NA
+"Pancreatic cancer","Pancreatic cancer",NA,TRUE,FALSE,1.77040342171551,0.020131923953669,"up",NA,NA,NA,FALSE,NA
+"Parathyroid hormone synthesis, secretion and action",NA,"Parathyroid hormone synthesis, secretion and action",FALSE,TRUE,NA,NA,NA,1.4141920450528,0.0734017672242968,"up",FALSE,NA
+"Pathways of neurodegeneration - multiple diseases","Pathways of neurodegeneration - multiple diseases",NA,TRUE,FALSE,1.48731087333668,0.00895915987839187,"up",NA,NA,NA,FALSE,NA
+"Pertussis",NA,"Pertussis",FALSE,TRUE,NA,NA,NA,1.75919474464506,0.00296169053295621,"up",FALSE,NA
+"Phagosome",NA,"Phagosome",FALSE,TRUE,NA,NA,NA,2.22213840784957,0.000879507475813544,"up",FALSE,NA
+"Platelet activation",NA,"Platelet activation",FALSE,TRUE,NA,NA,NA,1.65910547072116,0.00281609756463883,"up",FALSE,NA
+"Primary immunodeficiency",NA,"Primary immunodeficiency",FALSE,TRUE,NA,NA,NA,1.65299337466056,0.0229134842383002,"up",FALSE,NA
+"Prion disease","Prion disease",NA,TRUE,FALSE,1.7141262132309,0.00202117562892473,"up",NA,NA,NA,FALSE,NA
+"Prion diseases",NA,"Prion diseases",FALSE,TRUE,NA,NA,NA,1.85507323413829,0.00426003237624606,"up",FALSE,NA
+"Proteasome",NA,"Proteasome",FALSE,TRUE,NA,NA,NA,1.88524157497978,0.00143773872453405,"up",FALSE,NA
+"Protein export",NA,"Protein export",FALSE,TRUE,NA,NA,NA,1.54791701543904,0.0632772761566356,"up",FALSE,NA
+"Protein processing in endoplasmic reticulum",NA,"Protein processing in endoplasmic reticulum",FALSE,TRUE,NA,NA,NA,1.67894990247498,0.00178369700933468,"up",FALSE,NA
+"Regulation of actin cytoskeleton",NA,"Regulation of actin cytoskeleton",FALSE,TRUE,NA,NA,NA,1.36832198459833,0.0523038179508071,"up",FALSE,NA
+"Rheumatoid arthritis",NA,"Rheumatoid arthritis",FALSE,TRUE,NA,NA,NA,2.16140976602276,0.000879507475813544,"up",FALSE,NA
+"Ribosome biogenesis in eukaryotes","Ribosome biogenesis in eukaryotes",NA,TRUE,FALSE,2.00495379721182,0.00168353396409522,"up",NA,NA,NA,FALSE,NA
+"Salmonella infection",NA,"Salmonella infection",FALSE,TRUE,NA,NA,NA,1.96107534534613,0.000879507475813544,"up",FALSE,NA
+"Serotonergic synapse",NA,"Serotonergic synapse",FALSE,TRUE,NA,NA,NA,1.53485783739533,0.0377607854243368,"up",FALSE,NA
+"Shigellosis","Shigellosis",NA,TRUE,FALSE,1.42160528056909,0.089189337326803,"up",NA,NA,NA,FALSE,NA
+"Small cell lung cancer",NA,"Small cell lung cancer",FALSE,TRUE,NA,NA,NA,1.7934127281468,0.000879507475813544,"up",FALSE,NA
+"Sphingolipid metabolism",NA,"Sphingolipid metabolism",FALSE,TRUE,NA,NA,NA,1.4715963608698,0.0891924467657694,"up",FALSE,NA
+"Sphingolipid signaling pathway",NA,"Sphingolipid signaling pathway",FALSE,TRUE,NA,NA,NA,1.59182556291516,0.00665981656962363,"up",FALSE,NA
+"Spliceosome","Spliceosome",NA,TRUE,FALSE,1.59273122926837,0.0174554565579204,"up",NA,NA,NA,FALSE,NA
+"Staphylococcus aureus infection",NA,"Staphylococcus aureus infection",FALSE,TRUE,NA,NA,NA,2.02005188592196,0.000879507475813544,"up",FALSE,NA
+"Synaptic vesicle cycle",NA,"Synaptic vesicle cycle",FALSE,TRUE,NA,NA,NA,2.05980756953736,0.000879507475813544,"up",FALSE,NA
+"Systemic lupus erythematosus",NA,"Systemic lupus erythematosus",FALSE,TRUE,NA,NA,NA,1.72993213403154,0.0110269088538088,"up",FALSE,NA
+"TGF-beta signaling pathway","TGF-beta signaling pathway",NA,TRUE,FALSE,1.60381765851019,0.0656494161235192,"up",NA,NA,NA,FALSE,NA
+"TNF signaling pathway",NA,"TNF signaling pathway",FALSE,TRUE,NA,NA,NA,1.95971209617564,0.000879507475813544,"up",FALSE,NA
+"Taste transduction","Taste transduction",NA,TRUE,FALSE,-1.74239124506053,0.0821853770667468,"down",NA,NA,NA,FALSE,NA
+"Taurine and hypotaurine metabolism",NA,"Taurine and hypotaurine metabolism",FALSE,TRUE,NA,NA,NA,1.60006806507326,0.0372336448598131,"up",FALSE,NA
+"Tight junction",NA,"Tight junction",FALSE,TRUE,NA,NA,NA,1.59445933563655,0.00874840888313438,"up",FALSE,NA
+"Toll-like receptor signaling pathway",NA,"Toll-like receptor signaling pathway",FALSE,TRUE,NA,NA,NA,1.78871551625819,0.000879507475813544,"up",FALSE,NA
+"Toxoplasmosis",NA,"Toxoplasmosis",FALSE,TRUE,NA,NA,NA,1.77455376995065,0.00134978268498772,"up",FALSE,NA
+"Tuberculosis",NA,"Tuberculosis",FALSE,TRUE,NA,NA,NA,1.95599046046915,0.000879507475813544,"up",FALSE,NA
+"Type I diabetes mellitus",NA,"Type I diabetes mellitus",FALSE,TRUE,NA,NA,NA,1.93402148144068,0.000879507475813544,"up",FALSE,NA
+"Type II diabetes mellitus",NA,"Type II diabetes mellitus",FALSE,TRUE,NA,NA,NA,1.48702233584194,0.0764097127984722,"up",FALSE,NA
+"VEGF signaling pathway","VEGF signaling pathway",NA,TRUE,FALSE,1.59319276738099,0.0821853770667468,"up",NA,NA,NA,FALSE,NA
+"Vascular smooth muscle contraction",NA,"Vascular smooth muscle contraction",FALSE,TRUE,NA,NA,NA,1.42115288895466,0.0694736842105263,"up",FALSE,NA
+"Viral carcinogenesis",NA,"Viral carcinogenesis",FALSE,TRUE,NA,NA,NA,1.5023648620032,0.0101165425704111,"up",FALSE,NA
+"Viral myocarditis",NA,"Viral myocarditis",FALSE,TRUE,NA,NA,NA,1.78207327694946,0.00255002295020655,"up",FALSE,NA
+"cAMP signaling pathway",NA,"cAMP signaling pathway",FALSE,TRUE,NA,NA,NA,1.53580824987643,0.0102086651149496,"up",FALSE,NA
+"mRNA surveillance pathway",NA,"mRNA surveillance pathway",FALSE,TRUE,NA,NA,NA,-1.37150470722905,0.0673028518899516,"down",FALSE,NA
+"p53 signaling pathway",NA,"p53 signaling pathway",FALSE,TRUE,NA,NA,NA,1.60927832808016,0.0191616579135692,"up",FALSE,NA

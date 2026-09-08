@@ -1,0 +1,2361 @@
+"pathway","gene","in_sc_leading_edge","in_bulk_leading_edge","shared_leading_edge","STAT5_axis_gene","curated_STAT5_target"
+"Acute myeloid leukemia","DUSP6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Acute myeloid leukemia","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Acute myeloid leukemia","PIM1",TRUE,TRUE,TRUE,TRUE,TRUE
+"Acute myeloid leukemia","RARA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Acute myeloid leukemia","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","BCL2A1B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","BCL2A1D",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Acute myeloid leukemia","CEBPA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","CEBPE",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","CSF1R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","CSF2",FALSE,TRUE,FALSE,TRUE,FALSE
+"Acute myeloid leukemia","EIF4EBP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","FLT3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","ITGAM",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","KIT",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","MAPK3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Acute myeloid leukemia","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","PER2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","PIM2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Acute myeloid leukemia","RELA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","RPS6KB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","RUNX1T1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Acute myeloid leukemia","STAT5A",TRUE,FALSE,FALSE,TRUE,FALSE
+"Acute myeloid leukemia","ZBTB16",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CALM1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","CAPN2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","COX4I1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","COX5A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","COX6A1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","COX6C",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","COX7A2L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","COX7B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","COX8A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","CYC1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","IL1B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NAE1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFA12",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFA6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFA8",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFB11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFB7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFB9",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","NDUFV2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","PPP3CC",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","SDHB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","UQCR11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","UQCRH",TRUE,TRUE,TRUE,FALSE,FALSE
+"Alzheimer disease","ADRM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","APBB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","APH1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","APOE",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","APP",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","ARAF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATF4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATF6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP2A2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP2A3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5F1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5F1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5F1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5F1E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5MC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5MC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5PB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ATP5PF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","AXIN1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","BACE2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","BAD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","BECN1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","BID",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","CACNA1D",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CACNA1S",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CALM2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CALM3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","CAPN1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CASP12",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CASP7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","CASP8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CDK5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","COX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","COX4I2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","COX5B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","COX6A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","COX6B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","COX7A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CSNK2A1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","CSNK2A2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","CYCS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","CYTB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","EIF2AK2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","EIF2AK3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","EIF2S1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","FADD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","FAS",FALSE,TRUE,FALSE,FALSE,TRUE
+"Alzheimer disease","FRAT2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","GAPDH",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","GNAQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","GRIN2D",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","HSD17B10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ITPR3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","KIF5B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","LPL",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","MAPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFA9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFAB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFB10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFB4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFB6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFB8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFS2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFS4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFS5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFS6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFS7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFS8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NDUFV3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","NFKB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PIK3CB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PPIF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSEN2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMA4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMA7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMB3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMB7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMC4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMC5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMD11",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMD12",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMD2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMD7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","PSMD8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","RELA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","RTN4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","RYR3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","SDHC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","SDHD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","SEM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC25A5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC25A6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC39A13",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC39A3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC39A4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC39A6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC39A7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","SLC39A8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","TUBA1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","TUBA1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","TUBA4A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","TUBB2A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","TUBB4A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","ULK2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","UQCR10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","UQCRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","UQCRFS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","UQCRHL",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","UQCRQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Alzheimer disease","VDAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Alzheimer disease","VDAC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","CD81",TRUE,TRUE,TRUE,FALSE,FALSE
+"B cell receptor signaling pathway","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"B cell receptor signaling pathway","IFITM1",TRUE,TRUE,TRUE,FALSE,FALSE
+"B cell receptor signaling pathway","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"B cell receptor signaling pathway","NFATC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"B cell receptor signaling pathway","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"B cell receptor signaling pathway","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"B cell receptor signaling pathway","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","BCL10",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","BLNK",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","CARD11",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","CD19",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","CD72",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","CD79A",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","DAPP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","INPP5D",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","INPPL1",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","LYN",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","MALT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","NFATC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","NFKBIB",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PIK3AP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PIRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PPP3CC",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","PTPN6",TRUE,FALSE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","RAC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","RASGRP3",FALSE,TRUE,FALSE,FALSE,FALSE
+"B cell receptor signaling pathway","VAV1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","COX4I1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","COX5A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","COX6A1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","COX6C",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","COX7A2L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","COX8A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","CYC1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","TPM3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","TPM4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","UQCRH",TRUE,TRUE,TRUE,FALSE,FALSE
+"Cardiac muscle contraction","ASPH",TRUE,FALSE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","ATP1A1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","ATP1B3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","ATP2A2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","CACNA1D",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","CACNA1S",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","CACNB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","CACNG4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","COX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","COX4I2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","COX6B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","COX7A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","COX7B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","CYTB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","RYR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","TNNI3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","TPM1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","TPM2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","UQCR10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","UQCRFS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","UQCRHL",TRUE,FALSE,FALSE,FALSE,FALSE
+"Cardiac muscle contraction","UQCRQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","B2M",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","CALR",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","CD44",TRUE,TRUE,TRUE,FALSE,TRUE
+"Epstein-Barr virus infection","GADD45B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","JAK3",TRUE,TRUE,TRUE,TRUE,TRUE
+"Epstein-Barr virus infection","MAP2K3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","MYD88",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","OAS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMC5",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMD8",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","RELB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","RUNX3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","TAP1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","TAP2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","TAPBP",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","VIM",TRUE,TRUE,TRUE,FALSE,FALSE
+"Epstein-Barr virus infection","ADRM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","BCL2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Epstein-Barr virus infection","BCL2L11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","BID",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","BLNK",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CASP8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Epstein-Barr virus infection","CCND2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Epstein-Barr virus infection","CCND3",FALSE,TRUE,FALSE,TRUE,FALSE
+"Epstein-Barr virus infection","CD19",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CD247",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CD40",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CD58",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CDK4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CXCL10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","CYCS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","DDB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","E2F1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","FAS",FALSE,TRUE,FALSE,FALSE,TRUE
+"Epstein-Barr virus infection","GADD45A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","GADD45G",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-AA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-AB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-D1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-DMB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-DMB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-EB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-K1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-M2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-M3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-OA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-Q10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-Q2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-Q4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-Q6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-Q7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-T22",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","H2-T23",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","HDAC1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","HDAC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","HLA-A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","HLA-B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","HLA-C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","HLA-E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","ICAM1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","IFNAR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","IKBKE",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","IRAK4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","LYN",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","MDM2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Epstein-Barr virus infection","NFKB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","NFKBIB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","OAS1G",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PDIA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMC1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMC6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMD13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMD2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMD4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","PSMD6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","RBPJ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","RIPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","SEM1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","SIN3A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","TLR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","TRADD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","TRAF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","TRAF3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Epstein-Barr virus infection","TRAF5",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","ALDOA",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","EGLN2",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","EIF4E2",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","ELOC",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","ENO1",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","IFNGR2",TRUE,TRUE,TRUE,TRUE,FALSE
+"HIF-1 signaling pathway","LDHA",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","MAP2K1",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","PGK1",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","TFRC",TRUE,TRUE,TRUE,FALSE,FALSE
+"HIF-1 signaling pathway","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","BCL2",FALSE,TRUE,FALSE,TRUE,TRUE
+"HIF-1 signaling pathway","CAMK2A",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","CAMK2D",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","CDKN1A",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","CYBB",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","EGLN1",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","EGLN3",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","EIF4EBP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","ELOB",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","ENO1B",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","ENO2",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","ENO3",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","FLT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","GAPDH",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","HK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","HK3",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","HMOX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","IFNGR1",FALSE,TRUE,FALSE,TRUE,FALSE
+"HIF-1 signaling pathway","IGF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","LDHB",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","MKNK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PDHA1",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PDHB",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PFKP",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","RBX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","RPS6",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","RPS6KB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","SLC2A1",FALSE,TRUE,FALSE,FALSE,TRUE
+"HIF-1 signaling pathway","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","TIMP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","TRF",FALSE,TRUE,FALSE,FALSE,FALSE
+"HIF-1 signaling pathway","VHL",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ADCY7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ANAPC11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ATF4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","B2M",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CALR",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CRTC3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","EGR1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ITGB2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","JAK3",TRUE,TRUE,TRUE,TRUE,TRUE
+"Human T-cell leukemia virus 1 infection","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","NFATC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","RANBP3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","RELB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","TGFB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ZFP36",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ADCY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ADCY3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ADCY4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ADCY9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ANAPC13",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ANAPC4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","BCL2L1",FALSE,TRUE,FALSE,TRUE,TRUE
+"Human T-cell leukemia virus 1 infection","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Human T-cell leukemia virus 1 infection","CCND2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Human T-cell leukemia virus 1 infection","CCND3",FALSE,TRUE,FALSE,TRUE,FALSE
+"Human T-cell leukemia virus 1 infection","CD3D",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CD40",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CDC26",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CDK4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CDKN2A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CDKN2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CREB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CREB3L1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CREB3L3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CREB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CRTC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","CSF2",FALSE,TRUE,FALSE,TRUE,FALSE
+"Human T-cell leukemia virus 1 infection","E2F1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","E2F3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","EGR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ELK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ETS1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ETS2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-AA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-AB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-D1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-DMB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-DMB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-EB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-K1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-M2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-M3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-OA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-Q1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-Q10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-Q2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-Q4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-Q6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-Q7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-T-PS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-T22",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","H2-T23",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","HLA-A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","HLA-B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","HLA-C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","HLA-E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","ICAM1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","IL15RA",FALSE,TRUE,FALSE,TRUE,FALSE
+"Human T-cell leukemia virus 1 infection","IL1R1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","IL1R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","IL2RA",TRUE,FALSE,FALSE,TRUE,TRUE
+"Human T-cell leukemia virus 1 infection","IL2RB",FALSE,TRUE,FALSE,TRUE,TRUE
+"Human T-cell leukemia virus 1 infection","IL2RG",FALSE,TRUE,FALSE,TRUE,FALSE
+"Human T-cell leukemia virus 1 infection","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","LTA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Human T-cell leukemia virus 1 infection","NFATC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","NFKB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","NRP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","POLB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","PPP3CC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","PTTG1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","RAN",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","RANBP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","SLC25A4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","SLC25A5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","SLC25A6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","SLC2A1",FALSE,TRUE,FALSE,FALSE,TRUE
+"Human T-cell leukemia virus 1 infection","SPI1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","STAT5A",TRUE,FALSE,FALSE,TRUE,FALSE
+"Human T-cell leukemia virus 1 infection","STAT5B",FALSE,TRUE,FALSE,TRUE,FALSE
+"Human T-cell leukemia virus 1 infection","TGFBR1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","TGFBR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","TLN2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","TNFRSF13C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","TSPO",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","VDAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","VDAC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human T-cell leukemia virus 1 infection","VDAC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ADCY7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","ATF4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","B2M",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","CALM1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","CALR",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","GNB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","GNG2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","GNG5",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","IL1B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","MAP2K1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","MDM2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","NFATC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","PDIA3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","PIK3CB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","RIPK1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","TAP1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","TAP2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","TAPBP",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human cytomegalovirus infection","ADCY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ADCY3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ADCY4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ADCY9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ARHGEF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ARHGEF11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ARHGEF12",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","BID",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CALM2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CALM3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CASP8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CCL3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CCL4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CCL5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Human cytomegalovirus infection","CCR1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CCR3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CDK4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CDKN1A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CDKN2A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CREB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CREB3L1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CREB3L3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CREB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CX3CL1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CXCR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","CYCS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","E2F1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","E2F3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","EIF4EBP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ELK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","FADD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","FAS",FALSE,TRUE,FALSE,FALSE,TRUE
+"Human cytomegalovirus infection","GNA13",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNAI2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNAO1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNAQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNG10",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNG4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GNGT2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-D1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-K1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-M2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-M3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-Q1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-Q10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-Q2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-Q4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-Q6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-Q7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-T-PS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-T10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-T22",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","H2-T23",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","HLA-A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","HLA-B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","HLA-C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","HLA-E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","IL10RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","IL10RB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","IL1R1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ITGAV",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ITGB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Human cytomegalovirus infection","NFATC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PPP3CC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PTGER2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PTGER4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PTK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PTK2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","PXN",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","RAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","RAC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","ROCK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","RPS6KB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","SRC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","TRADD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","TRAF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human cytomegalovirus infection","TRAF5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","B2M",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CALM1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CALR",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CFL1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","ELOC",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNG2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNG5",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MAP2K1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MAP2K3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MYD88",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","NFATC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PDIA3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PIK3CB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","RIPK1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","SAMHD1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TAP1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TAP2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TAPBP",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TNFRSF1B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","AP1B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","AP1G2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","AP1M2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","AP1S1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","AP1S2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","APOBEC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","BAD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","BCL2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Human immunodeficiency virus 1 infection","BCL2L1",FALSE,TRUE,FALSE,TRUE,TRUE
+"Human immunodeficiency virus 1 infection","BID",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","BST2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CALM2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CALM3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CASP8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CD247",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CD3D",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CUL1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CUL4A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","CYCS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","ELOB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","FADD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","FAS",FALSE,TRUE,FALSE,FALSE,TRUE
+"Human immunodeficiency virus 1 infection","FBXW11",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNAI2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNAO1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNAQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNG10",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNG4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","GNGT2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-D1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-K1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-M2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-M3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-Q1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-Q10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-Q2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-Q4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-Q6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-Q7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-T-PS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-T10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-T22",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","H2-T23",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","HLA-A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","HLA-B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","HLA-C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","HLA-E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","IRAK4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MAP3K7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","NFATC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PAK6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PPP3CC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PTK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PTK2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","PXN",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","RAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","RAC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","RBX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","RPS6KB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","SKP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TLR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TRADD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TRAF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Human immunodeficiency virus 1 infection","TRAF5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","BBC3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","CLTB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","COX4I1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","COX5A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","COX6A1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","COX6C",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","COX7A2L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","COX7B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","COX8A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","CYC1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","HDAC1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFA12",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFA6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFA8",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFB11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFB7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFB9",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","NDUFV2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","POLR2C",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","POLR2H",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","POLR2L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","SDHB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","SOD1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","UQCR11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","UQCRH",TRUE,TRUE,TRUE,FALSE,FALSE
+"Huntington disease","ACTR1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ADRM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","AP2M1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","AP2S1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5F1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5F1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5F1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5F1E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5MC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5MC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5PB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ATP5PF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","BECN1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","CASP8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","CLTA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","CLTC",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","COX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","COX4I2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","COX5B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","COX6B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","COX7A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","CREB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","CREB3L1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","CREB3L3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","CREB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","CYCS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","CYTB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","DCTN2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","DCTN5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","DNAH11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","DNAH7A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","GPX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","GPX7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","HDAC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","HIP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","KIF5B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFA9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFAB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFB10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFB6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFB8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFS2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFS4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFS5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFS6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFS7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFS8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","NDUFV3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","POLR2D",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","POLR2E",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","POLR2F",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","POLR2G",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","POLR2I",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PPARG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","PPIF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMA4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMA7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMB3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMB7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMC4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMC5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMD11",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMD12",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMD2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMD7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","PSMD8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","RCOR1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","REST",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","SEM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","SIN3A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","SLC25A4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","SLC25A5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","SLC25A6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","SOD2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TAF4B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TBPL1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TFAM",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TGM2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","TUBA1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TUBA1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TUBA4A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TUBB2A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","TUBB4A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","ULK2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","UQCR10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","UQCRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","UQCRFS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","UQCRHL",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","UQCRQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Huntington disease","VDAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","VDAC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Huntington disease","VDAC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IFNGR2",TRUE,TRUE,TRUE,TRUE,FALSE
+"JAK-STAT signaling pathway","IL27RA",TRUE,TRUE,TRUE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL4",TRUE,TRUE,TRUE,FALSE,FALSE
+"JAK-STAT signaling pathway","OSM",TRUE,TRUE,TRUE,TRUE,FALSE
+"JAK-STAT signaling pathway","PIM1",TRUE,TRUE,TRUE,TRUE,TRUE
+"JAK-STAT signaling pathway","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","BCL2",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","BCL2L1",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","CCND2",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","CCND3",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","CISH",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","CRLF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","CSF2",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","CSF2RB",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","CSF2RB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","CSF3R",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IFNAR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IFNGR1",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","IFNLR1",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL10RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL10RB",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL11RA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL12RB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL13",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL15RA",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","IL21R",TRUE,FALSE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","IL22",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL23A",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL23R",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL2RA",TRUE,FALSE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","IL2RB",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","IL2RG",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","IL3RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL4R",TRUE,FALSE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","IL4RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL5",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","IL9R",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","JAK2",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","JAK3",TRUE,FALSE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","LEPROT",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","LIF",FALSE,TRUE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","LIFR",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","MCL1",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","PTPN2",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","PTPN6",TRUE,FALSE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","SOCS1",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","SOCS2",FALSE,TRUE,FALSE,TRUE,TRUE
+"JAK-STAT signaling pathway","SOCS6",TRUE,FALSE,FALSE,TRUE,FALSE
+"JAK-STAT signaling pathway","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","STAT4",FALSE,TRUE,FALSE,FALSE,FALSE
+"JAK-STAT signaling pathway","STAT5A",TRUE,FALSE,FALSE,TRUE,FALSE
+"Mitophagy","ATF4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","BECN1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","BNIP3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","CSNK2A1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","CSNK2A2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","MFN2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","OPTN",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","PGAM5",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","TFE3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Mitophagy","AMFR",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","ATG5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","BCL2L1",FALSE,TRUE,FALSE,TRUE,TRUE
+"Mitophagy","BCL2L13",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","BNIP3L",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","CCZ1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","CITED2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","CSNK2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","E2F1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","EIF2S1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","FIS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","FUNDC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","GABARAP",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","GABARAPL2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","HUWE1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","MRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","MTX1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","MTX2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","MUL1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","RAB7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","RAB7A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","RAB7B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","RPS27A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","RRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","RRAS2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","SMURF2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","SQSTM1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","SRC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","TAX1BP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","TBK1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","TFEB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","TOMM20",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","TOMM40",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","TOMM7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","TOMM70",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","UBA52",TRUE,FALSE,FALSE,FALSE,FALSE
+"Mitophagy","UBB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Mitophagy","UBC",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","HCST",TRUE,TRUE,TRUE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","IFNGR2",TRUE,TRUE,TRUE,TRUE,FALSE
+"Natural killer cell mediated cytotoxicity","ITGB2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","LCP2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","NFATC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","BID",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","CD244",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","CD247",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","CD48",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","CSF2",FALSE,TRUE,FALSE,TRUE,FALSE
+"Natural killer cell mediated cytotoxicity","FAS",FALSE,TRUE,FALSE,FALSE,TRUE
+"Natural killer cell mediated cytotoxicity","FCER1G",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","FYN",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","GZMB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","H2-D1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","H2-K1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","H2-T23",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","HLA-A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","HLA-B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","HLA-C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","HLA-E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","ICAM1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","ICAM2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","IFNAR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","IFNGR1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Natural killer cell mediated cytotoxicity","KIR3DL2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","LAT",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","LAT2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","MAPK3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","NCR3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PPP3CC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PRF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PTK2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","PTPN6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","RAC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","TNFSF10",TRUE,FALSE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","VAV1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Natural killer cell mediated cytotoxicity","ZAP70",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","CYBA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Osteoclast differentiation","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"Osteoclast differentiation","FOSB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Osteoclast differentiation","FOSL2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Osteoclast differentiation","IFNGR2",TRUE,TRUE,TRUE,TRUE,FALSE
+"Osteoclast differentiation","JUNB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Osteoclast differentiation","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Osteoclast differentiation","RELB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Osteoclast differentiation","ACP5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","ATP2A2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","BLNK",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","CAMK4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","CSF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","CSF1R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","CTSK",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","CYLD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","FHL2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","FYN",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","GAB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","IFNAR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","IFNGR1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Osteoclast differentiation","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","IL1B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","IL1R1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","ITGB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","JUND",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","LCP2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","LILRA6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","NCF4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","NFATC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","NFKB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","NOX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PIRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PPARG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","RELA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","SIRPA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","SIRPG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","SOCS1",FALSE,TRUE,FALSE,TRUE,TRUE
+"Osteoclast differentiation","SQSTM1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TGFB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TGFBR1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TGFBR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TNFRSF11A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TNFRSF11B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TNFSF11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Osteoclast differentiation","TRAF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0D1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1G1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX17",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX4I1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX5A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX6A1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX6C",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX7A2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX7A2L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX7B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","COX8A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","CYC1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","LHPP",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA12",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA8",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB9",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFV2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","SDHB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","UQCR11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","UQCRH",TRUE,TRUE,TRUE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5F1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5F1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5F1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5F1E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5MC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5MC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5ME",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5MG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5PB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP5PF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6AP1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0A1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0A4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0D2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0E",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V0E1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1B2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1C1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1E1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1F",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1G2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ATP6V1H",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","COX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","COX10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","COX11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","COX15",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","COX4I2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","COX5B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","COX6B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","CYTB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ND1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ND2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ND4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ND5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","ND6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFA9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFAB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFB8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFS2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFS4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFS5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFS6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFS7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFS8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","NDUFV3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","PPA1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","PPA2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","UQCR10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","UQCRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","UQCRFS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","UQCRHL",TRUE,FALSE,FALSE,FALSE,FALSE
+"Oxidative phosphorylation","UQCRQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","COX4I1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","COX5A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","COX6A1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","COX6C",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","COX7A2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","COX7A2L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","COX7B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","COX8A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","CYC1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","HTRA2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFA1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFA12",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFA6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFA8",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFB11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFB7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFB9",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","NDUFV2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","PARK7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","PRKACA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","SDHB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","SLC18A2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","UBE2J1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","UBE2J2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","UQCR11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","UQCRH",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","VDAC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Parkinson disease","ADRM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATF4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5F1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5F1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5F1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5F1E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5MC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5MC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5PB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ATP5PF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","BAX",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","CALM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","CALM2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","CALM3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","COX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","COX4I2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","COX5B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","COX6A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","COX6B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","CYCS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","CYTB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","DUSP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","EIF2S1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","GNAI2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","GNAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ITPR3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","KEAP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","KIF5B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","MFN2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","ND1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","ND2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","ND4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","ND5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","ND6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFA9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFAB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFB10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFB4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFB6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFB8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFS2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFS4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFS5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFS6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFS7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFS8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","NDUFV3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","PPIF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMA4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMA7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMA8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMB3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMB7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMC4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMC5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMD11",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMD12",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMD2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMD7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","PSMD8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","RPS27A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SDHC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","SDHD",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","SEM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC25A4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC25A5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC25A6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC39A13",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC39A3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC39A4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC39A6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC39A7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SLC39A8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","SOD1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","TUBA1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","TUBA1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","TUBA4A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","TUBB2A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","TUBB4A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","TUBB4B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","TXN2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","UBA52",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","UBB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","UBC",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","UBE2G2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","UBE2L3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","UBE2L6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","UCHL1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","UQCR10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","UQCRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","UQCRFS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","UQCRHL",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","UQCRQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","VDAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Parkinson disease","VDAC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Parkinson disease","XBP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","BBC3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","CALM1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","ELOC",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","FOXO1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","GADD45B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","GNB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","GNG2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","HSP90B1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","IFNGR2",TRUE,TRUE,TRUE,TRUE,FALSE
+"Pathways in cancer","IL2RB",TRUE,TRUE,TRUE,TRUE,TRUE
+"Pathways in cancer","IL4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","PIK3CB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","PIM1",TRUE,TRUE,TRUE,TRUE,TRUE
+"Pathways in cancer","RARA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","TPM3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","VHL",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","ZBTB16",TRUE,TRUE,TRUE,FALSE,FALSE
+"Pathways in cancer","ADCY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ADCY4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ADCY7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","APPL1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","AR",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ARHGEF11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ARHGEF12",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ARNT2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","AXIN1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","BCL2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Pathways in cancer","BCL2L1",FALSE,TRUE,FALSE,TRUE,TRUE
+"Pathways in cancer","BCL2L11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","BID",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","BIRC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","BMP4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","BRCA2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","CALM3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Pathways in cancer","CCND2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Pathways in cancer","CCND3",FALSE,TRUE,FALSE,TRUE,FALSE
+"Pathways in cancer","CDH1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CDK4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","CDKN2A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CDKN2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CEBPA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","COL4A1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","COL4A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CSF1R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CSF2RB",FALSE,TRUE,FALSE,TRUE,FALSE
+"Pathways in cancer","CSF2RB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CSF3R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CTNNA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","CUL1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","CYCS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","DAPK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","DAPK3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","DDB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","DLL1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","E2F1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","E2F3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","EDNRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","EGLN2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","ELK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","ELOB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","EML4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","EPAS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ETS1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","F2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","F2R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","FAS",FALSE,TRUE,FALSE,FALSE,TRUE
+"Pathways in cancer","FGF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","FGF9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","FGFR3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","FH",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","FLT3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","FLT3L",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","FLT3LG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","FRAT2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","FZD10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","FZD6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","GADD45A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","GADD45G",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNA13",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNAI2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNG10",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNG4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GNG5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GSTO1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","GSTO2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","GSTP2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","HDAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","HDAC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","HEY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","HMOX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","HSP90AB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","IFNAR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IFNGR1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Pathways in cancer","IGF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IGF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL12RB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL15RA",FALSE,TRUE,FALSE,TRUE,FALSE
+"Pathways in cancer","IL23A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL23R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL2RA",TRUE,FALSE,FALSE,TRUE,TRUE
+"Pathways in cancer","IL2RG",FALSE,TRUE,FALSE,TRUE,FALSE
+"Pathways in cancer","IL3RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL4R",TRUE,FALSE,FALSE,TRUE,FALSE
+"Pathways in cancer","IL4RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ITGA2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ITGA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ITGAV",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ITGB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","JAG1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","JAK2",FALSE,TRUE,FALSE,TRUE,FALSE
+"Pathways in cancer","JAK3",TRUE,FALSE,FALSE,TRUE,TRUE
+"Pathways in cancer","KEAP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","KIF7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","KIT",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","LAMA5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","LAMB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","LAMC1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","LAMC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","LAMC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","LPAR1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","MAPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","MAPK3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","MDM2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","MGMT",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","MGST2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","MMP9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Pathways in cancer","NCOA4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","NFKB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","NOTCH1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","NOTCH2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","PDGFA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","PGF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","PIM2",FALSE,TRUE,FALSE,TRUE,TRUE
+"Pathways in cancer","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","PPARG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","PTGER2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","PTGER4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","PTK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RAC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RALA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RALGDS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RASGRP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RASGRP3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RASGRP4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RASSF5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RBX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RELA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RET",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","ROCK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RPS6KA5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RPS6KB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","RUNX1T1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RXRA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","RXRG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","SKP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","SKP2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","SLC2A1",FALSE,TRUE,FALSE,FALSE,TRUE
+"Pathways in cancer","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","STAT4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","STAT5A",TRUE,FALSE,FALSE,TRUE,FALSE
+"Pathways in cancer","TGFB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","TGFBR1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","TGFBR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","TRAF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","TRAF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","TRAF3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","TRAF4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Pathways in cancer","TRAF5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Pathways in cancer","WNT10B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ACTB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Proteoglycans in cancer","CD63",TRUE,TRUE,TRUE,FALSE,FALSE
+"Proteoglycans in cancer","FLNA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Proteoglycans in cancer","MSN",TRUE,TRUE,TRUE,FALSE,FALSE
+"Proteoglycans in cancer","PDCD4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Proteoglycans in cancer","PLAU",TRUE,TRUE,TRUE,FALSE,FALSE
+"Proteoglycans in cancer","ACTG1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ANK1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ANK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ARHGEF12",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Proteoglycans in cancer","CD44",TRUE,FALSE,FALSE,FALSE,TRUE
+"Proteoglycans in cancer","DCN",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","DDX5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ELK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","EZR",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","FGF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","FLNC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","FZD10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","FZD6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","HBEGF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","HCLS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","IGF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","IGF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ITGAV",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ITGB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ITGB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ITGB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ITPR3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","KDR",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MAPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MAPK3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MDM2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MMP9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Proteoglycans in cancer","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","NUDT16L1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PIK3CB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PLAUR",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PPP1CB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PPP1CC",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PPP1R12C",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PTK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PTPN11",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PTPN6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","PXN",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","RAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","ROCK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","RPS6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","RPS6KB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","RRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","RRAS2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","SDC1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","SDC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","SDC4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","SRC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","TFAP4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","TGFB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","TIAM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","TIMP3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","TLR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Proteoglycans in cancer","WNT10B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ACTB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","ADCY7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","CALM1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","ID1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","ITGB2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","LAT",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","LCP2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","MAP2K3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","PIK3CB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","PRKD2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","RALA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","RAP1A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","RAP1B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","RAP1GAP",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","SIPA1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","SKAP1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Rap1 signaling pathway","ACTG1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ADCY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ADCY3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ADCY4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ADORA2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ARAP3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","CALM3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","CDC42",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","CDH1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","CSF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","CSF1R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","DOCK4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","EPHA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","F2R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","FARP2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","FGF2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","FGF9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","FGFR3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","FLT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","GNAI2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","GNAO1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","GNAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","IGF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ITGA2B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ITGAM",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ITGB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","ITGB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","KDR",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","KIT",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","LPAR1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","MAGI1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","MAPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","MRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","P2RY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PARD3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PARD6B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PDGFA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PFN1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PFN2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PGF",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","PRKCZ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RAC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RALGDS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RAPGEF1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RAPGEF4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RASGRP3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RASSF5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RGS14",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","RRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","SIPA1L1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","SIPA1L2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","SRC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","TIAM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","TLN2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Rap1 signaling pathway","VASP",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","ADCY7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","ARRB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","ATF4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","GNA15",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","GNB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","GNG2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","PIK3CB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","TGFB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Relaxin signaling pathway","ADCY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","ADCY3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","ADCY4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","ARRB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","COL3A1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","COL4A1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","COL4A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","CREB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","CREB3L1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","CREB3L3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","CREB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","EDNRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNAI2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNAO1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNG10",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNG4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNG5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GNGT2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","MAPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","MMP2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","MMP9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","PRKCZ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","RLN3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","SRC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","TGFBR1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Relaxin signaling pathway","TGFBR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ADCY7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNG2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNG5",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA12",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB9",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFV2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ABHD6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ADCY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ADCY3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ADCY4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ADCY9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","CACNA1A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","CACNA1D",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","CACNA1S",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","DAGLA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","DAGLB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","FAAH",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GABRE",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNAI2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNAO1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNG10",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNG4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GNGT2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","GRIA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ITPR3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","MAPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","MGLL",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NAPEPLD",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ND1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ND2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ND4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ND5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","ND6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFA9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFAB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFB8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFS2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFS4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFS5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFS6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFS7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","NDUFV3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","SLC17A7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Retrograde endocannabinoid signaling","SLC32A1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL12",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL14",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL15",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL20",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL21",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL24",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL27",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPL33",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPS18A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","MRPS6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL13A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL14",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL17",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL18",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL18A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL19",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL22",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL23",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL27A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL30",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL32",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL35",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL35A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL36A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL37",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL37A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL38",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL39",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPL8",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPLP1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPLP2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS14",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS15A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS19",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS20",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS21",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS24",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS25",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS27L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS28",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RPS7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","RSL24D1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Ribosome","AURKAIP1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPL11",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPL17",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL18",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPL22",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPL28",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPL3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL30",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPL32",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPL36",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL37",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL39",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL40",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL41",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL47",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL49",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL51",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL54",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPL58",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPS10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPS12",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPS14",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPS15",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPS16",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPS18C",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPS2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPS21",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","MRPS23",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPS28",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPS30",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPS35",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPS7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","MRPS9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL10A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL12",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL15",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL21",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL22L1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL23A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL24",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL26",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL26L1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL27",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL31",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL34",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL36",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL36AL",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL39L",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL3L",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL41",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPL5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPL9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPLP0",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS12",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS13",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS15",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS16",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS17",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS18",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS23",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS26",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS27",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS27A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS29",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS3A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS3A1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS4X",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Ribosome","RPS8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPS9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","RPSA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Ribosome","UBA52",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"T cell receptor signaling pathway","ICOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"T cell receptor signaling pathway","IL4",TRUE,TRUE,TRUE,FALSE,FALSE
+"T cell receptor signaling pathway","ITK",TRUE,TRUE,TRUE,FALSE,FALSE
+"T cell receptor signaling pathway","LCP2",TRUE,TRUE,TRUE,FALSE,FALSE
+"T cell receptor signaling pathway","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"T cell receptor signaling pathway","RASGRP1",TRUE,TRUE,TRUE,FALSE,FALSE
+"T cell receptor signaling pathway","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","BCL10",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CARD11",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CD247",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CD3D",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CD8A",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CD8B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CDC42",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CDK4",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","CSF2",FALSE,TRUE,FALSE,TRUE,FALSE
+"T cell receptor signaling pathway","FYN",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","IL5",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MALT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MAP3K7",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MAP3K8",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MAPK3",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","NFATC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","NFATC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","NFKBIB",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PAK6",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PDCD1",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PIK3CB",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PIK3R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PPP3CC",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PRKCQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","PTPN6",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","RELA",TRUE,FALSE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","TNF",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","VAV1",FALSE,TRUE,FALSE,FALSE,FALSE
+"T cell receptor signaling pathway","ZAP70",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","GATA3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","IFNGR2",TRUE,TRUE,TRUE,TRUE,FALSE
+"Th1 and Th2 cell differentiation","IL4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","JAK3",TRUE,TRUE,TRUE,TRUE,TRUE
+"Th1 and Th2 cell differentiation","MAF",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","NFATC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","NFKB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","RELA",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","RUNX3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","CD247",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","CD3D",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","DLL1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","H2-AA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","H2-AB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","H2-DMB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","H2-DMB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","H2-EB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","H2-OA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","IFNGR1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Th1 and Th2 cell differentiation","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","IKBKG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","IL12RB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","IL13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","IL2RA",TRUE,FALSE,FALSE,TRUE,TRUE
+"Th1 and Th2 cell differentiation","IL2RB",FALSE,TRUE,FALSE,TRUE,TRUE
+"Th1 and Th2 cell differentiation","IL2RG",FALSE,TRUE,FALSE,TRUE,FALSE
+"Th1 and Th2 cell differentiation","IL4R",TRUE,FALSE,FALSE,TRUE,FALSE
+"Th1 and Th2 cell differentiation","IL4RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","IL5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","JAG1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","JAK2",FALSE,TRUE,FALSE,TRUE,FALSE
+"Th1 and Th2 cell differentiation","LAT",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","MAML3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","NFATC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","NFKBIB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","NOTCH2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","PPP3CC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","PRKCQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","RBPJ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","STAT4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","STAT5A",TRUE,FALSE,FALSE,TRUE,FALSE
+"Th1 and Th2 cell differentiation","TBX21",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th1 and Th2 cell differentiation","ZAP70",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","FOS",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th17 cell differentiation","GATA3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th17 cell differentiation","IFNGR2",TRUE,TRUE,TRUE,TRUE,FALSE
+"Th17 cell differentiation","IL4",TRUE,TRUE,TRUE,FALSE,FALSE
+"Th17 cell differentiation","CD247",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","FOXP3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","H2-AA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","H2-AB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","H2-DMB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","H2-DMB2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","H2-EB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","H2-OA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IFNGR1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Th17 cell differentiation","IKBKB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL12RB1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL17F",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL1B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL1R1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL21R",TRUE,FALSE,FALSE,TRUE,FALSE
+"Th17 cell differentiation","IL22",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL23A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL23R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL27RA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL2RA",TRUE,FALSE,FALSE,TRUE,TRUE
+"Th17 cell differentiation","IL2RB",FALSE,TRUE,FALSE,TRUE,TRUE
+"Th17 cell differentiation","IL2RG",FALSE,TRUE,FALSE,TRUE,FALSE
+"Th17 cell differentiation","IL4R",TRUE,FALSE,FALSE,TRUE,FALSE
+"Th17 cell differentiation","IL4RA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","IRF4",FALSE,TRUE,FALSE,FALSE,TRUE
+"Th17 cell differentiation","JAK3",TRUE,FALSE,FALSE,TRUE,TRUE
+"Th17 cell differentiation","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","MAPK9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","NFATC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","NFATC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","NFKB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","NFKBIA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","PRKCQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","RARA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","RELA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","RORA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","RORC",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","RXRA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","RXRG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","STAT3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","STAT5A",TRUE,FALSE,FALSE,TRUE,FALSE
+"Th17 cell differentiation","TGFB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","TGFBR1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","TGFBR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Th17 cell differentiation","ZAP70",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ACSL5",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","ACTB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","ADCY7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX17",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX4I1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX5A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX6A1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX6C",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX7A2L",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX7B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","COX8A",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","CYC1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","DPF3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","MAP2K3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFA12",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFA6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFA8",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFB11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFB7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFB9",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFS3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","NDUFV2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","PRKAB1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","SDHB",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","UQCR11",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","UQCRH",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thermogenesis","ACSL4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ACTG1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ACTL6A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ADCY1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ADCY3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ADCY4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ADCY9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5F1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5F1B",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5F1C",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5F1E",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5MC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5MC3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5MG",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5PB",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","ATP5PF",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","COA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COA4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX14",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX16",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","COX19",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","COX20",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX4I2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX5B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX6B1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","COX7A2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","CPT1A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","CPT2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","CREB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","CREB3L1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","CREB3L3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","CREB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","CYTB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","GNAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","GRB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","LIPE",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","MAP3K5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","MGLL",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ND1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ND2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ND4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ND5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ND6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA11",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA13",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFA9",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFAB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFAF2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFAF6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFAF8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFB10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFB3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFB5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFB6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFB8",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFS2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFS4",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFS5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFS6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFS7",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFS8",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","NDUFV3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NPR1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","PNPLA2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","PPARG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","PRKAA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","PRKAG1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","PRKAG2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","RPS6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","RPS6KA1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","RPS6KA3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","RPS6KB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","SIRT6",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","SLC25A20",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","SLC25A29",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","SMARCA2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","SMARCC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","SMARCD2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","SMARCD3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","UQCR10",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","UQCRB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","UQCRFS1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","UQCRHL",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thermogenesis","UQCRQ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thermogenesis","ZFP516",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thyroid cancer","GADD45B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thyroid cancer","TPM3",TRUE,TRUE,TRUE,FALSE,FALSE
+"Thyroid cancer","CCND1",FALSE,TRUE,FALSE,TRUE,FALSE
+"Thyroid cancer","CDH1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","DDB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thyroid cancer","GADD45A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","GADD45G",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","MAP2K1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thyroid cancer","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","MAPK3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thyroid cancer","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Thyroid cancer","NCOA4",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thyroid cancer","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"Thyroid cancer","PPARG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","RET",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","RXRA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Thyroid cancer","RXRG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","BAX",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","DUSP6",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","FOXO1",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","GADD45B",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","ID2",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","ITGB7",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","MAF",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","PLAU",TRUE,TRUE,TRUE,FALSE,FALSE
+"Transcriptional misregulation in cancer","ARNT2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","ATF1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","BCL2A1B",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","BCL2A1D",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","BCL2L1",FALSE,TRUE,FALSE,TRUE,TRUE
+"Transcriptional misregulation in cancer","BIRC3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","CD40",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","CD86",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","CEBPA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","CEBPB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","CEBPE",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","CSF1R",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","CSF2",FALSE,TRUE,FALSE,TRUE,FALSE
+"Transcriptional misregulation in cancer","DDB2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","DDIT3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","ETV5",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","FLT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","FLT3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","GADD45A",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","GADD45G",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","GZMB",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","HDAC2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","IGF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","IL1R2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","IL2RB",FALSE,TRUE,FALSE,TRUE,TRUE
+"Transcriptional misregulation in cancer","IL6",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","ITGAM",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","MDM2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","MLF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","MMP9",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","MYC",TRUE,FALSE,FALSE,TRUE,TRUE
+"Transcriptional misregulation in cancer","NFKB1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","NFKBIZ",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","NR4A3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","NUPR1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","PAX5",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","PBX3",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","PER2",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","PPARG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","PROM1",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","PTK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","RARA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","REL",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","RELA",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","RUNX1T1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","RXRA",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","RXRG",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","SIN3A",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","SS18",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","TFE3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","TGFBR2",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","TLX3",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","TRAF1",FALSE,TRUE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","TSPAN7",TRUE,FALSE,FALSE,FALSE,FALSE
+"Transcriptional misregulation in cancer","ZBTB16",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","CDC42",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","MAP2K1",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","MAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","MAPKAPK2",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","MAPKAPK3",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","NFATC2",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","PIK3CB",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","PIK3R2",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","PPP3CC",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","SH2D2A",TRUE,TRUE,TRUE,FALSE,FALSE
+"VEGF signaling pathway","AKT1",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","AKT2",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","BAD",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","HRAS",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","KDR",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","KRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","MAP2K2",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","MAPK1",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","MAPK13",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","NRAS",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PIK3CD",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PIK3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PIK3R3",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PLA2G4F",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PLCG2",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PPP3CA",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PPP3R1",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PRKCA",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PRKCG",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PTK2",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","PXN",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","RAC1",TRUE,FALSE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","RAC2",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","SRC",FALSE,TRUE,FALSE,FALSE,FALSE
+"VEGF signaling pathway","VEGFA",TRUE,FALSE,FALSE,FALSE,FALSE

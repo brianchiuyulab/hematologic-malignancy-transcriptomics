@@ -1,0 +1,205 @@
+"gene","shared_pathways_n","pathways","STAT5_axis_gene","curated_STAT5_target"
+"NFKB1",12,"Acute myeloid leukemia;B cell receptor signaling pathway;Epstein-Barr virus infection;HIF-1 signaling pathway;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection;Osteoclast differentiation;Pathways in cancer;Relaxin signaling pathway;T cell receptor signaling pathway;Th1 and Th2 cell differentiation",FALSE,FALSE
+"MAPK3",11,"Alzheimer disease;B cell receptor signaling pathway;HIF-1 signaling pathway;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection;Rap1 signaling pathway;Relaxin signaling pathway;Retrograde endocannabinoid signaling;Th1 and Th2 cell differentiation;VEGF signaling pathway",FALSE,FALSE
+"FOS",9,"B cell receptor signaling pathway;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection;Osteoclast differentiation;Pathways in cancer;Relaxin signaling pathway;T cell receptor signaling pathway;Th1 and Th2 cell differentiation;Th17 cell differentiation",FALSE,FALSE
+"RELA",9,"B cell receptor signaling pathway;Epstein-Barr virus infection;HIF-1 signaling pathway;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection;Mitophagy;Relaxin signaling pathway;Th1 and Th2 cell differentiation",FALSE,FALSE
+"BAX",8,"Epstein-Barr virus infection;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection;Huntington disease;Pathways in cancer;Thyroid cancer;Transcriptional misregulation in cancer",FALSE,FALSE
+"IFNGR2",7,"HIF-1 signaling pathway;JAK-STAT signaling pathway;Natural killer cell mediated cytotoxicity;Osteoclast differentiation;Pathways in cancer;Th1 and Th2 cell differentiation;Th17 cell differentiation",TRUE,FALSE
+"NFATC2",7,"B cell receptor signaling pathway;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection;Natural killer cell mediated cytotoxicity;Th1 and Th2 cell differentiation;VEGF signaling pathway",FALSE,FALSE
+"ADCY7",6,"Human cytomegalovirus infection;Human T-cell leukemia virus 1 infection;Rap1 signaling pathway;Relaxin signaling pathway;Retrograde endocannabinoid signaling;Thermogenesis",FALSE,FALSE
+"COX4I1",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"COX5A",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"COX6A1",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"COX6C",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"COX7A2L",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"COX8A",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"CYC1",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"NDUFA12",6,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Retrograde endocannabinoid signaling;Thermogenesis",FALSE,FALSE
+"NDUFA6",6,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Retrograde endocannabinoid signaling;Thermogenesis",FALSE,FALSE
+"NDUFB7",6,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Retrograde endocannabinoid signaling;Thermogenesis",FALSE,FALSE
+"NDUFB9",6,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Retrograde endocannabinoid signaling;Thermogenesis",FALSE,FALSE
+"NDUFS3",6,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Retrograde endocannabinoid signaling;Thermogenesis",FALSE,FALSE
+"NDUFV2",6,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Retrograde endocannabinoid signaling;Thermogenesis",FALSE,FALSE
+"PIK3CB",6,"Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Pathways in cancer;Rap1 signaling pathway;Relaxin signaling pathway;VEGF signaling pathway",FALSE,FALSE
+"UQCRH",6,"Alzheimer disease;Cardiac muscle contraction;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"CALM1",5,"Alzheimer disease;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Pathways in cancer;Rap1 signaling pathway",FALSE,FALSE
+"COX7B",5,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"GNB1",5,"Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Pathways in cancer;Relaxin signaling pathway;Retrograde endocannabinoid signaling",FALSE,FALSE
+"GNG2",5,"Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Pathways in cancer;Relaxin signaling pathway;Retrograde endocannabinoid signaling",FALSE,FALSE
+"IL4",5,"JAK-STAT signaling pathway;Pathways in cancer;T cell receptor signaling pathway;Th1 and Th2 cell differentiation;Th17 cell differentiation",FALSE,FALSE
+"NDUFA8",5,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"NDUFB11",5,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"SDHB",5,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"UQCR11",5,"Alzheimer disease;Huntington disease;Oxidative phosphorylation;Parkinson disease;Thermogenesis",FALSE,FALSE
+"ATF4",4,"Human cytomegalovirus infection;Human T-cell leukemia virus 1 infection;Mitophagy;Relaxin signaling pathway",FALSE,FALSE
+"B2M",4,"Epstein-Barr virus infection;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection",FALSE,FALSE
+"CALR",4,"Epstein-Barr virus infection;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Human T-cell leukemia virus 1 infection",FALSE,FALSE
+"GADD45B",4,"Epstein-Barr virus infection;Pathways in cancer;Thyroid cancer;Transcriptional misregulation in cancer",FALSE,FALSE
+"MAP2K1",4,"HIF-1 signaling pathway;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;VEGF signaling pathway",FALSE,FALSE
+"MAP2K3",4,"Epstein-Barr virus infection;Human immunodeficiency virus 1 infection;Rap1 signaling pathway;Thermogenesis",FALSE,FALSE
+"ACTB",3,"Proteoglycans in cancer;Rap1 signaling pathway;Thermogenesis",FALSE,FALSE
+"ELOC",3,"HIF-1 signaling pathway;Human immunodeficiency virus 1 infection;Pathways in cancer",FALSE,FALSE
+"GNG5",3,"Human cytomegalovirus infection;Human immunodeficiency virus 1 infection;Retrograde endocannabinoid signaling",FALSE,FALSE
+"ITGB2",3,"Human T-cell leukemia virus 1 infection;Natural killer cell mediated cytotoxicity;Rap1 signaling pathway",FALSE,FALSE
+"JAK3",3,"Epstein-Barr virus infection;Human T-cell leukemia virus 1 infection;Th1 and Th2 cell differentiation",TRUE,TRUE
+"LCP2",3,"Natural killer cell mediated cytotoxicity;Rap1 signaling pathway;T cell receptor signaling pathway",FALSE,FALSE
+"PIM1",3,"Acute myeloid leukemia;JAK-STAT signaling pathway;Pathways in cancer",TRUE,TRUE
+"RELB",3,"Epstein-Barr virus infection;Human T-cell leukemia virus 1 infection;Osteoclast differentiation",FALSE,FALSE
+"TAP1",3,"Epstein-Barr virus infection;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection",FALSE,FALSE
+"TAP2",3,"Epstein-Barr virus infection;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection",FALSE,FALSE
+"TAPBP",3,"Epstein-Barr virus infection;Human cytomegalovirus infection;Human immunodeficiency virus 1 infection",FALSE,FALSE
+"TPM3",3,"Cardiac muscle contraction;Pathways in cancer;Thyroid cancer",FALSE,FALSE
+"BBC3",2,"Huntington disease;Pathways in cancer",FALSE,FALSE
+"COX17",2,"Oxidative phosphorylation;Thermogenesis",FALSE,FALSE
+"COX7A2",2,"Oxidative phosphorylation;Parkinson disease",FALSE,FALSE
+"DUSP6",2,"Acute myeloid leukemia;Transcriptional misregulation in cancer",FALSE,FALSE
+"FOXO1",2,"Pathways in cancer;Transcriptional misregulation in cancer",FALSE,FALSE
+"GATA3",2,"Th1 and Th2 cell differentiation;Th17 cell differentiation",FALSE,FALSE
+"IL1B",2,"Alzheimer disease;Human cytomegalovirus infection",FALSE,FALSE
+"MAF",2,"Th1 and Th2 cell differentiation;Transcriptional misregulation in cancer",FALSE,FALSE
+"MYD88",2,"Epstein-Barr virus infection;Human immunodeficiency virus 1 infection",FALSE,FALSE
+"NDUFA1",2,"Oxidative phosphorylation;Parkinson disease",FALSE,FALSE
+"PDIA3",2,"Human cytomegalovirus infection;Human immunodeficiency virus 1 infection",FALSE,FALSE
+"PLAU",2,"Proteoglycans in cancer;Transcriptional misregulation in cancer",FALSE,FALSE
+"PPP3CC",2,"Alzheimer disease;VEGF signaling pathway",FALSE,FALSE
+"RARA",2,"Acute myeloid leukemia;Pathways in cancer",FALSE,FALSE
+"RIPK1",2,"Human cytomegalovirus infection;Human immunodeficiency virus 1 infection",FALSE,FALSE
+"RUNX3",2,"Epstein-Barr virus infection;Th1 and Th2 cell differentiation",FALSE,FALSE
+"TGFB1",2,"Human T-cell leukemia virus 1 infection;Relaxin signaling pathway",FALSE,FALSE
+"ACSL5",1,"Thermogenesis",FALSE,FALSE
+"ALDOA",1,"HIF-1 signaling pathway",FALSE,FALSE
+"ANAPC11",1,"Human T-cell leukemia virus 1 infection",FALSE,FALSE
+"ARRB1",1,"Relaxin signaling pathway",FALSE,FALSE
+"ATP6V0B",1,"Oxidative phosphorylation",FALSE,FALSE
+"ATP6V0D1",1,"Oxidative phosphorylation",FALSE,FALSE
+"ATP6V1G1",1,"Oxidative phosphorylation",FALSE,FALSE
+"BECN1",1,"Mitophagy",FALSE,FALSE
+"BNIP3",1,"Mitophagy",FALSE,FALSE
+"CAPN2",1,"Alzheimer disease",FALSE,FALSE
+"CD44",1,"Epstein-Barr virus infection",FALSE,TRUE
+"CD63",1,"Proteoglycans in cancer",FALSE,FALSE
+"CD81",1,"B cell receptor signaling pathway",FALSE,FALSE
+"CDC42",1,"VEGF signaling pathway",FALSE,FALSE
+"CFL1",1,"Human immunodeficiency virus 1 infection",FALSE,FALSE
+"CLTB",1,"Huntington disease",FALSE,FALSE
+"CRTC3",1,"Human T-cell leukemia virus 1 infection",FALSE,FALSE
+"CSNK2A1",1,"Mitophagy",FALSE,FALSE
+"CSNK2A2",1,"Mitophagy",FALSE,FALSE
+"CYBA",1,"Osteoclast differentiation",FALSE,FALSE
+"DPF3",1,"Thermogenesis",FALSE,FALSE
+"EGLN2",1,"HIF-1 signaling pathway",FALSE,FALSE
+"EGR1",1,"Human T-cell leukemia virus 1 infection",FALSE,FALSE
+"EIF4E2",1,"HIF-1 signaling pathway",FALSE,FALSE
+"ENO1",1,"HIF-1 signaling pathway",FALSE,FALSE
+"FLNA",1,"Proteoglycans in cancer",FALSE,FALSE
+"FOSB",1,"Osteoclast differentiation",FALSE,FALSE
+"FOSL2",1,"Osteoclast differentiation",FALSE,FALSE
+"GNA15",1,"Relaxin signaling pathway",FALSE,FALSE
+"HCST",1,"Natural killer cell mediated cytotoxicity",FALSE,FALSE
+"HDAC1",1,"Huntington disease",FALSE,FALSE
+"HSP90B1",1,"Pathways in cancer",FALSE,FALSE
+"HTRA2",1,"Parkinson disease",FALSE,FALSE
+"ICOS",1,"T cell receptor signaling pathway",FALSE,FALSE
+"ID1",1,"Rap1 signaling pathway",FALSE,FALSE
+"ID2",1,"Transcriptional misregulation in cancer",FALSE,FALSE
+"IFITM1",1,"B cell receptor signaling pathway",FALSE,FALSE
+"IL27RA",1,"JAK-STAT signaling pathway",FALSE,FALSE
+"IL2RB",1,"Pathways in cancer",TRUE,TRUE
+"ITGB7",1,"Transcriptional misregulation in cancer",FALSE,FALSE
+"ITK",1,"T cell receptor signaling pathway",FALSE,FALSE
+"JUNB",1,"Osteoclast differentiation",FALSE,FALSE
+"LAT",1,"Rap1 signaling pathway",FALSE,FALSE
+"LDHA",1,"HIF-1 signaling pathway",FALSE,FALSE
+"LHPP",1,"Oxidative phosphorylation",FALSE,FALSE
+"MAPKAPK2",1,"VEGF signaling pathway",FALSE,FALSE
+"MAPKAPK3",1,"VEGF signaling pathway",FALSE,FALSE
+"MDM2",1,"Human cytomegalovirus infection",FALSE,FALSE
+"MFN2",1,"Mitophagy",FALSE,FALSE
+"MRPL12",1,"Ribosome",FALSE,FALSE
+"MRPL14",1,"Ribosome",FALSE,FALSE
+"MRPL15",1,"Ribosome",FALSE,FALSE
+"MRPL2",1,"Ribosome",FALSE,FALSE
+"MRPL20",1,"Ribosome",FALSE,FALSE
+"MRPL21",1,"Ribosome",FALSE,FALSE
+"MRPL24",1,"Ribosome",FALSE,FALSE
+"MRPL27",1,"Ribosome",FALSE,FALSE
+"MRPL33",1,"Ribosome",FALSE,FALSE
+"MRPS18A",1,"Ribosome",FALSE,FALSE
+"MRPS6",1,"Ribosome",FALSE,FALSE
+"MSN",1,"Proteoglycans in cancer",FALSE,FALSE
+"NAE1",1,"Alzheimer disease",FALSE,FALSE
+"OAS3",1,"Epstein-Barr virus infection",FALSE,FALSE
+"OPTN",1,"Mitophagy",FALSE,FALSE
+"OSM",1,"JAK-STAT signaling pathway",TRUE,FALSE
+"PARK7",1,"Parkinson disease",FALSE,FALSE
+"PDCD4",1,"Proteoglycans in cancer",FALSE,FALSE
+"PGAM5",1,"Mitophagy",FALSE,FALSE
+"PGK1",1,"HIF-1 signaling pathway",FALSE,FALSE
+"PIK3R2",1,"VEGF signaling pathway",FALSE,FALSE
+"POLR2C",1,"Huntington disease",FALSE,FALSE
+"POLR2H",1,"Huntington disease",FALSE,FALSE
+"POLR2L",1,"Huntington disease",FALSE,FALSE
+"PRKAB1",1,"Thermogenesis",FALSE,FALSE
+"PRKACA",1,"Parkinson disease",FALSE,FALSE
+"PRKD2",1,"Rap1 signaling pathway",FALSE,FALSE
+"PSMC5",1,"Epstein-Barr virus infection",FALSE,FALSE
+"PSMD8",1,"Epstein-Barr virus infection",FALSE,FALSE
+"RALA",1,"Rap1 signaling pathway",FALSE,FALSE
+"RANBP3",1,"Human T-cell leukemia virus 1 infection",FALSE,FALSE
+"RAP1A",1,"Rap1 signaling pathway",FALSE,FALSE
+"RAP1B",1,"Rap1 signaling pathway",FALSE,FALSE
+"RAP1GAP",1,"Rap1 signaling pathway",FALSE,FALSE
+"RASGRP1",1,"T cell receptor signaling pathway",FALSE,FALSE
+"RPL11",1,"Ribosome",FALSE,FALSE
+"RPL13A",1,"Ribosome",FALSE,FALSE
+"RPL14",1,"Ribosome",FALSE,FALSE
+"RPL17",1,"Ribosome",FALSE,FALSE
+"RPL18",1,"Ribosome",FALSE,FALSE
+"RPL18A",1,"Ribosome",FALSE,FALSE
+"RPL19",1,"Ribosome",FALSE,FALSE
+"RPL22",1,"Ribosome",FALSE,FALSE
+"RPL23",1,"Ribosome",FALSE,FALSE
+"RPL27A",1,"Ribosome",FALSE,FALSE
+"RPL30",1,"Ribosome",FALSE,FALSE
+"RPL32",1,"Ribosome",FALSE,FALSE
+"RPL35",1,"Ribosome",FALSE,FALSE
+"RPL35A",1,"Ribosome",FALSE,FALSE
+"RPL36A",1,"Ribosome",FALSE,FALSE
+"RPL37",1,"Ribosome",FALSE,FALSE
+"RPL37A",1,"Ribosome",FALSE,FALSE
+"RPL38",1,"Ribosome",FALSE,FALSE
+"RPL39",1,"Ribosome",FALSE,FALSE
+"RPL4",1,"Ribosome",FALSE,FALSE
+"RPL7",1,"Ribosome",FALSE,FALSE
+"RPL8",1,"Ribosome",FALSE,FALSE
+"RPLP1",1,"Ribosome",FALSE,FALSE
+"RPLP2",1,"Ribosome",FALSE,FALSE
+"RPS14",1,"Ribosome",FALSE,FALSE
+"RPS15A",1,"Ribosome",FALSE,FALSE
+"RPS19",1,"Ribosome",FALSE,FALSE
+"RPS20",1,"Ribosome",FALSE,FALSE
+"RPS21",1,"Ribosome",FALSE,FALSE
+"RPS24",1,"Ribosome",FALSE,FALSE
+"RPS25",1,"Ribosome",FALSE,FALSE
+"RPS27L",1,"Ribosome",FALSE,FALSE
+"RPS28",1,"Ribosome",FALSE,FALSE
+"RPS3",1,"Ribosome",FALSE,FALSE
+"RPS7",1,"Ribosome",FALSE,FALSE
+"RSL24D1",1,"Ribosome",FALSE,FALSE
+"SAMHD1",1,"Human immunodeficiency virus 1 infection",FALSE,FALSE
+"SH2D2A",1,"VEGF signaling pathway",FALSE,FALSE
+"SIPA1",1,"Rap1 signaling pathway",FALSE,FALSE
+"SKAP1",1,"Rap1 signaling pathway",FALSE,FALSE
+"SLC18A2",1,"Parkinson disease",FALSE,FALSE
+"SOD1",1,"Huntington disease",FALSE,FALSE
+"TFE3",1,"Mitophagy",FALSE,FALSE
+"TFRC",1,"HIF-1 signaling pathway",FALSE,FALSE
+"TNFRSF1B",1,"Human immunodeficiency virus 1 infection",FALSE,FALSE
+"TPM4",1,"Cardiac muscle contraction",FALSE,FALSE
+"UBE2J1",1,"Parkinson disease",FALSE,FALSE
+"UBE2J2",1,"Parkinson disease",FALSE,FALSE
+"VDAC2",1,"Parkinson disease",FALSE,FALSE
+"VHL",1,"Pathways in cancer",FALSE,FALSE
+"VIM",1,"Epstein-Barr virus infection",FALSE,FALSE
+"ZBTB16",1,"Pathways in cancer",FALSE,FALSE
+"ZFP36",1,"Human T-cell leukemia virus 1 infection",FALSE,FALSE

@@ -1,0 +1,8 @@
+"issue_in_previous_package","correction_in_publication_suite"
+"Diagnosis and relapse were sometimes distinguished by color alone","Condition is distinguished by color plus point shape and fill"
+"Nominal P values could be mistaken for FDR significance","Nominal P and FDR are printed together; pathway and gene statistics are separated"
+"GO figures contained many redundant or biologically distracting terms","Main GO figure uses a documented nonredundant selection; complete results remain in CSV"
+"The primary UMAP also displayed obsolete top-50% thresholds","Main UMAP highlights only the pre-specified CNV-high top-25% population"
+"Proteasome and mitophagy heatmaps mixed pathway and gene-level significance","No gene-level stars are shown because no selected gene passes FDR; pathway FDR has its own panel"
+"Sensitivity plots used underscored analysis labels and similar encodings","Human-readable labels, a common NES scale and a black outline for the primary population are used"
+"Several main figures duplicated the same GSEA result","Each biological conclusion now has one main figure; redundant and thresholded ORA plots are removed"

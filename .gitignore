@@ -1,0 +1,21 @@
+# Local and large analysis inputs
+**/03_Raw_Data/*
+!**/03_Raw_Data/README.md
+**/04_R_Objects/*
+!**/04_R_Objects/README.md
+
+# Reproduction and temporary outputs
+**/_reproduction_run/
+**/.codex-finalizer/
+**/.codex-presentation-validation/
+**/publication_review/
+**/ppt_rendered*/
+
+# Common generated files
+.Rhistory
+.RData
+.Rproj.user/
+*.tmp
+~$*.pptx
+Thumbs.db
+.DS_Store

@@ -1,0 +1,5 @@
+* text=auto
+*.png binary
+*.pptx binary
+*.rds binary
+*.RData binary

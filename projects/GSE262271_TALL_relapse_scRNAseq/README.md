@@ -1,0 +1,60 @@
+# GSE262271 T-ALL paired diagnosis and relapse scRNA-seq analysis
+
+Clean final package for the paired diagnosis–relapse single-cell RNA-seq analysis of GSE262271.
+
+## Biological question
+
+The analysis asks whether the most CNV-aberrant T-lineage cells at relapse show coordinated transcriptional programs that may connect constitutive STAT5 activity with mitochondrial quality control and proteostasis. The working model is that mitochondrial STAT5 activity could support an oxidative, mitophagy-associated and proteasome-associated state. These data test association and pathway direction. They do not by themselves prove mitochondrial localization, direct STAT5 regulation, drug resistance or therapeutic dependency.
+
+## Primary analysis population
+
+“Potential malignant T cells” are defined as the **CNV-high top 25% within candidate malignant T-lineage cells**, using inferCNV burden estimated against non-T reference populations. This is an operational enrichment strategy, not a definitive clinical malignant-cell call.
+
+- 3 patients with paired diagnosis and relapse samples
+- 3,207 cells in the primary CNV-high top-25% population
+- Differential expression used patient-level pseudobulk counts
+- Paired edgeR design: ~ patient_pair + condition_simple
+- GSEA ranking: sign(logFC) × sqrt(F)
+- Primary confirmatory threshold: FDR < 0.05
+- Exploratory pathway threshold: FDR < 0.10
+
+## Key findings
+
+- Relapse showed strong positive KEGG enrichment for oxidative phosphorylation, ribosome/ribosome biogenesis, DNA replication and spliceosome.
+- KEGG mitophagy was relapse-up at NES 1.44, FDR 0.0998. This meets the pre-specified exploratory FDR < 0.10 threshold.
+- KEGG proteasome was relapse-up at NES 1.53, FDR 0.109. This is a near-threshold trend, not an FDR < 0.10 hit.
+- General autophagy was not significant.
+- Custom STAT5 downstream gene sets were directionally positive but not significant.
+- In the independent STAT5B N642H bulk RNA-seq dataset, oxidative phosphorylation, mitophagy and proteasome were also positively enriched.
+- At KEGG FDR < 0.10, 28 pathways were enriched in the same upward direction in both datasets and none were shared in the downward direction.
+- The primary population proportion was heterogeneous across patients and did not show a consistent relapse increase (exact paired Wilcoxon P = 0.75).
+
+## Publication figure standard
+
+The final figure suite was rebuilt in September 2026. Diagnosis and relapse use both different colors and different point shapes. Every inferential figure distinguishes FDR < 0.05, exploratory FDR < 0.10 and non-significant results. Gene-level and pathway-level statistics are never mixed. The complete review record is in `01_Figures/FIGURE_AUDIT.csv`.
+
+## Folder map
+
+| Folder | Contents |
+|---|---|
+| 01_Figures | Main, supplementary and sensitivity figures |
+| 02_Tables | Curated key results, complete result tables, sensitivity checks and method inputs |
+| 03_Raw_Data | GEO raw archive and source metadata |
+| 04_R_Objects | Final Seurat object and inferCNV objects/support files |
+| 05_Code_Availability | Exact R scripts, run order, environment records and GitHub notes |
+| 06_Handoff_PPT | Lab handoff presentation |
+
+Start with the PPT, then use `01_Figures/FIGURE_INDEX.csv` and `02_Tables/TABLE_GUIDE.csv`. The eight main figures are the recommended reading order. Supplementary and sensitivity figures are separated physically and by filename.
+
+## Interpretation boundary
+
+The central result is a reproducible pathway-level association between relapse and an oxidative/proteostasis program. The paired sample size is only three patients. Gene-level tests are underpowered and many individual genes are not significant even when GSEA is significant. Functional validation is required to distinguish dependency, adaptation and resistance.
+
+## Data provenance
+
+- Single-cell dataset: GEO GSE262271
+- External validation: GSE218858 STAT5B N642H bulk RNA-seq
+- Analysis date: July 2026
+- Publication-figure and handoff revision: September 2026
+
+This dataset is one analysis module within the broader hematologic malignancy project repository. Large raw and R object files are intentionally excluded from GitHub by `.gitignore`. Their local locations and checksums remain documented in the handoff package.

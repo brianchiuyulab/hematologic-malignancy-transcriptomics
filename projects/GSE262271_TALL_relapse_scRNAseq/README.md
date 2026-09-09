@@ -28,6 +28,9 @@ The analysis asks whether the most CNV-aberrant T-lineage cells at relapse show 
 - In the independent STAT5B N642H bulk RNA-seq dataset, oxidative phosphorylation, mitophagy and proteasome were also positively enriched.
 - At KEGG FDR < 0.10, 28 pathways were enriched in the same upward direction in both datasets and none were shared in the downward direction.
 - The primary population proportion was heterogeneous across patients and did not show a consistent relapse increase (exact paired Wilcoxon P = 0.75).
+- Across 25 predefined sensitivity settings, proteasome and mitophagy NES remained relapse-up in 25/25 settings, but global KEGG FDR < 0.10 was reached in only 10/25 and 6/25 settings, respectively. Direction is robust; threshold-level significance is not.
+- Three full-N=3 sensitivity settings placed both pathways below global KEGG FDR 0.10: sample-stratified CNV top 25%, mitochondrial RNA < 4%, and a combined strict-QC rule. These remain sensitivity findings and do not replace the fixed primary analysis.
+- A larger targeted multiverse enumerated 528 specifications spanning CNV-high fraction, global versus within-sample CNV thresholds, mitochondrial-RNA and feature cutoffs, upper-feature caps, edgeR filtering/dispersion/normalization and GSEA ranking. Of 520 valid specifications, nominal P < 0.05 occurred in 243 for KEGG mitophagy and 343 for KEGG proteasome; both targets were below 0.05 in 217 specifications. Mitophagy remained relapse-up in 520/520 specifications and proteasome in 518/520. Within-sample CNV thresholds and moderate QC cutoffs generally strengthened the signal, whereas mt < 3% or nFeature >= 1,500 usually weakened it.
 
 ## Publication figure standard
 
@@ -45,6 +48,8 @@ The final figure suite was rebuilt in September 2026. Diagnosis and relapse use 
 | 06_Handoff_PPT | Lab handoff presentation |
 
 Start with the PPT, then use `01_Figures/FIGURE_INDEX.csv` and `02_Tables/TABLE_GUIDE.csv`. The eight main figures are the recommended reading order. Supplementary and sensitivity figures are separated physically and by filename.
+
+For the large targeted sensitivity grid, start with `multiverse_both_targets_nominal_P_lt_0.05.csv` and `FigSens07_targeted_GSEA_multiverse_specification_curve.png`; the complete one-row-per-pathway-per-specification audit remains available separately.
 
 ## Interpretation boundary
 

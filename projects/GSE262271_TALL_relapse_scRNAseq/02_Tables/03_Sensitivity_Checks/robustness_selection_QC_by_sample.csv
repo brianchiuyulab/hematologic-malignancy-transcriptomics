@@ -1,0 +1,145 @@
+"case_id","axis","case_label","sample_id","patient_pair","condition_simple","n_cells","median_nFeature_RNA","median_percent_mt","median_CNV_burden"
+"primary","Primary","Primary: global CNV top 25%","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"primary","Primary","Primary: global CNV top 25%","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"primary","Primary","Primary: global CNV top 25%","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"primary","Primary","Primary: global CNV top 25%","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"primary","Primary","Primary: global CNV top 25%","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"primary","Primary","Primary: global CNV top 25%","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"cnv_top15","CNV cutoff","CNV top 15%","M104","P1","diagnosis",64,1475,2.94364931789311,0.0325370531744048
+"cnv_top15","CNV cutoff","CNV top 15%","M127","P1","relapse",643,1522,3.08732725668921,0.0331077112105631
+"cnv_top15","CNV cutoff","CNV top 15%","M143","P2","diagnosis",431,1156,3.09135116359847,0.0384997532947881
+"cnv_top15","CNV cutoff","CNV top 15%","M148","P2","relapse",137,1809,3.45060893098782,0.0328863137188641
+"cnv_top15","CNV cutoff","CNV top 15%","M187","P3","diagnosis",343,1583,3.01263362487852,0.0347443429760853
+"cnv_top15","CNV cutoff","CNV top 15%","M187r","P3","relapse",307,1809,3.58132594329567,0.0305404183810143
+"cnv_top20","CNV cutoff","CNV top 20%","M104","P1","diagnosis",93,1664,3.28278620229962,0.0299205880303991
+"cnv_top20","CNV cutoff","CNV top 20%","M127","P1","relapse",811,1558,3.14264669776577,0.0310863150972004
+"cnv_top20","CNV cutoff","CNV top 20%","M143","P2","diagnosis",574,1227.5,2.74390822128359,0.034215394810731
+"cnv_top20","CNV cutoff","CNV top 20%","M148","P2","relapse",205,1876,3.25456977262595,0.0294237000763186
+"cnv_top20","CNV cutoff","CNV top 20%","M187","P3","diagnosis",401,1682,2.95969773299748,0.0333519551907474
+"cnv_top20","CNV cutoff","CNV top 20%","M187r","P3","relapse",482,1927,3.52641787865031,0.0284329244496545
+"cnv_top30","CNV cutoff","CNV top 30%","M104","P1","diagnosis",194,1869.5,3.47204549205403,0.024331993428269
+"cnv_top30","CNV cutoff","CNV top 30%","M127","P1","relapse",1122,1633.5,3.19776759585587,0.0282997169664475
+"cnv_top30","CNV cutoff","CNV top 30%","M143","P2","diagnosis",888,1349,2.28867093088817,0.0268854429513083
+"cnv_top30","CNV cutoff","CNV top 30%","M148","P2","relapse",323,1993,3.11857436600411,0.0261388085752791
+"cnv_top30","CNV cutoff","CNV top 30%","M187","P3","diagnosis",494,1807,2.87358318140022,0.0315061629197644
+"cnv_top30","CNV cutoff","CNV top 30%","M187r","P3","relapse",828,2106,3.56477969154987,0.0255482579125101
+"cnv_top40","CNV cutoff","CNV top 40%","M104","P1","diagnosis",336,2061,3.55510772531766,0.0214413873054881
+"cnv_top40","CNV cutoff","CNV top 40%","M127","P1","relapse",1421,1694,3.22191592005513,0.0260931386083439
+"cnv_top40","CNV cutoff","CNV top 40%","M143","P2","diagnosis",1211,1436,2.13178294573643,0.0240552974037498
+"cnv_top40","CNV cutoff","CNV top 40%","M148","P2","relapse",462,2114.5,2.96811939396016,0.0237591824381443
+"cnv_top40","CNV cutoff","CNV top 40%","M187","P3","diagnosis",564,1857.5,2.92658179379749,0.0297658051832526
+"cnv_top40","CNV cutoff","CNV top 40%","M187r","P3","relapse",1137,2262,3.56822262118492,0.0235695430099073
+"cnv_top50","CNV cutoff","CNV top 50%","M104","P1","diagnosis",528,2189.5,3.56036570493199,0.0194829592211843
+"cnv_top50","CNV cutoff","CNV top 50%","M127","P1","relapse",1719,1748,3.24341682723186,0.0239709763397012
+"cnv_top50","CNV cutoff","CNV top 50%","M143","P2","diagnosis",1522,1505,2.04600150101276,0.0220499827409281
+"cnv_top50","CNV cutoff","CNV top 50%","M148","P2","relapse",635,2247,2.58753578506937,0.0210549702000187
+"cnv_top50","CNV cutoff","CNV top 50%","M187","P3","diagnosis",593,1883,2.92297111416781,0.0289835602938114
+"cnv_top50","CNV cutoff","CNV top 50%","M187r","P3","relapse",1417,2389,3.55997434252726,0.022075255513813
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M104","P1","diagnosis",723,2324,3.54996505939902,0.0178232188667358
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M127","P1","relapse",748,1542,3.11399988735885,0.0318653100716998
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M143","P2","diagnosis",570,1226.5,2.74549104611921,0.0344642987309089
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M148","P2","relapse",492,2136.5,2.89341633182768,0.0232232868720533
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M187","P3","diagnosis",179,1329,3.46740638002774,0.0420931303534849
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M187r","P3","relapse",498,1933.5,3.54530346242258,0.0281909008923546
+"qc_mt4","QC","Mitochondrial RNA < 4%","M104","P1","diagnosis",99,1696,2.91747707696582,0.0276782972826019
+"qc_mt4","QC","Mitochondrial RNA < 4%","M127","P1","relapse",787,1595,2.94736842105263,0.0298222523164718
+"qc_mt4","QC","Mitochondrial RNA < 4%","M143","P2","diagnosis",584,1344,2.1870293572818,0.027772566453549
+"qc_mt4","QC","Mitochondrial RNA < 4%","M148","P2","relapse",196,1922.5,2.57458116326378,0.0269346894118152
+"qc_mt4","QC","Mitochondrial RNA < 4%","M187","P3","diagnosis",356,1807.5,2.54894762401571,0.0314507105091297
+"qc_mt4","QC","Mitochondrial RNA < 4%","M187r","P3","relapse",463,2051,3.20136389467702,0.026729154563714
+"qc_mt3","QC","Mitochondrial RNA < 3%","M104","P1","diagnosis",53,1520,1.82397220613781,0.030078687490739
+"qc_mt3","QC","Mitochondrial RNA < 3%","M127","P1","relapse",421,1574,2.47088895200227,0.0306659482520879
+"qc_mt3","QC","Mitochondrial RNA < 3%","M143","P2","diagnosis",450,1395.5,1.92082102189413,0.026647000844556
+"qc_mt3","QC","Mitochondrial RNA < 3%","M148","P2","relapse",121,1862,2.08900999091735,0.0261388085752791
+"qc_mt3","QC","Mitochondrial RNA < 3%","M187","P3","diagnosis",235,1851,2.18674830527006,0.0303728189047235
+"qc_mt3","QC","Mitochondrial RNA < 3%","M187r","P3","relapse",175,2048,2.5766677205185,0.0267728959342682
+"qc_nf500","QC","Features >= 500","M104","P1","diagnosis",139,1789,3.40386384544618,0.026309870437445
+"qc_nf500","QC","Features >= 500","M127","P1","relapse",968,1595.5,3.17474600816551,0.0296431248102534
+"qc_nf500","QC","Features >= 500","M143","P2","diagnosis",697,1304,2.48953001395998,0.0301830080365294
+"qc_nf500","QC","Features >= 500","M148","P2","relapse",264,1955,3.15649543263559,0.0272622472301216
+"qc_nf500","QC","Features >= 500","M187","P3","diagnosis",453,1771,2.93670886075949,0.0322112679935745
+"qc_nf500","QC","Features >= 500","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"qc_nf1000","QC","Features >= 1,000","M104","P1","diagnosis",125,1846,3.50250178699071,0.0257557353309656
+"qc_nf1000","QC","Features >= 1,000","M127","P1","relapse",936,1609,3.16816925204162,0.0293945056445531
+"qc_nf1000","QC","Features >= 1,000","M143","P2","diagnosis",561,1387,2.24954224431075,0.0272446617040578
+"qc_nf1000","QC","Features >= 1,000","M148","P2","relapse",253,1974,3.15860215053763,0.0270048131753945
+"qc_nf1000","QC","Features >= 1,000","M187","P3","diagnosis",414,1821,2.84482516679636,0.0314924689495178
+"qc_nf1000","QC","Features >= 1,000","M187r","P3","relapse",648,2038,3.56158311222304,0.0267249538589626
+"qc_nf1500","QC","Features >= 1,500","M104","P1","diagnosis",98,1996.5,3.65491632433304,0.0252497693482373
+"qc_nf1500","QC","Features >= 1,500","M127","P1","relapse",605,1783,3.20071126917093,0.027879050404039
+"qc_nf1500","QC","Features >= 1,500","M143","P2","diagnosis",191,1664,1.97292957100252,0.0258678448020017
+"qc_nf1500","QC","Features >= 1,500","M148","P2","relapse",201,2158,3.25456977262595,0.026858927094928
+"qc_nf1500","QC","Features >= 1,500","M187","P3","diagnosis",306,1953.5,2.58883478695464,0.0289830954140032
+"qc_nf1500","QC","Features >= 1,500","M187r","P3","relapse",560,2118,3.53930641664763,0.0262796971105309
+"qc_upper99","QC","Remove top 1% feature counts/sample","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"qc_upper99","QC","Remove top 1% feature counts/sample","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"qc_upper99","QC","Remove top 1% feature counts/sample","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"qc_upper99","QC","Remove top 1% feature counts/sample","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"qc_upper99","QC","Remove top 1% feature counts/sample","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"qc_upper99","QC","Remove top 1% feature counts/sample","M187r","P3","relapse",658,2022.5,3.55873580599604,0.0267586912886329
+"qc_upper95","QC","Remove top 5% feature counts/sample","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"qc_upper95","QC","Remove top 5% feature counts/sample","M127","P1","relapse",970,1593.5,3.17181898311612,0.0296872501152514
+"qc_upper95","QC","Remove top 5% feature counts/sample","M143","P2","diagnosis",709,1292,2.4906600249066,0.0308252497823692
+"qc_upper95","QC","Remove top 5% feature counts/sample","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"qc_upper95","QC","Remove top 5% feature counts/sample","M187","P3","diagnosis",455,1760,2.93506493506493,0.032212333185572
+"qc_upper95","QC","Remove top 5% feature counts/sample","M187r","P3","relapse",656,2018.5,3.56158311222304,0.0267682210334539
+"qc_combined","QC","Combined strict QC","M104","P1","diagnosis",98,1699.5,2.92080750400015,0.0277101201797882
+"qc_combined","QC","Combined strict QC","M127","P1","relapse",785,1596,2.94943820224719,0.0298002114379144
+"qc_combined","QC","Combined strict QC","M143","P2","diagnosis",571,1351,2.18579234972678,0.0275777873789372
+"qc_combined","QC","Combined strict QC","M148","P2","relapse",192,1932.5,2.58256610598834,0.0268895424165012
+"qc_combined","QC","Combined strict QC","M187","P3","diagnosis",353,1809,2.55228642325417,0.031402418656437
+"qc_combined","QC","Combined strict QC","M187r","P3","relapse",462,2050,3.20377758028489,0.0267347673644868
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"model_nonrobust","Model","Non-robust dispersion","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"model_nonrobust","Model","Non-robust dispersion","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"model_nonrobust","Model","Non-robust dispersion","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"model_nonrobust","Model","Non-robust dispersion","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"model_nonrobust","Model","Non-robust dispersion","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"model_nonrobust","Model","Non-robust dispersion","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"model_tmmwsp","Model","TMMwsp normalization","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"model_tmmwsp","Model","TMMwsp normalization","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"model_tmmwsp","Model","TMMwsp normalization","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"model_tmmwsp","Model","TMMwsp normalization","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"model_tmmwsp","Model","TMMwsp normalization","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"model_tmmwsp","Model","TMMwsp normalization","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"leaveout_p1","Patient influence","Leave out patient 1","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"leaveout_p1","Patient influence","Leave out patient 1","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847
+"leaveout_p1","Patient influence","Leave out patient 1","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"leaveout_p1","Patient influence","Leave out patient 1","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"leaveout_p2","Patient influence","Leave out patient 2","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"leaveout_p2","Patient influence","Leave out patient 2","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"leaveout_p2","Patient influence","Leave out patient 2","M187","P3","diagnosis",456,1761,2.93588689791221,0.0322118005895733
+"leaveout_p2","Patient influence","Leave out patient 2","M187r","P3","relapse",659,2026,3.55749726946481,0.0267510239213303
+"leaveout_p3","Patient influence","Leave out patient 3","M104","P1","diagnosis",140,1784.5,3.40161909686282,0.0262632894117588
+"leaveout_p3","Patient influence","Leave out patient 3","M127","P1","relapse",971,1594,3.1718711581018,0.0296646268014466
+"leaveout_p3","Patient influence","Leave out patient 3","M143","P2","diagnosis",712,1296.5,2.49009501943329,0.0307857066545614
+"leaveout_p3","Patient influence","Leave out patient 3","M148","P2","relapse",269,1951,3.15334773218143,0.0273458277706847

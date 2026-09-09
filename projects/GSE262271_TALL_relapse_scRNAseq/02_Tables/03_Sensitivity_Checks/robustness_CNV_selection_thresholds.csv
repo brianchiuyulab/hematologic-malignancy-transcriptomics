@@ -1,0 +1,13 @@
+"top_fraction","threshold_scope","sample_id","cnv_threshold","candidate_cells_n","patient_pair","condition_simple"
+0.15,"global candidate pool","all",0.0271724368403956,12828,,
+0.2,"global candidate pool","all",0.0245845647275289,12828,,
+0.25,"global candidate pool","all",0.0225197968174803,12828,,
+0.3,"global candidate pool","all",0.0209294320997967,12828,,
+0.4,"global candidate pool","all",0.0182546053635917,12828,,
+0.5,"global candidate pool","all",0.0160259973719276,12828,,
+0.25,"within sample","M104",0.0145661876329458,2889,"P1","diagnosis"
+0.25,"within sample","M127",0.0255037181939716,2991,"P1","relapse"
+0.25,"within sample","M143",0.0246285919573072,2279,"P2","diagnosis"
+0.25,"within sample","M148",0.0178969384897039,1965,"P2","relapse"
+0.25,"within sample","M187",0.0344262350079357,713,"P3","diagnosis"
+0.25,"within sample","M187r",0.0244310387677402,1991,"P3","relapse"

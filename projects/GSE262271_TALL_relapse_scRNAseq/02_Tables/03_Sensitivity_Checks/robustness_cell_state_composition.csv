@@ -1,0 +1,101 @@
+"proportion","case_id","axis","case_label","major_annotation","n_cells"
+0.409105082631743,"primary","Primary","Primary: global CNV top 25%","Cycling_TALL_blast_like",1312
+0.0115372622388525,"primary","Primary","Primary: global CNV top 25%","ER_stress_TALL_like",37
+0.299033364515123,"primary","Primary","Primary: global CNV top 25%","Immature_HSC_like_TALL",959
+0.280324290614281,"primary","Primary","Primary: global CNV top 25%","Quiescent_CD44_high_TALL_like",899
+0.395844155844156,"cnv_top15","CNV cutoff","CNV top 15%","Cycling_TALL_blast_like",762
+0.014025974025974,"cnv_top15","CNV cutoff","CNV top 15%","ER_stress_TALL_like",27
+0.294545454545455,"cnv_top15","CNV cutoff","CNV top 15%","Immature_HSC_like_TALL",567
+0.295584415584416,"cnv_top15","CNV cutoff","CNV top 15%","Quiescent_CD44_high_TALL_like",569
+0.393998441153546,"cnv_top20","CNV cutoff","CNV top 20%","Cycling_TALL_blast_like",1011
+0.0124707716289945,"cnv_top20","CNV cutoff","CNV top 20%","ER_stress_TALL_like",32
+0.308651597817615,"cnv_top20","CNV cutoff","CNV top 20%","Immature_HSC_like_TALL",792
+0.284879189399844,"cnv_top20","CNV cutoff","CNV top 20%","Quiescent_CD44_high_TALL_like",731
+0.414133541179527,"cnv_top30","CNV cutoff","CNV top 30%","Cycling_TALL_blast_like",1594
+0.0106521174330995,"cnv_top30","CNV cutoff","CNV top 30%","ER_stress_TALL_like",41
+0.289166017147311,"cnv_top30","CNV cutoff","CNV top 30%","Immature_HSC_like_TALL",1113
+0.286048324240062,"cnv_top30","CNV cutoff","CNV top 30%","Quiescent_CD44_high_TALL_like",1101
+0.431494835314753,"cnv_top40","CNV cutoff","CNV top 40%","Cycling_TALL_blast_like",2214
+0.00993958292730462,"cnv_top40","CNV cutoff","CNV top 40%","ER_stress_TALL_like",51
+0.2654453322939,"cnv_top40","CNV cutoff","CNV top 40%","Immature_HSC_like_TALL",1362
+0.293120249464042,"cnv_top40","CNV cutoff","CNV top 40%","Quiescent_CD44_high_TALL_like",1504
+0.453383224197069,"cnv_top50","CNV cutoff","CNV top 50%","Cycling_TALL_blast_like",2908
+0.00997817274711568,"cnv_top50","CNV cutoff","CNV top 50%","ER_stress_TALL_like",64
+0.242282507015903,"cnv_top50","CNV cutoff","CNV top 50%","Immature_HSC_like_TALL",1554
+0.294356096039913,"cnv_top50","CNV cutoff","CNV top 50%","Quiescent_CD44_high_TALL_like",1888
+0.49595015576324,"cnv_sample_top25","CNV cutoff","Top 25% within each sample","Cycling_TALL_blast_like",1592
+0.00996884735202492,"cnv_sample_top25","CNV cutoff","Top 25% within each sample","ER_stress_TALL_like",32
+0.258878504672897,"cnv_sample_top25","CNV cutoff","Top 25% within each sample","Immature_HSC_like_TALL",831
+0.235202492211838,"cnv_sample_top25","CNV cutoff","Top 25% within each sample","Quiescent_CD44_high_TALL_like",755
+0.407243460764588,"qc_mt4","QC","Mitochondrial RNA < 4%","Cycling_TALL_blast_like",1012
+0.0124748490945674,"qc_mt4","QC","Mitochondrial RNA < 4%","ER_stress_TALL_like",31
+0.296981891348089,"qc_mt4","QC","Mitochondrial RNA < 4%","Immature_HSC_like_TALL",738
+0.283299798792757,"qc_mt4","QC","Mitochondrial RNA < 4%","Quiescent_CD44_high_TALL_like",704
+0.353264604810997,"qc_mt3","QC","Mitochondrial RNA < 3%","Cycling_TALL_blast_like",514
+0.0144329896907217,"qc_mt3","QC","Mitochondrial RNA < 3%","ER_stress_TALL_like",21
+0.285910652920962,"qc_mt3","QC","Mitochondrial RNA < 3%","Immature_HSC_like_TALL",416
+0.34639175257732,"qc_mt3","QC","Mitochondrial RNA < 3%","Quiescent_CD44_high_TALL_like",504
+0.411949685534591,"qc_nf500","QC","Features >= 500","Cycling_TALL_blast_like",1310
+0.0113207547169811,"qc_nf500","QC","Features >= 500","ER_stress_TALL_like",36
+0.30125786163522,"qc_nf500","QC","Features >= 500","Immature_HSC_like_TALL",958
+0.275471698113208,"qc_nf500","QC","Features >= 500","Quiescent_CD44_high_TALL_like",876
+0.4341164453524,"qc_nf1000","QC","Features >= 1,000","Cycling_TALL_blast_like",1275
+0.0115764385427307,"qc_nf1000","QC","Features >= 1,000","ER_stress_TALL_like",34
+0.322437861763704,"qc_nf1000","QC","Features >= 1,000","Immature_HSC_like_TALL",947
+0.231869254341164,"qc_nf1000","QC","Features >= 1,000","Quiescent_CD44_high_TALL_like",681
+0.477817440081591,"qc_nf1500","QC","Features >= 1,500","Cycling_TALL_blast_like",937
+0.0071392146863845,"qc_nf1500","QC","Features >= 1,500","ER_stress_TALL_like",14
+0.393676695563488,"qc_nf1500","QC","Features >= 1,500","Immature_HSC_like_TALL",772
+0.121366649668536,"qc_nf1500","QC","Features >= 1,500","Quiescent_CD44_high_TALL_like",238
+0.408920773549594,"qc_upper99","QC","Remove top 1% feature counts/sample","Cycling_TALL_blast_like",1311
+0.0115408608858391,"qc_upper99","QC","Remove top 1% feature counts/sample","ER_stress_TALL_like",37
+0.299126637554585,"qc_upper99","QC","Remove top 1% feature counts/sample","Immature_HSC_like_TALL",959
+0.280411728009981,"qc_upper99","QC","Remove top 1% feature counts/sample","Quiescent_CD44_high_TALL_like",899
+0.408565176617693,"qc_upper95","QC","Remove top 5% feature counts/sample","Cycling_TALL_blast_like",1307
+0.0115661144107534,"qc_upper95","QC","Remove top 5% feature counts/sample","ER_stress_TALL_like",37
+0.299781181619256,"qc_upper95","QC","Remove top 5% feature counts/sample","Immature_HSC_like_TALL",959
+0.280087527352298,"qc_upper95","QC","Remove top 5% feature counts/sample","Quiescent_CD44_high_TALL_like",896
+0.409995936611134,"qc_combined","QC","Combined strict QC","Cycling_TALL_blast_like",1009
+0.0121901665989435,"qc_combined","QC","Combined strict QC","ER_stress_TALL_like",30
+0.299878098334011,"qc_combined","QC","Combined strict QC","Immature_HSC_like_TALL",738
+0.277935798455912,"qc_combined","QC","Combined strict QC","Quiescent_CD44_high_TALL_like",684
+0.409105082631743,"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","Cycling_TALL_blast_like",1312
+0.0115372622388525,"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","ER_stress_TALL_like",37
+0.299033364515123,"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","Immature_HSC_like_TALL",959
+0.280324290614281,"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","Quiescent_CD44_high_TALL_like",899
+0.409105082631743,"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","Cycling_TALL_blast_like",1312
+0.0115372622388525,"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","ER_stress_TALL_like",37
+0.299033364515123,"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","Immature_HSC_like_TALL",959
+0.280324290614281,"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","Quiescent_CD44_high_TALL_like",899
+0.409105082631743,"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","Cycling_TALL_blast_like",1312
+0.0115372622388525,"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","ER_stress_TALL_like",37
+0.299033364515123,"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","Immature_HSC_like_TALL",959
+0.280324290614281,"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","Quiescent_CD44_high_TALL_like",899
+0.409105082631743,"model_nonrobust","Model","Non-robust dispersion","Cycling_TALL_blast_like",1312
+0.0115372622388525,"model_nonrobust","Model","Non-robust dispersion","ER_stress_TALL_like",37
+0.299033364515123,"model_nonrobust","Model","Non-robust dispersion","Immature_HSC_like_TALL",959
+0.280324290614281,"model_nonrobust","Model","Non-robust dispersion","Quiescent_CD44_high_TALL_like",899
+0.409105082631743,"model_tmmwsp","Model","TMMwsp normalization","Cycling_TALL_blast_like",1312
+0.0115372622388525,"model_tmmwsp","Model","TMMwsp normalization","ER_stress_TALL_like",37
+0.299033364515123,"model_tmmwsp","Model","TMMwsp normalization","Immature_HSC_like_TALL",959
+0.280324290614281,"model_tmmwsp","Model","TMMwsp normalization","Quiescent_CD44_high_TALL_like",899
+0.409105082631743,"rank_logfc","GSEA ranking","Rank by signed log2FC","Cycling_TALL_blast_like",1312
+0.0115372622388525,"rank_logfc","GSEA ranking","Rank by signed log2FC","ER_stress_TALL_like",37
+0.299033364515123,"rank_logfc","GSEA ranking","Rank by signed log2FC","Immature_HSC_like_TALL",959
+0.280324290614281,"rank_logfc","GSEA ranking","Rank by signed log2FC","Quiescent_CD44_high_TALL_like",899
+0.409105082631743,"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","Cycling_TALL_blast_like",1312
+0.0115372622388525,"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","ER_stress_TALL_like",37
+0.299033364515123,"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","Immature_HSC_like_TALL",959
+0.280324290614281,"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","Quiescent_CD44_high_TALL_like",899
+0.134541984732824,"leaveout_p1","Patient influence","Leave out patient 1","Cycling_TALL_blast_like",282
+0.0176526717557252,"leaveout_p1","Patient influence","Leave out patient 1","ER_stress_TALL_like",37
+0.457538167938931,"leaveout_p1","Patient influence","Leave out patient 1","Immature_HSC_like_TALL",959
+0.390267175572519,"leaveout_p1","Patient influence","Leave out patient 1","Quiescent_CD44_high_TALL_like",818
+0.565588499550764,"leaveout_p2","Patient influence","Leave out patient 2","Cycling_TALL_blast_like",1259
+0.000449236298292902,"leaveout_p2","Patient influence","Leave out patient 2","ER_stress_TALL_like",1
+0.340970350404313,"leaveout_p2","Patient influence","Leave out patient 2","Immature_HSC_like_TALL",759
+0.0929919137466307,"leaveout_p2","Patient influence","Leave out patient 2","Quiescent_CD44_high_TALL_like",207
+0.517686424474187,"leaveout_p3","Patient influence","Leave out patient 3","Cycling_TALL_blast_like",1083
+0.017208413001912,"leaveout_p3","Patient influence","Leave out patient 3","ER_stress_TALL_like",36
+0.0956022944550669,"leaveout_p3","Patient influence","Leave out patient 3","Immature_HSC_like_TALL",200
+0.369502868068834,"leaveout_p3","Patient influence","Leave out patient 3","Quiescent_CD44_high_TALL_like",773

@@ -1,0 +1,145 @@
+"case_id","axis","case_label","sample_id","patient_pair","condition_simple","n_cells"
+"primary","Primary","Primary: global CNV top 25%","M104","P1","diagnosis",140
+"primary","Primary","Primary: global CNV top 25%","M127","P1","relapse",971
+"primary","Primary","Primary: global CNV top 25%","M143","P2","diagnosis",712
+"primary","Primary","Primary: global CNV top 25%","M148","P2","relapse",269
+"primary","Primary","Primary: global CNV top 25%","M187","P3","diagnosis",456
+"primary","Primary","Primary: global CNV top 25%","M187r","P3","relapse",659
+"cnv_top15","CNV cutoff","CNV top 15%","M104","P1","diagnosis",64
+"cnv_top15","CNV cutoff","CNV top 15%","M127","P1","relapse",643
+"cnv_top15","CNV cutoff","CNV top 15%","M143","P2","diagnosis",431
+"cnv_top15","CNV cutoff","CNV top 15%","M148","P2","relapse",137
+"cnv_top15","CNV cutoff","CNV top 15%","M187","P3","diagnosis",343
+"cnv_top15","CNV cutoff","CNV top 15%","M187r","P3","relapse",307
+"cnv_top20","CNV cutoff","CNV top 20%","M104","P1","diagnosis",93
+"cnv_top20","CNV cutoff","CNV top 20%","M127","P1","relapse",811
+"cnv_top20","CNV cutoff","CNV top 20%","M143","P2","diagnosis",574
+"cnv_top20","CNV cutoff","CNV top 20%","M148","P2","relapse",205
+"cnv_top20","CNV cutoff","CNV top 20%","M187","P3","diagnosis",401
+"cnv_top20","CNV cutoff","CNV top 20%","M187r","P3","relapse",482
+"cnv_top30","CNV cutoff","CNV top 30%","M104","P1","diagnosis",194
+"cnv_top30","CNV cutoff","CNV top 30%","M127","P1","relapse",1122
+"cnv_top30","CNV cutoff","CNV top 30%","M143","P2","diagnosis",888
+"cnv_top30","CNV cutoff","CNV top 30%","M148","P2","relapse",323
+"cnv_top30","CNV cutoff","CNV top 30%","M187","P3","diagnosis",494
+"cnv_top30","CNV cutoff","CNV top 30%","M187r","P3","relapse",828
+"cnv_top40","CNV cutoff","CNV top 40%","M104","P1","diagnosis",336
+"cnv_top40","CNV cutoff","CNV top 40%","M127","P1","relapse",1421
+"cnv_top40","CNV cutoff","CNV top 40%","M143","P2","diagnosis",1211
+"cnv_top40","CNV cutoff","CNV top 40%","M148","P2","relapse",462
+"cnv_top40","CNV cutoff","CNV top 40%","M187","P3","diagnosis",564
+"cnv_top40","CNV cutoff","CNV top 40%","M187r","P3","relapse",1137
+"cnv_top50","CNV cutoff","CNV top 50%","M104","P1","diagnosis",528
+"cnv_top50","CNV cutoff","CNV top 50%","M127","P1","relapse",1719
+"cnv_top50","CNV cutoff","CNV top 50%","M143","P2","diagnosis",1522
+"cnv_top50","CNV cutoff","CNV top 50%","M148","P2","relapse",635
+"cnv_top50","CNV cutoff","CNV top 50%","M187","P3","diagnosis",593
+"cnv_top50","CNV cutoff","CNV top 50%","M187r","P3","relapse",1417
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M104","P1","diagnosis",723
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M127","P1","relapse",748
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M143","P2","diagnosis",570
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M148","P2","relapse",492
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M187","P3","diagnosis",179
+"cnv_sample_top25","CNV cutoff","Top 25% within each sample","M187r","P3","relapse",498
+"qc_mt4","QC","Mitochondrial RNA < 4%","M104","P1","diagnosis",99
+"qc_mt4","QC","Mitochondrial RNA < 4%","M127","P1","relapse",787
+"qc_mt4","QC","Mitochondrial RNA < 4%","M143","P2","diagnosis",584
+"qc_mt4","QC","Mitochondrial RNA < 4%","M148","P2","relapse",196
+"qc_mt4","QC","Mitochondrial RNA < 4%","M187","P3","diagnosis",356
+"qc_mt4","QC","Mitochondrial RNA < 4%","M187r","P3","relapse",463
+"qc_mt3","QC","Mitochondrial RNA < 3%","M104","P1","diagnosis",53
+"qc_mt3","QC","Mitochondrial RNA < 3%","M127","P1","relapse",421
+"qc_mt3","QC","Mitochondrial RNA < 3%","M143","P2","diagnosis",450
+"qc_mt3","QC","Mitochondrial RNA < 3%","M148","P2","relapse",121
+"qc_mt3","QC","Mitochondrial RNA < 3%","M187","P3","diagnosis",235
+"qc_mt3","QC","Mitochondrial RNA < 3%","M187r","P3","relapse",175
+"qc_nf500","QC","Features >= 500","M104","P1","diagnosis",139
+"qc_nf500","QC","Features >= 500","M127","P1","relapse",968
+"qc_nf500","QC","Features >= 500","M143","P2","diagnosis",697
+"qc_nf500","QC","Features >= 500","M148","P2","relapse",264
+"qc_nf500","QC","Features >= 500","M187","P3","diagnosis",453
+"qc_nf500","QC","Features >= 500","M187r","P3","relapse",659
+"qc_nf1000","QC","Features >= 1,000","M104","P1","diagnosis",125
+"qc_nf1000","QC","Features >= 1,000","M127","P1","relapse",936
+"qc_nf1000","QC","Features >= 1,000","M143","P2","diagnosis",561
+"qc_nf1000","QC","Features >= 1,000","M148","P2","relapse",253
+"qc_nf1000","QC","Features >= 1,000","M187","P3","diagnosis",414
+"qc_nf1000","QC","Features >= 1,000","M187r","P3","relapse",648
+"qc_nf1500","QC","Features >= 1,500","M104","P1","diagnosis",98
+"qc_nf1500","QC","Features >= 1,500","M127","P1","relapse",605
+"qc_nf1500","QC","Features >= 1,500","M143","P2","diagnosis",191
+"qc_nf1500","QC","Features >= 1,500","M148","P2","relapse",201
+"qc_nf1500","QC","Features >= 1,500","M187","P3","diagnosis",306
+"qc_nf1500","QC","Features >= 1,500","M187r","P3","relapse",560
+"qc_upper99","QC","Remove top 1% feature counts/sample","M104","P1","diagnosis",140
+"qc_upper99","QC","Remove top 1% feature counts/sample","M127","P1","relapse",971
+"qc_upper99","QC","Remove top 1% feature counts/sample","M143","P2","diagnosis",712
+"qc_upper99","QC","Remove top 1% feature counts/sample","M148","P2","relapse",269
+"qc_upper99","QC","Remove top 1% feature counts/sample","M187","P3","diagnosis",456
+"qc_upper99","QC","Remove top 1% feature counts/sample","M187r","P3","relapse",658
+"qc_upper95","QC","Remove top 5% feature counts/sample","M104","P1","diagnosis",140
+"qc_upper95","QC","Remove top 5% feature counts/sample","M127","P1","relapse",970
+"qc_upper95","QC","Remove top 5% feature counts/sample","M143","P2","diagnosis",709
+"qc_upper95","QC","Remove top 5% feature counts/sample","M148","P2","relapse",269
+"qc_upper95","QC","Remove top 5% feature counts/sample","M187","P3","diagnosis",455
+"qc_upper95","QC","Remove top 5% feature counts/sample","M187r","P3","relapse",656
+"qc_combined","QC","Combined strict QC","M104","P1","diagnosis",98
+"qc_combined","QC","Combined strict QC","M127","P1","relapse",785
+"qc_combined","QC","Combined strict QC","M143","P2","diagnosis",571
+"qc_combined","QC","Combined strict QC","M148","P2","relapse",192
+"qc_combined","QC","Combined strict QC","M187","P3","diagnosis",353
+"qc_combined","QC","Combined strict QC","M187r","P3","relapse",462
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M104","P1","diagnosis",140
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M127","P1","relapse",971
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M143","P2","diagnosis",712
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M148","P2","relapse",269
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M187","P3","diagnosis",456
+"filter_cpm05_2","Gene filter","CPM >= 0.5 in >= 2 samples","M187r","P3","relapse",659
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M104","P1","diagnosis",140
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M127","P1","relapse",971
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M143","P2","diagnosis",712
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M148","P2","relapse",269
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M187","P3","diagnosis",456
+"filter_cpm1_2","Gene filter","CPM >= 1 in >= 2 samples","M187r","P3","relapse",659
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M104","P1","diagnosis",140
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M127","P1","relapse",971
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M143","P2","diagnosis",712
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M148","P2","relapse",269
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M187","P3","diagnosis",456
+"filter_cpm1_3","Gene filter","CPM >= 1 in >= 3 samples","M187r","P3","relapse",659
+"model_nonrobust","Model","Non-robust dispersion","M104","P1","diagnosis",140
+"model_nonrobust","Model","Non-robust dispersion","M127","P1","relapse",971
+"model_nonrobust","Model","Non-robust dispersion","M143","P2","diagnosis",712
+"model_nonrobust","Model","Non-robust dispersion","M148","P2","relapse",269
+"model_nonrobust","Model","Non-robust dispersion","M187","P3","diagnosis",456
+"model_nonrobust","Model","Non-robust dispersion","M187r","P3","relapse",659
+"model_tmmwsp","Model","TMMwsp normalization","M104","P1","diagnosis",140
+"model_tmmwsp","Model","TMMwsp normalization","M127","P1","relapse",971
+"model_tmmwsp","Model","TMMwsp normalization","M143","P2","diagnosis",712
+"model_tmmwsp","Model","TMMwsp normalization","M148","P2","relapse",269
+"model_tmmwsp","Model","TMMwsp normalization","M187","P3","diagnosis",456
+"model_tmmwsp","Model","TMMwsp normalization","M187r","P3","relapse",659
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M104","P1","diagnosis",140
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M127","P1","relapse",971
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M143","P2","diagnosis",712
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M148","P2","relapse",269
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M187","P3","diagnosis",456
+"rank_logfc","GSEA ranking","Rank by signed log2FC","M187r","P3","relapse",659
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M104","P1","diagnosis",140
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M127","P1","relapse",971
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M143","P2","diagnosis",712
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M148","P2","relapse",269
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M187","P3","diagnosis",456
+"rank_signed_p","GSEA ranking","Rank by signed -log10(P)","M187r","P3","relapse",659
+"leaveout_p1","Patient influence","Leave out patient 1","M143","P2","diagnosis",712
+"leaveout_p1","Patient influence","Leave out patient 1","M148","P2","relapse",269
+"leaveout_p1","Patient influence","Leave out patient 1","M187","P3","diagnosis",456
+"leaveout_p1","Patient influence","Leave out patient 1","M187r","P3","relapse",659
+"leaveout_p2","Patient influence","Leave out patient 2","M104","P1","diagnosis",140
+"leaveout_p2","Patient influence","Leave out patient 2","M127","P1","relapse",971
+"leaveout_p2","Patient influence","Leave out patient 2","M187","P3","diagnosis",456
+"leaveout_p2","Patient influence","Leave out patient 2","M187r","P3","relapse",659
+"leaveout_p3","Patient influence","Leave out patient 3","M104","P1","diagnosis",140
+"leaveout_p3","Patient influence","Leave out patient 3","M127","P1","relapse",971
+"leaveout_p3","Patient influence","Leave out patient 3","M143","P2","diagnosis",712
+"leaveout_p3","Patient influence","Leave out patient 3","M148","P2","relapse",269

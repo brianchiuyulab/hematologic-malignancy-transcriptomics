@@ -17,5 +17,22 @@ folder,file,use
 01_Key_Results,cross_dataset_STAT5_pathway_leading_edge_summary.csv,STAT5-axis overlap within shared leading edges
 02_Full_Results,,Complete DEG GSEA metadata and gene-level audit tables
 03_Sensitivity_Checks,,Alternative cell-compartment definitions retained only for robustness
+03_Sensitivity_Checks,robustness_parameter_registry.csv,Complete predefined parameter grid with cell and sample counts
+03_Sensitivity_Checks,robustness_CNV_selection_thresholds.csv,Global and within-sample CNV thresholds used by the sensitivity grid
+03_Sensitivity_Checks,robustness_selection_QC_by_sample.csv,Per-sample retained cells and QC distributions for every setting
+03_Sensitivity_Checks,robustness_cell_state_composition.csv,Cell-state composition shifts induced by population or QC settings
+03_Sensitivity_Checks,robustness_KEGG_GSEA_focus_pathways.csv,Focused KEGG results for all 25 sensitivity settings
+03_Sensitivity_Checks,robustness_focus_pathway_summary.csv,Direction and significance stability counts across all settings
+03_Sensitivity_Checks,primary_GSEA_multiple_testing_framework.csv,Frozen primary nominal P targeted-family corrections and global KEGG FDR
+03_Sensitivity_Checks,primary_leading_edge_pair_direction_summary.csv,Patient-paired leading-edge direction summary
+03_Sensitivity_Checks,fgsea_primary_recompute_monte_carlo_check.csv,Frozen versus single-seed fgsea recomputation audit
+03_Sensitivity_Checks,cross_dataset_same_direction_pathway_robustness_rank.csv,Shared single-cell and STAT5B pathways ranked by the worse dataset FDR
+03_Sensitivity_Checks,multiverse_specification_registry.csv,All 528 targeted-GSEA specifications including eight invalid low-cell-count settings
+03_Sensitivity_Checks,multiverse_targeted_GSEA_all_results.csv,Complete one-row-per-pathway-per-valid-specification audit for KEGG proteasome and mitophagy
+03_Sensitivity_Checks,multiverse_nominal_P_lt_0.05_combinations.csv,All pathway-specific results with nominal P below 0.05
+03_Sensitivity_Checks,multiverse_both_targets_nominal_P_lt_0.05.csv,Reader-facing one-row-per-specification table where both prespecified targets have nominal P below 0.05
+03_Sensitivity_Checks,multiverse_top25_combinations_by_pathway.csv,Lowest 25 nominal-P specifications for each target pathway
+03_Sensitivity_Checks,multiverse_targeted_GSEA_summary.csv,Pathway-level direction and nominal-hit counts across the multiverse
+03_Sensitivity_Checks,multiverse_parameter_level_summary.csv,Hit rates and median nominal P summarized at every parameter level
 04_Method_Inputs,infercnv_nonTref_cell_cnv_burden.csv,Cell-level inferCNV burden used to define the top 25%
 04_Method_Inputs,STAT5_downstream_gene_sets_used.csv,Exact custom STAT5 gene sets

@@ -1,6 +1,6 @@
 # Code availability
 
-This folder contains the analysis code used for GSE262271 and the external STAT5B N642H comparison. Scripts are numbered by conceptual run order. Scripts 01 to 15 preserve the full analysis provenance. Script 16 is the canonical publication-figure renderer. Scripts 17 to 19 write separate sensitivity or fixed-secondary figure and table suites without changing the primary result.
+This folder contains the analysis code used for GSE262271 and the external STAT5B N642H comparison. Scripts are numbered by conceptual run order. Scripts 01 to 15 preserve the full analysis provenance. Script 16 is the canonical publication-figure renderer. Scripts 17 to 20 write separate sensitivity, fixed-secondary or publication-compatibility outputs without changing the frozen primary result.
 
 ## Statistical design
 
@@ -39,6 +39,7 @@ All main disease-comparison scripts use the CNV-high top 25% subset within candi
 | 17 | 17_robustness_sensitivity_audit.R | Predefined CNV, QC, filter, model, ranking and leave-one-patient-out robustness grid |
 | 18 | 18_targeted_GSEA_multiverse_sensitivity.R | Exhaustive targeted grid for official KEGG Proteasome and Mitophagy across 528 population/QC/model/ranking specifications |
 | 19 | 19_fixed_secondary_within_sample_top25_KEGG.R | Reader-facing complete-KEGG tables and mechanistic dot plot for source-paper QC plus CNV-high top 25% within each sample |
+| 20 | 20_publication_compatible_candidate_full_KEGG.R | Full-KEGG audit of 10 publication-defensible population/QC candidates, with global FDR reported for Proteasome and Mitophagy |
 
 The editable handoff deck is built by `presentation/build_handoff_ppt.mjs`. It uses the final PNG figures, creates native PowerPoint tables for the study design and result summaries, and is validated for slide count, geometry and font consistency before release. Rebuilding it requires the OpenAI Artifact Tool presentation runtime; the reviewed `.pptx` is included for users who do not have that runtime.
 
@@ -51,6 +52,7 @@ The editable handoff deck is built by `presentation/build_handoff_ppt.mjs`. It u
 5. Run script 17 from the project root to regenerate the sensitivity audit. Use `--reuse-results true` only to redraw its figures from an already completed grid.
 6. Run script 18 with `--nperm 5000` to reproduce the delivered 528-specification targeted multiverse. The output records the permutation count, nominal P, two-target BH, cross-specification descriptive BH, cell counts and composition for every valid specification.
 7. Run script 19 after script 17 to regenerate the fixed-secondary within-sample top-25% KEGG tables and FigSens09. This step filters and visualizes the already computed complete-KEGG result; it does not rerun or alter GSEA statistics.
+8. Run script 20 with access to the final Seurat object to reproduce the focused publication-compatibility audit. It retains the paired pseudobulk model and full KEGG BH correction, excludes ad hoc decimal thresholds and q99 caps, and writes the complete result table, target summary and three-patient leading-edge direction audit for the best clean candidate.
 
 Historical scripts contain Windows defaults from the original workstation. The wrappers always pass explicit paths, which should be preferred over those defaults.
 

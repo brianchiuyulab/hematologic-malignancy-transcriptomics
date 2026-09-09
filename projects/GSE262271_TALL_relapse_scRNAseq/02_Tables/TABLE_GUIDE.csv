@@ -34,5 +34,9 @@ folder,file,use
 03_Sensitivity_Checks,multiverse_top25_combinations_by_pathway.csv,Lowest 25 nominal-P specifications for each target pathway
 03_Sensitivity_Checks,multiverse_targeted_GSEA_summary.csv,Pathway-level direction and nominal-hit counts across the multiverse
 03_Sensitivity_Checks,multiverse_parameter_level_summary.csv,Hit rates and median nominal P summarized at every parameter level
+03_Sensitivity_Checks,fixed_secondary_within_sample_top25_definition.csv,Exact locked definition for the within-sample CNV top-25% secondary analysis
+03_Sensitivity_Checks,fixed_secondary_within_sample_top25_KEGG_GSEA_FDR0.05.csv,All complete-KEGG pathways reaching global FDR below 0.05 under the fixed secondary analysis
+03_Sensitivity_Checks,fixed_secondary_within_sample_top25_KEGG_GSEA_FDR0.10.csv,All complete-KEGG pathways reaching global FDR below 0.10 under the fixed secondary analysis
+03_Sensitivity_Checks,fixed_secondary_within_sample_top25_KEGG_curated_mechanistic_pathways.csv,Mechanistic pathway subset plotted in FigSens09 including every relapse-down FDR-below-0.10 result
 04_Method_Inputs,infercnv_nonTref_cell_cnv_burden.csv,Cell-level inferCNV burden used to define the top 25%
 04_Method_Inputs,STAT5_downstream_gene_sets_used.csv,Exact custom STAT5 gene sets

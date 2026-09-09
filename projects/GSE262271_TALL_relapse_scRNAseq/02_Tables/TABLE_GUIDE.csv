@@ -38,5 +38,8 @@ folder,file,use
 03_Sensitivity_Checks,fixed_secondary_within_sample_top25_KEGG_GSEA_FDR0.05.csv,All complete-KEGG pathways reaching global FDR below 0.05 under the fixed secondary analysis
 03_Sensitivity_Checks,fixed_secondary_within_sample_top25_KEGG_GSEA_FDR0.10.csv,All complete-KEGG pathways reaching global FDR below 0.10 under the fixed secondary analysis
 03_Sensitivity_Checks,fixed_secondary_within_sample_top25_KEGG_curated_mechanistic_pathways.csv,Mechanistic pathway subset plotted in FigSens09 including every relapse-down FDR-below-0.10 result
+03_Sensitivity_Checks,publication_compatible_candidate_full_KEGG_target_summary.csv,Proteasome and mitophagy full-KEGG results for 14 publication-compatible candidate definitions
+03_Sensitivity_Checks,publication_compatible_A05_target_pair_direction.csv,Three-patient leading-edge direction audit for the within-sample CNV top-15% candidate
+03_Sensitivity_Checks,within_sample_CNV_fraction_cutoff_summary.csv,Compact cell-retention and full-KEGG target summary across within-sample CNV-high fractions from 10% to 50%
 04_Method_Inputs,infercnv_nonTref_cell_cnv_burden.csv,Cell-level inferCNV burden used to define the top 25%
 04_Method_Inputs,STAT5_downstream_gene_sets_used.csv,Exact custom STAT5 gene sets

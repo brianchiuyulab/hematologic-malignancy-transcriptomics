@@ -1,0 +1,10 @@
+step,script,purpose
+1,06_potential_malignant_T_KEGG_ORA_GSEA.R,Frozen primary paired-pseudobulk KEGG analysis
+2,09_mitophagy_autophagy_paired_consistency.R,Patient-paired direction audit
+3,13_compare_STAT5B_bulk_and_scRNAseq_GSEA.R,GSE262271 and GSE218858 pathway comparison
+4,14_cross_dataset_KEGG_FDR01_venn.R,Same-direction KEGG overlap at FDR below 0.10
+5,16_publication_figure_suite.R,Canonical publication-style figure renderer
+6,20_publication_compatible_candidate_full_KEGG.R,Full-KEGG audit of publication-compatible CNV definitions
+7,21_CNV_fraction_cutoff_publication_figure.R,CNV cutoff and pathway robustness figure
+8,build_student_handoff_ppt.mjs,Editable 8-slide handoff deck builder
+

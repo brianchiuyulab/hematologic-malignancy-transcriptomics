@@ -1,6 +1,6 @@
 # Code availability
 
-This folder contains the analysis code used for GSE262271 and the external STAT5B N642H comparison. Scripts are numbered by conceptual run order. Scripts 01 to 15 preserve the full analysis provenance. Script 16 is the canonical publication-figure renderer. Scripts 17 to 20 write separate sensitivity, fixed-secondary or publication-compatibility outputs without changing the frozen primary result.
+This folder contains the analysis code used for GSE262271 and the external STAT5B N642H comparison. Scripts are numbered by conceptual run order. Scripts 01 to 15 preserve the full analysis provenance. Script 16 is the canonical publication-figure renderer. Scripts 17 to 21 write separate sensitivity, fixed-secondary, publication-compatibility or CNV-cutoff outputs without changing the frozen primary result.
 
 ## Statistical design
 
@@ -42,7 +42,7 @@ All main disease-comparison scripts use the CNV-high top 25% subset within candi
 | 20 | 20_publication_compatible_candidate_full_KEGG.R | Full-KEGG audit of 14 publication-defensible population/QC candidates, including within-sample CNV-high fractions from 10% to 50% |
 | 21 | 21_CNV_fraction_cutoff_publication_figure.R | Publication figure showing per-sample CNV cutoffs, full-KEGG target robustness and retained cell counts across CNV-high fractions |
 
-The editable handoff deck is built by `presentation/build_handoff_ppt.mjs`. It uses the final PNG figures, creates native PowerPoint tables for the study design and result summaries, and is validated for slide count, geometry and font consistency before release. Rebuilding it requires the OpenAI Artifact Tool presentation runtime; the reviewed `.pptx` is included for users who do not have that runtime.
+The full editable handoff deck is built by `presentation/build_handoff_ppt.mjs`. The concise eight-slide student deck is built by `presentation/build_student_handoff_ppt.mjs`. Both use the final PNG figures and native PowerPoint tables, and both require the OpenAI Artifact Tool presentation runtime to rebuild. Reviewed `.pptx` files are included for users who do not have that runtime.
 
 ## Reproducing figures without altering the clean package
 

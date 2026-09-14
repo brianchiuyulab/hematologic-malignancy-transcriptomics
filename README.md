@@ -15,6 +15,8 @@
 
 Start here: [`projects/GSE262271_TALL_relapse_scRNAseq/START_HERE_請先看.txt`](projects/GSE262271_TALL_relapse_scRNAseq/START_HERE_%E8%AB%8B%E5%85%88%E7%9C%8B.txt)
 
+Student handoff: [`projects/GSE262271_TALL_relapse_scRNAseq/07_Student_Handoff/`](projects/GSE262271_TALL_relapse_scRNAseq/07_Student_Handoff/)
+
 ## Repository policy
 
 - GitHub contains publication figures, compact CSV tables, analysis code, environment records and the reviewed handoff deck.
@@ -33,6 +35,7 @@ projects/
     04_R_Objects/         # documentation only on GitHub
     05_Code_Availability/
     06_Handoff_PPT/
+    07_Student_Handoff/  # concise reader-facing package
 ```
 
 ## Interpretation boundary

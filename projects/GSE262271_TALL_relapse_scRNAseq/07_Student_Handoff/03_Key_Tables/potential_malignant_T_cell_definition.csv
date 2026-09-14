@@ -1,0 +1,2 @@
+"analysis_population","operational_definition","cnv_burden_threshold_q75","candidate_T_cells_with_finite_CNV","selected_potential_malignant_T_cells","selected_percent"
+"potential malignant T cells","T-lineage candidate malignant-like cells with inferCNV mean absolute log2 burden at or above the global 75th percentile",0.0225197968174803,12828,3207,25

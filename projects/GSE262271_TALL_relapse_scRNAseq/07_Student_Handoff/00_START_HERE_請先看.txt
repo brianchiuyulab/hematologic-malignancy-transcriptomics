@@ -1,0 +1,53 @@
+血癌 T-ALL transcriptomics 精簡交接包
+更新：2026-09
+
+一、兩組關鍵 dataset
+
+1. GSE262271
+   Human T-ALL single-cell RNA-seq，3 位病人的 diagnosis 與 relapse 配對樣本。
+   主要用途：在 potential malignant T cells 中比較 relapse versus diagnosis。
+
+2. GSE218858
+   Mouse bulk RNA-seq，STAT5B N642H hyperactivation model。
+   主要用途：檢查 single-cell relapse pathways 是否在 STAT5B 過度活化背景呈相同方向。
+
+二、最重要的分析層級
+
+Frozen primary：candidate malignant T-lineage 中 global CNV-high top 25%。
+- 3,207 cells
+- Mitophagy NES 1.44，full KEGG FDR 0.0998
+- Proteasome NES 1.53，full KEGG FDR 0.109
+
+Fixed secondary：within-sample CNV-high top 25%，保留原論文 QC。
+- 3,210 cells，minimum 179 cells/sample
+- Mitophagy FDR 0.081
+- Proteasome FDR 0.068
+
+Exploratory high-confidence core：within-sample CNV-high top 15%，保留原論文 QC。
+- 1,926 cells，minimum 107 cells/sample
+- Mitophagy NES 1.69，full KEGG FDR 0.015
+- Proteasome NES 1.89，full KEGG FDR 0.0059
+- 兩個 pathway 的 leading-edge score 在 3/3 patients 都於 relapse 上升
+
+三、為何會討論 15%
+
+867 顆 non-T reference cells 的 CNV burden q95 = 0.0269。
+全體 candidate T-lineage cells 中，15.4% 超過這個正常參考上限。
+這個 reference anchor 不使用 relapse-versus-diagnosis 的 pathway P value，因此屬 outcome-independent evidence。
+
+但是，top 15% 仍是在 sensitivity analysis 中檢查過的比例，不能只因它讓 Mitophagy 與 Proteasome 都顯著就稱為 unbiased primary analysis。正確寫法是：reference-anchored exploratory high-confidence core。Frozen primary top 25% 必須保留並一起報告。
+
+四、推薦閱讀順序
+
+1. 01_Summary 裡的 8-slide PPT
+2. 02_Key_Figures/07_CNV_fraction_cutoff_and_robustness.png
+3. 02_Key_Figures/03_single_cell_KEGG_GSEA.png
+4. 02_Key_Figures/05_cross_dataset_GSEA_concordance.png
+5. 03_Key_Tables 裡的 cutoff、paired direction 與 cross-dataset CSV
+6. 04_Code_Availability/CODE_AVAILABILITY.txt
+
+五、解讀邊界
+
+這些結果支持 relapse-associated oxidative、biosynthetic、mitophagy 與 proteasome program，也支持它們與 STAT5B hyperactivation 的 pathway-level association。
+它們不能單獨證明 mitochondrial STAT5 直接活化 mitophagy、造成 proteasome dependency，或導致 bortezomib resistance。
+

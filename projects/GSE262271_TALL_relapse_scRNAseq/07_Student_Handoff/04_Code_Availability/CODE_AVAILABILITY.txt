@@ -1,0 +1,26 @@
+GitHub repository
+https://github.com/brianchiuyulab/hematologic-malignancy-transcriptomics
+
+Single-cell module
+projects/GSE262271_TALL_relapse_scRNAseq
+
+GitHub 已包含
+- 完整分析 code 與 script run order
+- Final publication-style figures
+- Compact result CSV tables
+- Full handoff PPT 與本精簡 student handoff package
+
+GitHub 刻意不包含
+- 03_Raw_Data
+- 04_R_Objects
+
+原因：檔案很大，而且可由 GEO accession 或本機 archived objects 取得。
+
+核心統計設計
+- Single-cell：patient-level pseudobulk edgeR
+- Paired design：~ patient_pair + condition_simple
+- GSEA ranking：sign(logFC) × sqrt(F)
+- Full KEGG FDR：對完整 tested KEGG collection 做 BH correction
+
+本資料夾的 Key_R_Scripts 只放最常需要閱讀的關鍵 scripts。完整 scripts 01–21 請到 GitHub module 的 05_Code_Availability/R。
+

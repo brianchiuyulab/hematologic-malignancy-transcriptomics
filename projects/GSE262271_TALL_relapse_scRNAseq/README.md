@@ -48,8 +48,9 @@ The final figure suite was rebuilt in September 2026. Diagnosis and relapse use 
 | 04_R_Objects | Final Seurat object and inferCNV objects/support files |
 | 05_Code_Availability | Exact R scripts, run order, environment records and GitHub notes |
 | 06_Handoff_PPT | Lab handoff presentation |
+| 07_Student_Handoff | Concise eight-slide handoff, seven key figures, eight key tables, core scripts and local data pointers |
 
-Start with the PPT, then use `01_Figures/FIGURE_INDEX.csv` and `02_Tables/TABLE_GUIDE.csv`. The eight main figures are the recommended reading order. Supplementary and sensitivity figures are separated physically and by filename.
+For a new student, start with `07_Student_Handoff/00_START_HERE_請先看.txt` and its eight-slide PPT. For the full analysis record, use the full PPT, `01_Figures/FIGURE_INDEX.csv` and `02_Tables/TABLE_GUIDE.csv`.
 
 For the large targeted sensitivity grid, start with `multiverse_both_targets_nominal_P_lt_0.05.csv` and `FigSens07_targeted_GSEA_multiverse_specification_curve.png`; the complete one-row-per-pathway-per-specification audit remains available separately.
 

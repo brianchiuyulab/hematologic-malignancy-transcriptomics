@@ -1,0 +1,19 @@
+Dataset 1: GSE262271 paired T-ALL scRNA-seq
+
+Raw archive
+C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\single cell\BTZ 相關\GSE262271_TALL_relapse_scRNAseq\03_Raw_Data\GSE262271_RAW.tar
+
+Final Seurat object
+C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\single cell\BTZ 相關\GSE262271_TALL_relapse_scRNAseq\04_R_Objects\GSE262271_seurat_qc_harmony_annotated.rds
+
+inferCNV object
+C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\single cell\BTZ 相關\GSE262271_TALL_relapse_scRNAseq\04_R_Objects\inferCNV\infercnv_obj_nonT_reference.rds
+
+Dataset 2: GSE218858 STAT5B N642H bulk RNA-seq
+
+Analyzed deliverables
+C:\Users\User\Documents\BTZ resistance\GSE218858_R_DESeq2_final_deliverables
+
+Important note
+Raw data and R objects remain in their canonical locations. This handoff package uses pointers instead of duplicating hundreds of megabytes.
+

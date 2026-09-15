@@ -1,6 +1,6 @@
 # Code availability
 
-Current main analysis: within-sample CNV top15, whole-KEGG FDR < 0.05. R22–26, reviewed 2026-09-15. Deck builder: presentation/build_reviewed_handoff.mjs.
+Current main analysis: within-sample CNV top15, whole-KEGG FDR < 0.05. R22–27, reviewed 2026-09-15. Deck builder: presentation/build_reviewed_handoff.mjs.
 
 | Script | Purpose |
 |---|---|
@@ -9,8 +9,11 @@ Current main analysis: within-sample CNV top15, whole-KEGG FDR < 0.05. R22–26,
 | R/26_shared_pathway_dotplot.R | Aligned40-pathway NES/FDR dot plot and complete20-row presentation pages, called by R23 |
 | R/24_independent_reproduction_checks.R | Independent aggregation/model check, historical-ranking comparison, updated lineage Seurat object |
 | R/25_reviewed_supporting_figures.R | CNV cutoff distributions and paired gene heatmap |
+| R/27_publication_figures.R | Current main graphics, shared cell-type colour keys, six-lineage marker summary, full20-cluster supplement and FDR-star dot plots |
 
-Use run_reviewed_analysis.ps1 with -ProjectRoot and -BulkRoot. It writes only to an ignored _reproduction_run directory. R23 redraws main figures from reviewed CSV files alone. R25 additionally needs the local reviewed R cache.
+Use run_reviewed_analysis.ps1 with -ProjectRoot and -BulkRoot. It writes only to an ignored _reproduction_run directory. R23 produces the tables and baseline graphics. R25 additionally needs the local reviewed R cache. R27 applies the final reader graphics after R25, using the same frozen CSV results. The wrapper then checks table integrity. R26 is called by R23. For a display-only rebuild, run R26 with Table07 and the figure output directory, then R27 with the audit-results and handoff directories.
+
+Figure01B pools cluster marker means and expression percentages using cluster cell counts as weights, then scales expression within gene across six broad lineages. FigureS07 retains all20 cluster profiles. No cell assignment changes. The colour mapping and pooled values are saved under the handoff code-availability folder.
 
 R/verify_reviewed_tables.R takes two arguments: the reviewer_audit_results folder
 and the 07_Student_Handoff folder. It checks full-collection BH, reproduced

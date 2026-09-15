@@ -1,7 +1,7 @@
 主分析：within-sample CNV top 15%，完整 KEGG BH FDR < 0.05。
 
-Fig01A：Cell lineage UMAP。
-Fig01B：所有 20 個 cluster 的 marker 證據。
+Fig01A：Cell lineage UMAP，附直接名稱與完整顏色色鍵。
+Fig01B：六類 cell type 的 marker 摘要。依 cluster 細胞數加權，左側色條與 UMAP 一致。
 Fig02：主分析六個 paired samples 的 cells 數。
 Fig03 / Fig03B：Single-cell 顯著 KEGG（完整圖 / PPT 精簡圖）。
 Fig04 / Fig04B：Bulk 顯著 KEGG（完整圖 / PPT 精簡圖）。
@@ -16,7 +16,8 @@ FigS02：Reference q95 與 sample top15 實際 cutoff 分布。
 FigS03：Paired gene heatmap，星號以 gene-level FDR 為準。
 FigS04：Top15 與原始 top25 的細胞數比較。
 FigS05：原始 top25 與 bulk 的交集，13 條共同上調。
-FigS06：主分析、原始 top25、bulk 的 target 比較。
+FigS06：四種 single-cell 定義及 bulk 的 Proteasome / Mitophagy 比較。
+FigS07：完整 20 個 cluster 的 marker 證據，保留 cluster 編號及 cell type 色條。
 
 所有圖提供 PNG 與 PDF。主分析 enrichment 門檻一致為 FDR < 0.05。
 

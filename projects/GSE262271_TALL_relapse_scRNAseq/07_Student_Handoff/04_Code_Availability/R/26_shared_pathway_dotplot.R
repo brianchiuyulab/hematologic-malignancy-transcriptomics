@@ -24,7 +24,7 @@ make_plot<-function(rows,full=FALSE){
  scale_color_manual(values=c('Relapse scRNA-seq'='#0072B2','STAT5B N642H bulk'='#D55E00'),guide='none')+
  labs(x='Normalized enrichment score (NES)',y=NULL,caption='* FDR < 0.05     ** FDR < 0.01     *** FDR < 0.001')+
  theme_classic(base_family='Arial',base_size=11)+
- theme(axis.text.y=element_text(size=if(full)10 else 10.7,face='plain',color='#202020',margin=margin(r=8)),axis.text.x=element_text(size=10,color='#202020'),axis.title.x=element_text(size=11,margin=margin(t=8)),axis.line.y=element_blank(),axis.ticks.y=element_blank(),axis.line.x=element_line(linewidth=.4),axis.ticks.x=element_line(linewidth=.3),panel.grid.major.y=element_line(color='#EDEDED',linewidth=.25),strip.background=element_blank(),strip.text=element_text(size=11,face='plain',margin=margin(b=10)),panel.spacing.x=grid::unit(6,'mm'),plot.caption=element_text(size=9,hjust=.5,margin=margin(t=8)),plot.margin=margin(10,10,8,5))
+ theme(axis.text.y=element_text(size=if(full)10 else 10.7,face='plain',color='#202020',margin=margin(r=8)),axis.text.x=element_text(size=10,color='#202020'),axis.title.x=element_text(size=11,margin=margin(t=8)),axis.line.y=element_blank(),axis.ticks.y=element_blank(),axis.line.x=element_line(linewidth=.4),axis.ticks.x=element_line(linewidth=.3),panel.grid=element_blank(),strip.background=element_blank(),strip.text=element_text(size=11,face='plain',margin=margin(b=10)),panel.spacing.x=grid::unit(6,'mm'),plot.caption=element_text(size=9,hjust=.5,margin=margin(t=8)),plot.margin=margin(10,10,8,5))
 }
 save_plot<-function(p,name,w,h){
  b<-ggplot_build(p)

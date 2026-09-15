@@ -28,6 +28,10 @@ try {
   if ($LASTEXITCODE -ne 0) { throw 'Independent reproduction checks failed.' }
   & $Rscript (Join-Path $PSScriptRoot 'R\25_reviewed_supporting_figures.R') $results $delivery
   if ($LASTEXITCODE -ne 0) { throw 'Supporting figures failed.' }
+  & $Rscript (Join-Path $PSScriptRoot 'R\27_publication_figures.R') $results $delivery
+  if ($LASTEXITCODE -ne 0) { throw 'Reader figure rendering failed.' }
+  & $Rscript (Join-Path $PSScriptRoot 'R\verify_reviewed_tables.R') $results $delivery
+  if ($LASTEXITCODE -ne 0) { throw 'Final table integrity checks failed.' }
   Write-Output "Reproduction complete: $delivery"
 } finally {
   $env:LC_ALL = $previousLocale

@@ -19,7 +19,7 @@ Mitophagy：single-cell NES 1.6703 / FDR 0.013197；bulk NES 1.5576 / FDR 0.0282
 
 檔案用途
 PPT：背景、樣本設計、annotation、全 KEGG 結果、交集、target、限制及重現方式。
-Fig01A / Fig01B：lineage UMAP 與 marker 證據。屬廣義 lineage annotation，沒有獨立 clonality / DNA 驗證。
+Fig01A / Fig01B：附 cell type 色鍵的 UMAP 與六類 lineage marker 摘要。完整 20-cluster 證據在專案補充圖 FigS07。
 Fig05：兩組同方向 pathway 交集。
 Fig06：完整 40 條交集 dot plot。X = NES，星號 = 完整 KEGG FDR。所有 pathway 使用一般字體。
 FigS06：不同細胞定義的 target 敏感度，不可省略設定依賴性。
@@ -36,6 +36,6 @@ Code availability / 重現
 https://github.com/brianchiuyulab/hematologic-malignancy-transcriptomics
 專案：projects/GSE262271_TALL_relapse_scRNAseq
 05_Code_Availability/run_reviewed_analysis.ps1：由原始資料及 R 物件重跑，ProjectRoot / BulkRoot 指向 DATA_AND_OBJECT_LOCATIONS 所列位置。
-R/22：模型及 GSEA；23、25、26：圖表；24 與 verify_reviewed_tables.R：重現及結果檢查。
+R/22：模型及 GSEA；23、25、26、27：圖表；24 與 verify_reviewed_tables.R：重現及結果檢查。
 presentation/build_reviewed_handoff.mjs：PPT 來源。README 說明 R 套件與簡報執行環境。
 完整 07_Student_Handoff 保留額外 figures、tables、audit 與方法，不需先逐一閱讀。

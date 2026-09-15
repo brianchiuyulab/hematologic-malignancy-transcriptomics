@@ -22,12 +22,14 @@ FigS06：主分析、原始 top25、bulk 的 target 比較。
 
 Fig06 讀圖與圖說
 左右兩欄依序是 human relapse scRNA-seq 與 mouse STAT5B N642H bulk RNA-seq。
-每列一條 KEGG pathway。點的位置表示 NES，顏色表示各自完整 KEGG 的 BH FDR。
+每列一條 KEGG pathway。點的位置及旁邊數字表示 NES。藍色為 single-cell，橘色為 bulk。
+右側獨立欄位直接列出各自完整 KEGG 的 BH FDR 與星號，不再依色階猜顯著性。
+* FDR < 0.05；** FDR < 0.01；*** FDR < 0.001。星號依未四捨五入的 FDR 計算，不是 nominal P。
 所有列在兩邊均 FDR < 0.05，且均為正 NES。正 NES 分別表示 relapse / N642H 較高。
 由上至下依兩個 FDR 中較大的數值由小到大排列，同值時按 pathway 名稱排序。
 此排序數值只是排版依據，不是合併 FDR，也沒有重算 P value。
 Proteasome 第 14 列、Mitophagy 第 28 列，以粗體名稱方便尋找，沒有往前移。
-顏色使用 -log10(FDR) 尺度，FDR <= 1e-6 使用同一最深色；精確值見 Table07。
+NES 顯示至小數第 2 位。FDR 顯示小數或科學記號；完整精度值見 Table07。
 HIV-1、HTLV-1、KSHV 是圖面縮寫，完整 KEGG 名稱保留於 Table07。
 Disease / infection pathway 名稱不代表本資料中確實發生該疾病或感染。
 

@@ -84,9 +84,16 @@ const core=summary.counts.find(x=>x.Dataset==='scRNAseq_within15'),bulk=summary.
 }
 // 9
 {
- const s=slide('交集中的 pathway 與 NES','SHARED PROGRAMS');
- await image(s,'Fig06B_shared_strongest',40,112,1200,550);
- notes(s,'All same-direction intersections are provided in Table07 and full Figure06. This slide shows at most15 pathways ranked by the worse FDR across the two datasets, not a target-selected list. Each tile contains NES and whole-collection significance.');
+ const s=slide('40 條共同上調 pathway：第 1–20 條','SHARED PROGRAMS');
+ await image(s,'Fig06B_shared_pathways_ranks01_20',40,108,1200,540);
+ txt(s,'兩組均 FDR < 0.05。依兩組較大的 FDR 由小到大排列，Proteasome 位於第 14 條。',65,650,1150,30,18);
+ notes(s,'Table07 and complete Figure06 use exactly the same order: increasing max(sc_FDR, bulk_FDR), with alphabetical pathway-name ties. The maximum is a display ordering key, not a combined FDR. Position indicates NES; color indicates full-catalog BH FDR on a -log10 scale capped at6. All40 satisfy FDR<0.05 in both datasets. Bold labels identify hypothesis targets without changing ordering. Layout reference: Reis-de-Oliveira et al., Nature Communications (2024), Figures3B and4D, https://www.nature.com/articles/s41467-024-50875-z . Only the plot layout is adapted; the reference article uses other enrichment statistics.');
+}
+{
+ const s=slide('40 條共同上調 pathway：第 21–40 條','SHARED PROGRAMS');
+ await image(s,'Fig06C_shared_pathways_ranks21_40',40,108,1200,540);
+ txt(s,'Mitophagy 位於第 28 條。Single-cell FDR = 0.0132，bulk FDR = 0.0282。',65,650,1150,30,18);
+ notes(s,'Continuation of the complete40-pathway intersection. Both datasets use full-collection BH FDR<0.05. Positive NES means higher in relapse (left) or N642H (right). scRNAseq Proteasome FDR=0.00837925505996343, Mitophagy=0.0131970176091592; bulk Proteasome=0.00107780111297412, Mitophagy=0.028233910102446. Disease/infection-labeled gene sets do not establish those diagnoses. Abbreviated display labels retain exact original names in Table07.');
 }
 // 10
 {
@@ -123,12 +130,12 @@ const core=summary.counts.find(x=>x.Dataset==='scRNAseq_within15'),bulk=summary.
 // 14
 {
  const s=slide('交接檔案與可重現性','HANDOFF');
- table(s,[['資料','從哪裡看'],['PPT / 說明','01_Summary；根目錄 00_READ_ME.txt'],['Figures','02_Figures：PNG 閱讀、PDF 排版'],['Tables','03_Tables：完整 KEGG、同方向交集、target FDR、cell counts'],['Code / 稽核記錄','04_Code_Availability：R scripts 22–25、原始 bulk pipeline、版本與限制'],['Raw data / R objects','05_Data_Locations：原始 accession 與本機路徑，不重複搬大型檔案']],[270,900],126,380,21);
+ table(s,[['資料','從哪裡看'],['PPT / 說明','01_Summary；根目錄 00_READ_ME.txt'],['Figures','02_Figures：PNG 閱讀、PDF 排版'],['Tables','03_Tables：完整 KEGG、同方向交集、target FDR、cell counts'],['Code / 稽核記錄','04_Code_Availability：R scripts 22–26、原始 bulk pipeline、版本與限制'],['Raw data / R objects','05_Data_Locations：原始 accession 與本機路徑，不重複搬大型檔案']],[270,900],126,380,21);
  txt(s,'github.com/brianchiuyulab/hematologic-malignancy-transcriptomics',65,548,1130,45,23,true,BLUE);
  txt(s,'投稿前仍需補強 malignant-cell 的獨立驗證。此包提供可追溯的探索型分析，不標榜已完成審稿驗證。',65,611,1120,59,22,false,ORANGE);
  notes(s,'Code22 recomputes count-based models and high-precision GSEA. Code23 renders reader figures/tables. The audit reports historical discrepancies rather than silently replacing provenance. No raw data, patient identifiers or large R objects are uploaded.');
 }
 await fs.mkdir(TMP_DIR,{recursive:true});await fs.mkdir(path.dirname(FINAL_PPTX),{recursive:true});
 const candidatePath=path.join(TMP_DIR,'candidate_reviewed.pptx');await (await PresentationFile.exportPptx(pr)).save(candidatePath);
-await finalizePresentation({workspaceDir:WORKSPACE_DIR,candidatePath,finalPath:FINAL_PPTX,pythonExecutable:RUNTIME_PYTHON,integrityValidatorPath:path.join(SKILL_DIR,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL_DIR,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-heading-fit','--require-native-table-slide','2','--require-native-table-slide','12','--require-native-table-slide','14'],explicitTotalSlideCount:14,requiredNativeTableOwnerSlides:[2,12,14],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:[FONT]},verifyArtifactToolImport:true,receiptPath:path.join(TMP_DIR,'reviewed.validation.json')});
+await finalizePresentation({workspaceDir:WORKSPACE_DIR,candidatePath,finalPath:FINAL_PPTX,pythonExecutable:RUNTIME_PYTHON,integrityValidatorPath:path.join(SKILL_DIR,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL_DIR,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-heading-fit','--require-native-table-slide','2','--require-native-table-slide','13','--require-native-table-slide','15'],explicitTotalSlideCount:15,requiredNativeTableOwnerSlides:[2,13,15],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:[FONT]},verifyArtifactToolImport:true,receiptPath:path.join(TMP_DIR,'reviewed.validation.json')});
 console.log(FINAL_PPTX);

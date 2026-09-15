@@ -2,7 +2,7 @@
 
 Current handoff: [07_Student_Handoff/00_READ_ME.txt](07_Student_Handoff/00_READ_ME.txt).
 
-The 14-slide PPT follows datasets, lineage annotation, paired model, whole-KEGG enrichment in each dataset, same-direction intersection, target pathways, limitations and reproduction.
+The 15-slide PPT follows datasets, lineage annotation, paired model, whole-KEGG enrichment in each dataset, same-direction intersection, target pathways, limitations and reproduction. Figure06 shows all40 shared pathways as aligned NES dot plots; slides9–10 show the same order in two readable pages. No pathways are omitted from the intersection presentation.
 
 ## Reviewed results, 2026-09-15
 
@@ -36,7 +36,7 @@ Broad lineage labels have cluster-marker support. HSC-like/quiescent/ER-stress a
 | 02_Tables/04_Method_Inputs | Original cell metadata / CNV inputs |
 | 03_Raw_Data | GEO archive, not uploaded |
 | 04_R_Objects | Original and reviewed Seurat / inferCNV objects, not uploaded |
-| 05_Code_Availability | R22–25, original pipeline, environment and audit records |
+| 05_Code_Availability | R22–26, original pipeline, environment and audit records |
 
 Current renderer: R23, supporting figures: R25. Legacy R16 and old decks are not current. Use run_reviewed_analysis.ps1 for isolated reproduction. This audit did not realign FASTQ or rerun Cell Ranger, Harmony or inferCNV.
 

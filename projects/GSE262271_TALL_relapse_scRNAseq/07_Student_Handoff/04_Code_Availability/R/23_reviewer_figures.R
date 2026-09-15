@@ -45,7 +45,7 @@ saveplot(overview(original,'Relapse scRNA-seq: original definition','Global top 
 saveplot(overview(sc,'Relapse scRNA-seq','Within-sample top 15%; paired comparison',8)+theme(axis.text.y=element_text(size=11)),'Fig03B_scRNAseq_slide_overview',11,6)
 saveplot(overview(bulk,'STAT5B N642H bulk RNA-seq','N642H vs control; independent 3 vs 3',8)+theme(axis.text.y=element_text(size=11)),'Fig04B_bulk_slide_overview',11,6)
 cross<-function(x,id){a<-x |> transmute(key=key(pathway_name),Pathway=canon(pathway_name),sc_NES=NES,sc_FDR=padj,sc_P=pval,sc_genes=size);b<-bulk |> transmute(key=key(pathway_name),bulk_Pathway=canon(pathway_name),bulk_NES=NES,bulk_FDR=padj,bulk_P=pval,bulk_genes=size);stopifnot(!anyDuplicated(a$key),!anyDuplicated(b$key));full_join(a,b,by='key') |> mutate(Pathway=coalesce(Pathway,bulk_Pathway),analysis=id,tested_in_both=!is.na(sc_FDR)&!is.na(bulk_FDR),sc_significant=!is.na(sc_FDR)&sc_FDR<.05,bulk_significant=!is.na(bulk_FDR)&bulk_FDR<.05,same_direction=tested_in_both & sign(sc_NES)==sign(bulk_NES),shared_FDR005=sc_significant&bulk_significant&same_direction) |> select(-bulk_Pathway) }
-cx<-bind_rows(cross(sc,'within15'),cross(original,'global25'));wr(cx,'Table06_cross_dataset_pathway_membership');wr(cx |> filter(analysis=='within15',shared_FDR005) |> arrange(pmax(sc_FDR,bulk_FDR)),'Table07_same_direction_intersection');wr(cx |> filter(analysis=='global25',shared_FDR005) |> arrange(pmax(sc_FDR,bulk_FDR)),'TableS05_global25_intersection')
+cx<-bind_rows(cross(sc,'within15'),cross(original,'global25'));wr(cx,'Table06_cross_dataset_pathway_membership');wr(cx |> filter(analysis=='within15',shared_FDR005) |> arrange(pmax(sc_FDR,bulk_FDR),Pathway),'Table07_same_direction_intersection');wr(cx |> filter(analysis=='global25',shared_FDR005) |> arrange(pmax(sc_FDR,bulk_FDR)),'TableS05_global25_intersection')
 venn<-function(x,id,dir){
   z<-x |> filter(analysis==id,tested_in_both);a<-z$key[z$sc_significant & if(dir=='Up')z$sc_NES>0 else z$sc_NES<0];b<-z$key[z$bulk_significant & if(dir=='Up')z$bulk_NES>0 else z$bulk_NES<0]
   theta<-seq(0,2*pi,length.out=301);cir<-bind_rows(data.frame(x=.85+cos(theta),y=sin(theta),Dataset='scRNA-seq'),data.frame(x=2.05+cos(theta),y=sin(theta),Dataset='Bulk'))
@@ -56,14 +56,11 @@ p<-(venn(cx,'within15','Up')+venn(cx,'within15','Down'))+plot_annotation(title='
 saveplot(p,'Fig05_direction_matched_intersection',9,4.5)
 psens<-(venn(cx,'global25','Up')+venn(cx,'global25','Down'))+plot_annotation(title='Sensitivity: original global top 25%',subtitle='FDR < 0.05 in each full collection; circles are schematic',tag_levels='A')
 saveplot(psens,'FigS05_global25_intersection',9,4.5)
-shared<-cx |> filter(analysis=='within15',shared_FDR005) |> arrange(desc(pmin(sc_NES,bulk_NES)))
-z<-bind_rows(shared |> transmute(Pathway,Dataset='Relapse\nscRNA-seq',NES=sc_NES,FDR=sc_FDR),shared |> transmute(Pathway,Dataset='STAT5B N642H\nbulk RNA-seq',NES=bulk_NES,FDR=bulk_FDR));z$Pathway<-factor(z$Pathway,levels=rev(shared$Pathway));z$Dataset<-factor(z$Dataset,levels=c('Relapse\nscRNA-seq','STAT5B N642H\nbulk RNA-seq'))
-p<-ggplot(z,aes(Dataset,Pathway,fill=NES))+geom_tile(color='white',linewidth=.7)+geom_text(aes(label=paste0(sprintf('%.2f',NES),' ',star(FDR))),size=3.2)+scale_fill_gradient2(low='#2166AC',mid='white',high='#B2182B',midpoint=0,limits=c(-3,3),oob=scales::squish,name='NES')+labs(title='Shared KEGG pathways',subtitle='Within-sample top 15%; both datasets FDR < 0.05',x=NULL,y=NULL,caption='* FDR < 0.05; ** < 0.01; *** < 0.001\nPathway names do not imply the corresponding disease is present.')+theme(axis.line=element_blank(),axis.ticks=element_blank(),axis.text.y=element_text(size=9),plot.caption=element_text(hjust=0,size=9))
-saveplot(p,'Fig06_shared_pathways_NES_heatmap',8,max(5,.24*nrow(shared)+2.1))
-topshared<-shared |> arrange(pmax(sc_FDR,bulk_FDR)) |> slice_head(n=15)
-zp<-z |> filter(as.character(Pathway)%in%topshared$Pathway);zp$Pathway<-factor(as.character(zp$Pathway),levels=rev(topshared$Pathway))
-ps<-p %+% zp;ps<-ps+labs(title='Shared pathways: strongest joint evidence',subtitle='Up to 15 pathways, ranked by the larger FDR across datasets')+theme(axis.text.y=element_text(size=11))
-saveplot(ps,'Fig06B_shared_strongest',11,6)
+# One consistent order for the complete plot, presentation pages and Table07.
+this_script<-sub('^--file=','',grep('^--file=',commandArgs(FALSE),value=TRUE)[1])
+dotplot_script<-file.path(dirname(normalizePath(this_script)),'26_shared_pathway_dotplot.R')
+status<-system2(file.path(R.home('bin'),'Rscript.exe'),c(shQuote(dotplot_script),shQuote(file.path(tab,'Table07_same_direction_intersection.csv')),shQuote(fig)))
+if(status!=0)stop('Shared pathway dotplot failed')
 targets<-c('Proteasome','Mitophagy','Autophagy','Autophagy - other','Oxidative phosphorylation','Ribosome')
 targ<-bind_rows(original |> mutate(Dataset='scRNA-seq\nglobal top 25%'),sc |> mutate(Dataset='scRNA-seq\nwithin-sample top 15%'),bulk |> mutate(Dataset='STAT5B N642H\nbulk RNA-seq')) |> mutate(Pathway=canon(pathway_name)) |> filter(Pathway%in%targets)
 targ$Pathway<-factor(targ$Pathway,levels=rev(targets));targ$Dataset<-factor(targ$Dataset,levels=c('scRNA-seq\nglobal top 25%','scRNA-seq\nwithin-sample top 15%','STAT5B N642H\nbulk RNA-seq'))

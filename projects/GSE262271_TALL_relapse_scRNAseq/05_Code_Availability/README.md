@@ -1,11 +1,12 @@
 # Code availability
 
-Current main analysis: within-sample CNV top15, whole-KEGG FDR < 0.05. R22–25, reviewed 2026-09-15. Deck builder: presentation/build_reviewed_handoff.mjs.
+Current main analysis: within-sample CNV top15, whole-KEGG FDR < 0.05. R22–26, reviewed 2026-09-15. Deck builder: presentation/build_reviewed_handoff.mjs.
 
 | Script | Purpose |
 |---|---|
 | R/22_reviewer_audit.R | Marker evidence, cell definitions, count-model refits, high-precision whole-KEGG GSEA, alias sensitivity and paired direction |
 | R/23_reviewer_figures.R | Whole-dataset discovery, intersection, target figures and readable tables |
+| R/26_shared_pathway_dotplot.R | Aligned40-pathway NES/FDR dot plot and complete20-row presentation pages, called by R23 |
 | R/24_independent_reproduction_checks.R | Independent aggregation/model check, historical-ranking comparison, updated lineage Seurat object |
 | R/25_reviewed_supporting_figures.R | CNV cutoff distributions and paired gene heatmap |
 
@@ -32,4 +33,4 @@ Historical wrappers support old file layouts. Use the reviewed wrapper for the c
 
 Top15 is the designated main analysis. Because it was fixed after sensitivity analyses, the selection remains exploratory rather than prospectively specified. Pooled reference q95 is not equivalent to within-sample15 or a validated malignancy threshold. Marker review is not independent reference mapping or genotype validation. GSEA on a paired gene ranking is not a paired phenotype-permutation test. Three patient pairs limit generalization. These transcriptomes do not establish drug resistance, mitophagy flux, mitochondrial STAT5 localization or proteasome dependency.
 
-The 14-slide PPT has editable text/tables and embedded R figures. Its builder requires the OpenAI Artifact Tool JavaScript runtime. PNG and vector PDF figures are provided.
+The 15-slide PPT has editable text/tables and embedded R figures. Its builder requires the OpenAI Artifact Tool JavaScript runtime. PNG and vector PDF figures are provided. The complete intersection and Table07 share one display order: increasing max(sc_FDR, bulk_FDR), with alphabetical ties. This maximum is not a combined FDR. Plot colors display -log10(FDR), saturated at6, without altering stored values. Visual layout reference: Reis-de-Oliveira et al., Nature Communications (2024), Figures3B and4D, https://www.nature.com/articles/s41467-024-50875-z .

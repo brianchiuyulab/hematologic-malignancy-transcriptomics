@@ -6,8 +6,8 @@ Fig02：主分析六個 paired samples 的 cells 數。
 Fig03 / Fig03B：Single-cell 顯著 KEGG（完整圖 / PPT 精簡圖）。
 Fig04 / Fig04B：Bulk 顯著 KEGG（完整圖 / PPT 精簡圖）。
 Fig05：主分析同方向 Venn，40 條共同上調、0 條共同下調。
-Fig06：全部 40 條交集 NES 熱圖。
-Fig06B：交集中按兩邊較大 FDR 排序的前 15 條。
+Fig06_shared_pathways_dotplot：全部 40 條交集，從上至下連續排列。
+Fig06B / Fig06C：同一張圖拆成前 20 / 後 20 條供 PPT 使用，沒有省略 pathway。
 Fig07：主分析 target pathways，包含不顯著結果。
 Fig08：三位病人的 leading-edge 平均表達方向，屬描述性檢查。
 
@@ -19,3 +19,18 @@ FigS05：原始 top25 與 bulk 的交集，13 條共同上調。
 FigS06：主分析、原始 top25、bulk 的 target 比較。
 
 所有圖提供 PNG 與 PDF。主分析 enrichment 門檻一致為 FDR < 0.05。
+
+Fig06 讀圖與圖說
+左右兩欄依序是 human relapse scRNA-seq 與 mouse STAT5B N642H bulk RNA-seq。
+每列一條 KEGG pathway。點的位置表示 NES，顏色表示各自完整 KEGG 的 BH FDR。
+所有列在兩邊均 FDR < 0.05，且均為正 NES。正 NES 分別表示 relapse / N642H 較高。
+由上至下依兩個 FDR 中較大的數值由小到大排列，同值時按 pathway 名稱排序。
+此排序數值只是排版依據，不是合併 FDR，也沒有重算 P value。
+Proteasome 第 14 列、Mitophagy 第 28 列，以粗體名稱方便尋找，沒有往前移。
+顏色使用 -log10(FDR) 尺度，FDR <= 1e-6 使用同一最深色；精確值見 Table07。
+HIV-1、HTLV-1、KSHV 是圖面縮寫，完整 KEGG 名稱保留於 Table07。
+Disease / infection pathway 名稱不代表本資料中確實發生該疾病或感染。
+
+Layout reference: Reis-de-Oliveira et al., Nature Communications 15, 6510 (2024),
+Figures 3B and 4D: https://www.nature.com/articles/s41467-024-50875-z
+僅參照圖面編排；本圖仍顯示既有 GSEA NES / FDR，不改用該文的 ORA 統計。

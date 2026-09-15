@@ -1,7 +1,7 @@
 血癌 transcriptomics 交接包｜主分析統一版 2026-09-15
 
 現在主分析固定：within-sample CNV top 15% + 完整 KEGG BH FDR < 0.05。
-先看 01_Summary 的 14 頁 PPT；圖在 02_Figures，CSV 在 03_Tables。
+先看 01_Summary 的 15 頁 PPT；圖在 02_Figures，CSV 在 03_Tables。
 
 一、研究目的與流程
 比較 T-ALL relapse 與 STAT5B 過度活化是否有同方向的 transcriptomic programs。
@@ -36,7 +36,9 @@ General autophagy 不顯著：single-cell FDR 0.9831；bulk FDR 0.4308。
 Fig03、04：各自顯著 pathway 概覽。Table04、05 保留全部測試結果。
 Table11：只列 FDR < 0.05 的主分析顯著結果，適合先讀。
 Fig05 / Table07：40 條同方向交集。
-Fig06：全部交集熱圖。Fig06B：按兩邊較大的 FDR 排序之較強共同證據。
+Fig06：全部 40 條交集 dot plot。Fig06B / Fig06C：同一排序的前 20 / 後 20 條。
+排序統一為兩組較大的 FDR 由小到大，同值時依 pathway 名稱排序。
+Proteasome 第 14 條，Mitophagy 第 28 條。排序值不是另外計算的共同 FDR。
 Fig07：target 結果，含不顯著的 autophagy，避免只呈現正結果。
 
 四、為什麼用 top 15%，q95 如何支持？

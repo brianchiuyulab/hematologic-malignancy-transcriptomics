@@ -1,0 +1,5 @@
+HISTORICAL FROZEN RESULTS / REPRODUCTION INPUTS
+These tables preserve the earlier global-top25 analysis and frozen gene-set
+membership. R22 and R24 use them for numerical reproduction checks.
+They are not the current high-precision GSEA report.
+Use ../01_Key_Results or ../../07_Student_Handoff/03_Tables for reviewed results.

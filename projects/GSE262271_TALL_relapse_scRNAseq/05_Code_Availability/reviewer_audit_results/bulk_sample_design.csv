@@ -1,0 +1,7 @@
+"sample_id","condition","genotype","stage","name.stage_replicate"
+"GSM6757851","R2S5b_DN","STAT5BN642H Rag2-/-","DN","104_DN"
+"GSM6757853","R2b_DN","Rag2-/-","DN","106_DN"
+"GSM6757865","R2b_DN","Rag2-/-","DN","90_DN"
+"GSM6757866","R2S5b_DN","STAT5BN642H Rag2-/-","DN","93_DN"
+"GSM6757868","R2S5b_DN","STAT5BN642H Rag2-/-","DN","94_DN"
+"GSM6757870","R2b_DN","Rag2-/-","DN","95_DN_96_DN"

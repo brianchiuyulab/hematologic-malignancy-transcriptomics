@@ -1,0 +1,18 @@
+Table01–03：cell annotation、每個 sample 的 QC / cell counts、四種 CNV selection 的細胞數。
+Table04：single-cell within-sample top 15% 的全部 KEGG pathways，按 FDR 排序。
+Table05：STAT5B N642H bulk 的全部 KEGG pathways，按 FDR 排序。
+Table06：兩組各 pathway 的 membership、NES、FDR，包括未共同測試或不顯著者。
+Table07：FDR < 0.10 且同方向的完整交集；analysis 欄區分 within15 與 global25。
+Table08：Proteasome、Mitophagy、Autophagy 等 target 的 P / FDR。
+Table09：各病人 leading-edge 平均 log2 CPM 的配對變化，描述性資料。
+Table10：每組上調 / 下調的顯著 pathway 總數。
+TableS01：原始 global top 25% 的完整 KEGG 重算結果。
+TableS02：不同 CNV 定義及 gene-symbol 修正 sensitivity。
+TableS03：各 sample top 15% 的實際 CNV cutoff。
+TableS04：leading-edge genes 的 paired DEG P / gene-level FDR。
+
+NES > 0：relapse 或 STAT5B N642H 較高。NES < 0：較低。
+P_value / pval：nominal gene-set P。
+FDR / padj：完整 KEGG collection 內 BH 校正。
+Gene-level FDR：另在 TableS04，不能與 pathway FDR 混用。
+shared_FDR010 = TRUE 才是同方向交集。tested_in_both = FALSE 表示某一 catalog 沒有測到，不能當成不顯著。

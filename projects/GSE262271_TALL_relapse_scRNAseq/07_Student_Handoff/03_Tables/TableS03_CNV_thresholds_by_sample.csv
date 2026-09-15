@@ -1,0 +1,7 @@
+"sample_id","patient_pair","condition_simple","cutoff","sample"
+"M104","P1","diagnosis",0.0169790350766311,"P1 Dx"
+"M127","P1","relapse",0.0303771617412866,"P1 Rel"
+"M143","P2","diagnosis",0.0316120724433664,"P2 Dx"
+"M148","P2","relapse",0.0216889835546744,"P2 Rel"
+"M187","P3","diagnosis",0.0396513933502837,"P3 Dx"
+"M187r","P3","relapse",0.0273367995876705,"P3 Rel"

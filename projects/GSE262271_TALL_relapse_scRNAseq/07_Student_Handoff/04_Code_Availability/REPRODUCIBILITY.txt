@@ -1,0 +1,79 @@
+Current analysis code: R/22_reviewer_audit.R, R/23_reviewer_figures.R,
+R/24_independent_reproduction_checks.R, R/25_reviewed_supporting_figures.R.
+The scripts are also tracked in the hematologic-malignancy-transcriptomics GitHub repository.
+
+Models
+GSE262271: summed raw RNA counts within each selected patient sample, edgeR
+filterByExpr, TMM, robust dispersion and quasi-likelihood fit, design
+~ patient_pair + condition_simple, contrast relapse relative to diagnosis.
+Genome-wide rank = sign(logFC) * sqrt(F), no DEG fold-change cutoff for GSEA.
+All three pairs remain in every fitted definition. Residual model df = 2.
+GSE218858: six selected deposited count libraries, independent DESeq2 design
+~ condition, R2S5b_DN relative to R2b_DN. Filter total counts >=10 and >=5 counts
+in at least two samples. Rank by Wald statistic, one value per gene symbol.
+
+GSEA
+fgsea 1.32.4; seed 20260915; sampleSize 501; nPermSimple 50000; eps 0; nproc 1.
+Single-cell frozen human KEGG membership, minSize 5, no upper size exclusion.
+Bulk frozen Enrichr KEGG 2019 Mouse membership, minSize 5, maxSize 2000.
+BH is recomputed and verified over all tested pathways in each analysis.
+The single-cell and bulk catalogs are not identical. Intersection uses
+canonical pathway names tested in both, with both FDR <0.10 and matching NES signs.
+This is a pathway-name comparison, not a one-to-one ortholog-level meta-analysis.
+The minor tied ranks are deterministic for the stored order and recorded in logs.
+The named symbol-resolution sensitivity resolves unambiguous aliases and known
+mitochondrial legacy names. Unresolved descriptive strings are audited, not guessed.
+
+Primary reproduction environment
+R 4.4.2, edgeR 4.4.2, fgsea 1.32.4, DESeq2 1.44.0, Seurat 5.5.1.
+See Audit/sessionInfo.txt for complete versions and locale.
+Important: this workstation has multiple R package libraries. Script22 checks
+edgeR / fgsea versions and prioritizes GSE_REPRO_R_LIB. Do not silently load the
+older edgeR 4.2.2 / fgsea 1.30.0 library.
+
+Run
+Use the full repository module's 05_Code_Availability/run_reviewed_analysis.ps1
+with -ProjectRoot and -BulkRoot pointing to the locations in 05_Data_Locations.
+The wrapper writes only to an ignored _reproduction_run directory, not the
+reviewed deliverables. It sets a UTF-8 Windows locale for Chinese paths.
+Without raw/object access, R23 can reproduce the main figures from the reviewed
+CSV inputs in 05_Code_Availability/reviewer_audit_results on the full module.
+R25 additionally needs reviewed_cache.rds from the local R objects.
+R24 recreates a Seurat object with reviewed lineage labels and explicit selection
+flags. Original major_annotation and broad_annotation columns are retained.
+verify_reviewed_tables.R checks published CSV integrity without model fitting.
+Arguments: reviewer_audit_results directory, then the 07_Student_Handoff directory.
+
+The original bulk analysis_gse218858_R.R is included under Bulk_original_pipeline.
+Historical preprocessing/inferCNV/GO/STAT5/sensitivity scripts remain in the full
+module. They are provenance, not the renderer for the current handoff.
+This audit re-fitted from deposited bulk counts and the stored scRNA-seq count
+object. It did not realign FASTQ, rerun Cell Ranger, Harmony or inferCNV end to end.
+
+Validation
+Independent direct cell summation and sparse matrix aggregation give identical counts.
+All 10,950 original single-cell gene statistics reproduce to floating-point precision.
+All 17,991 stored bulk gene statistics reproduce to floating-point precision.
+Historical ranking and rebuilt ranking give identical high-precision global25 GSEA.
+The older global25 q=0.09984 and 0.10881 are not retained as current estimates.
+The original top15 run actually tested 352 sets after maxSize filtering while its
+metadata reported 353. Current output records actual tested n.
+Exploratory selection of top15 is not corrected by within-run pathway BH.
+
+Annotation
+Broad lineage labels use all20 cluster marker profiles. They are not an independent
+reference-mapping validation. HTO singlets do not remove every possible same-sample
+doublet. Potential malignant is an operational CNV-high subset, not validated cancer
+probability. Pooled reference q95 is not equivalent to within-sample top15.
+
+Presentation source: presentation/build_reviewed_handoff.mjs.
+It requires the OpenAI Artifact Tool JavaScript presentation runtime. Text and
+tables are editable; scientific evidence figures are embedded R-rendered PNGs,
+with matching vector PDF files supplied separately. Final slide renders were
+inspected. Native desktop PowerPoint editing was not tested.
+
+Sources
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE262271
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE218858
+https://github.com/broadinstitute/inferCNV/wiki/Running-InferCNV
+https://bioconductor.org/packages/release/bioc/vignettes/fgsea/inst/doc/fgsea-tutorial.html

@@ -1,19 +1,40 @@
-Dataset 1: GSE262271 paired T-ALL scRNA-seq
+Single-cell source project
+C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\single cell\BTZ 相關\GSE262271_TALL_relapse_scRNAseq
 
-Raw archive
-C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\single cell\BTZ 相關\GSE262271_TALL_relapse_scRNAseq\03_Raw_Data\GSE262271_RAW.tar
+Raw GEO archive
+03_Raw_Data\GSE262271_RAW.tar
 
-Final Seurat object
-C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\single cell\BTZ 相關\GSE262271_TALL_relapse_scRNAseq\04_R_Objects\GSE262271_seurat_qc_harmony_annotated.rds
+Original count / QC / Harmony Seurat object (unchanged)
+04_R_Objects\GSE262271_seurat_qc_harmony_annotated.rds
 
-inferCNV object
-C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\single cell\BTZ 相關\GSE262271_TALL_relapse_scRNAseq\04_R_Objects\inferCNV\infercnv_obj_nonT_reference.rds
+Reviewed lineage Seurat object (current labels; original annotation columns retained)
+04_R_Objects\GSE262271_reviewed_lineage_annotation.rds
+Fields: reviewed_cell_type, reviewed_infercnv_score,
+potential_malignant_global25, potential_malignant_within15_exploratory.
 
-Dataset 2: GSE218858 STAT5B N642H bulk RNA-seq
+inferCNV source object (unchanged)
+04_R_Objects\inferCNV\infercnv_obj_nonT_reference.rds
 
-Analyzed deliverables
+Reviewed model / GSEA cache and small annotation selection object
+04_R_Objects\reviewed\reviewed_cache.rds
+04_R_Objects\reviewed\reviewed_metadata_and_selections.rds
+
+Bulk source project (raw data and original processing cache)
+C:\Users\User\Desktop\Public dataset analysis\GEO dataset\2026\bulk\血癌相關\R version
+downloads\GSE218858_RAW.tar
+processed\R_raw_count_matrix.csv.gz
+processed\R_sample_annotation.csv
+processed\R_gene_annotation_orgMm.csv
+reference\KEGG_2019_Mouse.enrichr.gmt
+results\de_results\R_DESeq2_primary_R2S5b_DN_vs_R2b_DN.csv
+
+Bulk earlier reader-facing deliverables
 C:\Users\User\Documents\BTZ resistance\GSE218858_R_DESeq2_final_deliverables
 
-Important note
-Raw data and R objects remain in their canonical locations. This handoff package uses pointers instead of duplicating hundreds of megabytes.
+Public code and reviewed results
+https://github.com/brianchiuyulab/hematologic-malignancy-transcriptomics
+projects/GSE262271_TALL_relapse_scRNAseq/07_Student_Handoff
 
+Raw data and large R objects remain local. Download original data using the GEO
+accessions if handing off to another workstation. The repository alone does not
+contain the large matrices needed to rerun preprocessing.

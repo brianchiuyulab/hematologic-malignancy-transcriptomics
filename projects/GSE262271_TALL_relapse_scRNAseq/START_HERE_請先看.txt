@@ -1,28 +1,14 @@
-GSE262271 期刊圖與交接最終版（2026-09）
+目前請只從 07_Student_Handoff 開始閱讀。
 
-先看：
-1. 06_Handoff_PPT 裡的交接簡報
-2. 01_Figures/01_Main_Figures 裡依 Fig01 至 Fig08 順序閱讀核心圖
-3. 02_Tables/01_Key_Results 裡的核心 CSV
+1. 00_READ_ME.txt：結論、本次修正、哪些不能過度解釋。
+2. 01_Summary：14 張交接 PPT。
+3. 02_Figures：各資料集 KEGG 概覽、交集、target、annotation / sensitivity。
+4. 03_Tables：完整 pathway 名單、NES、P、FDR，附閱讀說明。
 
-本分析的主要細胞群：
-potential malignant T cells = candidate malignant T-lineage cells 中 inferCNV burden 最高的 top 25%
+Top 15% 與 bulk 共有 54 條同方向上調 pathway，沒有共同下調。
+Proteasome / Mitophagy 在 exploratory within-sample top 15% 都上調且 FDR < 0.05。
+原始 global top 25% 是不同分析，不可混用顯著性。Top 15% 不能說成 unbiased。
+Cell annotation 已補 marker 證據，仍需獨立 malignant-cell 驗證。
 
-最重要結論：
-- potential malignant T-cell 比例在三位病人的 relapse 變化不一致，exact paired Wilcoxon P = 0.75
-- relapse 的 oxidative phosphorylation、ribosome/ribosome biogenesis、DNA replication、spliceosome 上升
-- mitophagy：NES 1.44，FDR 0.0998，屬探索型 FDR < 0.10
-- proteasome：NES 1.53，FDR 0.109，接近但沒有通過 FDR < 0.10
-- general autophagy 不顯著
-- STAT5 downstream custom gene sets 不顯著
-- STAT5B N642H bulk dataset 中 OXPHOS、mitophagy、proteasome 同方向上升，支持關聯但不能證明因果
-
-圖例統一規則：
-- Diagnosis：藍色空心圓
-- Relapse：橘紅色實心三角
-- *：FDR < 0.05
-- #：探索型 FDR < 0.10
-- ns：未達 FDR < 0.10
-- Heatmap 的星號只代表它旁邊明確標示的統計層級；個別 proteasome/mitophagy genes 沒有通過 gene-level FDR
-
-資料夾只保留 Figure、Table、Raw data、R objects、Code availability 和交接 PPT。
+Raw data、R objects 已保留。方法、Markdown、核對資料在 05_Code_Availability。
+舊版圖及 8-slide / 16-slide PPT 已從目前閱讀區移除。

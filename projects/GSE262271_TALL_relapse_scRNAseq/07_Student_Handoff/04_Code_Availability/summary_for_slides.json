@@ -1,0 +1,147 @@
+{
+  "counts": [
+    {
+      "Dataset": "bulk_STAT5B",
+      "tested_pathways": 300,
+      "up_FDR005": 107,
+      "down_FDR005": 6,
+      "up_FDR010": 128,
+      "down_FDR010": 8
+    },
+    {
+      "Dataset": "scRNAseq_global25",
+      "tested_pathways": 353,
+      "up_FDR005": 28,
+      "down_FDR005": 0,
+      "up_FDR010": 47,
+      "down_FDR010": 1
+    },
+    {
+      "Dataset": "scRNAseq_within15",
+      "tested_pathways": 353,
+      "up_FDR005": 61,
+      "down_FDR005": 2,
+      "up_FDR010": 83,
+      "down_FDR010": 5
+    }
+  ],
+  "targets": [
+    {
+      "Dataset": "scRNA-seq\nglobal top 25%",
+      "Pathway": "Oxidative phosphorylation",
+      "NES": 1.9243,
+      "padj": 0.0015
+    },
+    {
+      "Dataset": "scRNA-seq\nglobal top 25%",
+      "Pathway": "Ribosome",
+      "NES": 1.8356,
+      "padj": 0.0013
+    },
+    {
+      "Dataset": "scRNA-seq\nglobal top 25%",
+      "Pathway": "Proteasome",
+      "NES": 1.5159,
+      "padj": 0.1262
+    },
+    {
+      "Dataset": "scRNA-seq\nglobal top 25%",
+      "Pathway": "Autophagy - other",
+      "NES": -1.3299,
+      "padj": 0.2832
+    },
+    {
+      "Dataset": "scRNA-seq\nglobal top 25%",
+      "Pathway": "Mitophagy",
+      "NES": 1.4322,
+      "padj": 0.1262
+    },
+    {
+      "Dataset": "scRNA-seq\nglobal top 25%",
+      "Pathway": "Autophagy",
+      "NES": -0.9256,
+      "padj": 0.7723
+    },
+    {
+      "Dataset": "scRNA-seq\nwithin-sample top 15%",
+      "Pathway": "Oxidative phosphorylation",
+      "NES": 2.3807,
+      "padj": 1.0932e-08
+    },
+    {
+      "Dataset": "scRNA-seq\nwithin-sample top 15%",
+      "Pathway": "Ribosome",
+      "NES": 2.7885,
+      "padj": 2.372e-20
+    },
+    {
+      "Dataset": "scRNA-seq\nwithin-sample top 15%",
+      "Pathway": "Proteasome",
+      "NES": 1.8806,
+      "padj": 0.0084
+    },
+    {
+      "Dataset": "scRNA-seq\nwithin-sample top 15%",
+      "Pathway": "Autophagy - other",
+      "NES": -0.9388,
+      "padj": 0.7426
+    },
+    {
+      "Dataset": "scRNA-seq\nwithin-sample top 15%",
+      "Pathway": "Mitophagy",
+      "NES": 1.6703,
+      "padj": 0.0132
+    },
+    {
+      "Dataset": "scRNA-seq\nwithin-sample top 15%",
+      "Pathway": "Autophagy",
+      "NES": -0.7738,
+      "padj": 0.9831
+    },
+    {
+      "Dataset": "STAT5B N642H\nbulk RNA-seq",
+      "Pathway": "Autophagy",
+      "NES": 1.0912,
+      "padj": 0.4308
+    },
+    {
+      "Dataset": "STAT5B N642H\nbulk RNA-seq",
+      "Pathway": "Mitophagy",
+      "NES": 1.5576,
+      "padj": 0.0282
+    },
+    {
+      "Dataset": "STAT5B N642H\nbulk RNA-seq",
+      "Pathway": "Oxidative phosphorylation",
+      "NES": 2.3257,
+      "padj": 1.001e-09
+    },
+    {
+      "Dataset": "STAT5B N642H\nbulk RNA-seq",
+      "Pathway": "Proteasome",
+      "NES": 1.8873,
+      "padj": 0.0011
+    },
+    {
+      "Dataset": "STAT5B N642H\nbulk RNA-seq",
+      "Pathway": "Ribosome",
+      "NES": 1.7585,
+      "padj": 0.0004
+    }
+  ],
+  "intersection": [
+    {
+      "analysis": "global25",
+      "common_tested": 275,
+      "shared_up": 23,
+      "shared_down": 0
+    },
+    {
+      "analysis": "within15",
+      "common_tested": 275,
+      "shared_up": 54,
+      "shared_down": 0
+    }
+  ],
+  "reviewed": "2026-09-15"
+}

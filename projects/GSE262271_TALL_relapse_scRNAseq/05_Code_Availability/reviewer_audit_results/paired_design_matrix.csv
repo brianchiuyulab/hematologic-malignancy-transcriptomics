@@ -1,0 +1,7 @@
+"sample_id","patient_pair","condition_simple","(Intercept)","patient_pairP2","patient_pairP3","condition_simplerelapse"
+"M104","P1","diagnosis",1,0,0,0
+"M127","P1","relapse",1,0,0,1
+"M143","P2","diagnosis",1,1,0,0
+"M148","P2","relapse",1,1,0,1
+"M187","P3","diagnosis",1,0,1,0
+"M187r","P3","relapse",1,0,1,1

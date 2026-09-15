@@ -1,0 +1,33 @@
+"sample_id","patient_pair","condition_simple","reviewed_cell_type","cells","median_features","median_UMI","median_mt"
+"M104","P1","diagnosis","B cell",14,1142.5,3630.5,4.17150846744277
+"M104","P1","diagnosis","Cytotoxic T/NK",5,1700,3923,3.44004772320541
+"M104","P1","diagnosis","Erythroid",2,2786,10425,2.81336284300535
+"M104","P1","diagnosis","Myeloid",6,2467.5,9173,3.72149798345707
+"M104","P1","diagnosis","T-lineage candidate",2889,3020,10280,3.43599172603999
+"M127","P1","relapse","Cytotoxic T/NK",1,1606,5238,4.65826651393662
+"M127","P1","relapse","Erythroid",14,2700.5,13104,3.17115861798086
+"M127","P1","relapse","Myeloid",186,2110.5,10837,3.49308255815236
+"M127","P1","relapse","T-lineage candidate",2991,2024,6375,3.31656711725872
+"M143","P2","diagnosis","B cell",38,1185,3783,4.28242035467743
+"M143","P2","diagnosis","Cytotoxic T/NK",54,1275.5,2885.5,3.95358268522115
+"M143","P2","diagnosis","Erythroid",9,3411,12798,2.78350178261865
+"M143","P2","diagnosis","Myeloid",3,1870,6455,3.12901084310688
+"M143","P2","diagnosis","T-lineage candidate",2279,1647,4529,1.93290379915574
+"M148","P2","relapse","B cell",4,919.5,2675.5,3.07111251185223
+"M148","P2","relapse","Cytotoxic T/NK",25,1644,4373,3.88235294117647
+"M148","P2","relapse","Erythroid",55,5075,29222,3.84738314023172
+"M148","P2","relapse","Myeloid",21,2180,7166,3.70163986626333
+"M148","P2","relapse","T-lineage candidate",1965,3056,10138,2.1344831272494
+"M148","P2","relapse","pDC",7,2524,7761,1.91985568869991
+"M187","P3","diagnosis","B cell",192,1643,4005.5,3.81857882622067
+"M187","P3","diagnosis","Cytotoxic T/NK",92,1913.5,4355.5,3.56146882850318
+"M187","P3","diagnosis","Erythroid",9,3356,9596,3.97366751269036
+"M187","P3","diagnosis","Myeloid",44,2712,7997.5,3.40803691862417
+"M187","P3","diagnosis","T-lineage candidate",713,2005,4379,2.97692269842051
+"M187","P3","diagnosis","pDC",19,3452,11443,2.67922763412842
+"M187r","P3","relapse","B cell",211,1844,5546,4.12749153817225
+"M187r","P3","relapse","Cytotoxic T/NK",81,1736,3649,3.89580451821116
+"M187r","P3","relapse","Erythroid",8,3509,14706,3.91199898326123
+"M187r","P3","relapse","Myeloid",24,2680,9519,4.19325309372413
+"M187r","P3","relapse","T-lineage candidate",1991,2650,7340,3.56319188191882
+"M187r","P3","relapse","pDC",1,2895,8434,3.8534503201328

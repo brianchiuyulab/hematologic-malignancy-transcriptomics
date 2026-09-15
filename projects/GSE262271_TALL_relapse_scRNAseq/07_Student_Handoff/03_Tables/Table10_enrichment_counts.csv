@@ -1,0 +1,4 @@
+"Dataset","tested_pathways","up_FDR005","down_FDR005","up_FDR010","down_FDR010"
+"bulk_STAT5B",300,107,6,128,8
+"scRNAseq_global25",353,28,0,47,1
+"scRNAseq_within15",353,61,2,83,5

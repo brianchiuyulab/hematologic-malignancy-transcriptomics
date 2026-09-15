@@ -1,0 +1,541 @@
+"cluster","cell_type","panel","gene","mean_log_expression","pct_expressing"
+"0","T-lineage candidate","T lineage","CD3D",1.20555825986868,93.9963336388634
+"0","T-lineage candidate","T lineage","CD3E",1.27828475794323,95.1420714940422
+"0","T-lineage candidate","T lineage","TRAC",0.000458260467302522,0.0916590284142988
+"0","T-lineage candidate","T lineage","CD5",0.159609456671135,24.0146654445463
+"0","T-lineage candidate","T lineage","CD7",1.70573750656088,98.5334555453712
+"0","T-lineage candidate","Immaturity","DNTT",1.62848079938539,96.333638863428
+"0","T-lineage candidate","Immaturity","PTCRA",1.20545150819878,88.2676443629698
+"0","T-lineage candidate","Immaturity","CD34",0.000372453741380427,0.0916590284142988
+"0","T-lineage candidate","Immaturity","SOX4",1.96920167771465,98.7167736021998
+"0","T-lineage candidate","B cell","MS4A1",0.000574168002154438,0.0458295142071494
+"0","T-lineage candidate","B cell","CD79A",0.691514745141633,69.4317140238313
+"0","T-lineage candidate","B cell","CD79B",0.206496486873879,30.4766269477544
+"0","T-lineage candidate","Myeloid","LYZ",0.0191645541833914,2.97891842346471
+"0","T-lineage candidate","Myeloid","LST1",0.487156937753383,56.4161319890009
+"0","T-lineage candidate","Myeloid","FCN1",0.0119737574348948,1.78735105407883
+"0","T-lineage candidate","pDC","CLEC4C",0,0
+"0","T-lineage candidate","pDC","LILRA4",0,0
+"0","T-lineage candidate","pDC","TCF4",0.0424952243467814,6.41613198900092
+"0","T-lineage candidate","Erythroid","HBB",0.00205706371145217,0.274977085242896
+"0","T-lineage candidate","Erythroid","ALAS2",0,0
+"0","T-lineage candidate","Erythroid","AHSP",0,0
+"0","T-lineage candidate","Cytotoxic","NKG7",0.650285790684389,68.3318056828598
+"0","T-lineage candidate","Cytotoxic","GNLY",0.0131500212782295,1.83318056828598
+"0","T-lineage candidate","Cytotoxic","KLRD1",0.0175458474097814,2.52062328139322
+"0","T-lineage candidate","Cell cycle","MKI67",0.043752318208143,6.27864344637947
+"0","T-lineage candidate","Cell cycle","TOP2A",0.0226244142875839,3.48304307974335
+"0","T-lineage candidate","Cell cycle","UBE2C",0.0142176701667075,2.29147571035747
+"1","T-lineage candidate","T lineage","CD3D",1.32469382924786,88.5205343889164
+"1","T-lineage candidate","T lineage","CD3E",1.08409815575146,83.0282038594755
+"1","T-lineage candidate","T lineage","TRAC",0.00490662943768268,0.74220682830282
+"1","T-lineage candidate","T lineage","CD5",0.223453456212349,26.7194458189015
+"1","T-lineage candidate","T lineage","CD7",1.9740658588483,94.7055912914399
+"1","T-lineage candidate","Immaturity","DNTT",0.412847040555776,42.0089064819396
+"1","T-lineage candidate","Immaturity","PTCRA",0.297189074882514,29.4903513112321
+"1","T-lineage candidate","Immaturity","CD34",0.00202036139821944,0.296882731321128
+"1","T-lineage candidate","Immaturity","SOX4",2.01991277644046,97.0806531420089
+"1","T-lineage candidate","B cell","MS4A1",0,0
+"1","T-lineage candidate","B cell","CD79A",0.815269693686167,69.4210786739238
+"1","T-lineage candidate","B cell","CD79B",0.0356075497730759,4.45324096981692
+"1","T-lineage candidate","Myeloid","LYZ",0.0238539290303619,2.96882731321128
+"1","T-lineage candidate","Myeloid","LST1",0.748012461610122,67.5408213755567
+"1","T-lineage candidate","Myeloid","FCN1",0.014060393078022,1.78129638792677
+"1","T-lineage candidate","pDC","CLEC4C",0,0
+"1","T-lineage candidate","pDC","LILRA4",0.000336237464916228,0.049480455220188
+"1","T-lineage candidate","pDC","TCF4",0.150334744876769,19.0499752597724
+"1","T-lineage candidate","Erythroid","HBB",0.0018251354382718,0.197921820880752
+"1","T-lineage candidate","Erythroid","ALAS2",0,0
+"1","T-lineage candidate","Erythroid","AHSP",0,0
+"1","T-lineage candidate","Cytotoxic","NKG7",0.489590585445031,48.688767936665
+"1","T-lineage candidate","Cytotoxic","GNLY",0.0132003690819755,1.33597229094508
+"1","T-lineage candidate","Cytotoxic","KLRD1",0.000668591293317927,0.148441365660564
+"1","T-lineage candidate","Cell cycle","MKI67",0.0286026309515342,3.61207323107373
+"1","T-lineage candidate","Cell cycle","TOP2A",0.0393457359767916,4.5522018802573
+"1","T-lineage candidate","Cell cycle","UBE2C",0.0198945675810051,2.67194458189015
+"2","T-lineage candidate","T lineage","CD3D",2.12094272438299,97.4635725849973
+"2","T-lineage candidate","T lineage","CD3E",2.19562198120711,97.733405288721
+"2","T-lineage candidate","T lineage","TRAC",0.0907128097896569,10.0377765785213
+"2","T-lineage candidate","T lineage","CD5",0.236231969617228,24.7166756610901
+"2","T-lineage candidate","T lineage","CD7",1.57759558539613,88.7749595250944
+"2","T-lineage candidate","Immaturity","DNTT",1.29697273233721,81.1656772800863
+"2","T-lineage candidate","Immaturity","PTCRA",0.0518458663984743,4.96492174851592
+"2","T-lineage candidate","Immaturity","CD34",0.0498394943937887,5.5045871559633
+"2","T-lineage candidate","Immaturity","SOX4",3.22797918296029,99.8920669185105
+"2","T-lineage candidate","B cell","MS4A1",0,0
+"2","T-lineage candidate","B cell","CD79A",0.0882225556111375,9.12034538586077
+"2","T-lineage candidate","B cell","CD79B",0.0138853687162752,1.67296276308689
+"2","T-lineage candidate","Myeloid","LYZ",0.00638878954227382,0.647598488936859
+"2","T-lineage candidate","Myeloid","LST1",0.295222710147137,29.1419320021587
+"2","T-lineage candidate","Myeloid","FCN1",0.000375436107680423,0.0539665407447383
+"2","T-lineage candidate","pDC","CLEC4C",0,0
+"2","T-lineage candidate","pDC","LILRA4",0,0
+"2","T-lineage candidate","pDC","TCF4",0.0381013697720882,4.31732325957906
+"2","T-lineage candidate","Erythroid","HBB",0.164075071308659,15.9201295196978
+"2","T-lineage candidate","Erythroid","ALAS2",0,0
+"2","T-lineage candidate","Erythroid","AHSP",0.0125724510467721,1.29519697787372
+"2","T-lineage candidate","Cytotoxic","NKG7",0.0134704216999308,1.56502968159741
+"2","T-lineage candidate","Cytotoxic","GNLY",0.00395236055880759,0.32379924446843
+"2","T-lineage candidate","Cytotoxic","KLRD1",0.000601038586656019,0.107933081489477
+"2","T-lineage candidate","Cell cycle","MKI67",0.0248516829093301,2.64436049649217
+"2","T-lineage candidate","Cell cycle","TOP2A",0.0168438081603907,1.61899622234215
+"2","T-lineage candidate","Cell cycle","UBE2C",0.0194047526419238,2.10469508904479
+"3","T-lineage candidate","T lineage","CD3D",2.46725074217602,99.7977755308392
+"3","T-lineage candidate","T lineage","CD3E",2.26424775878274,99.8988877654196
+"3","T-lineage candidate","T lineage","TRAC",0.266331486414523,34.3781597573306
+"3","T-lineage candidate","T lineage","CD5",0.34671850107734,47.7249747219414
+"3","T-lineage candidate","T lineage","CD7",2.42228511795679,99.4944388270981
+"3","T-lineage candidate","Immaturity","DNTT",1.89788972874194,97.8766430738119
+"3","T-lineage candidate","Immaturity","PTCRA",0.923200662988291,72.2952477249747
+"3","T-lineage candidate","Immaturity","CD34",0.0311695468330401,4.34782608695652
+"3","T-lineage candidate","Immaturity","SOX4",2.09038166079559,99.1911021233569
+"3","T-lineage candidate","B cell","MS4A1",0,0
+"3","T-lineage candidate","B cell","CD79A",0.0588277593969511,9.20121334681496
+"3","T-lineage candidate","B cell","CD79B",0.0102310343896168,1.61779575328615
+"3","T-lineage candidate","Myeloid","LYZ",0.00488358685961477,0.910010111223458
+"3","T-lineage candidate","Myeloid","LST1",0.930861591602741,84.3276036400405
+"3","T-lineage candidate","Myeloid","FCN1",0.00110923194982187,0.202224469160768
+"3","T-lineage candidate","pDC","CLEC4C",0,0
+"3","T-lineage candidate","pDC","LILRA4",0,0
+"3","T-lineage candidate","pDC","TCF4",0.0899319883784617,13.6501516683519
+"3","T-lineage candidate","Erythroid","HBB",0.118332864431551,17.0879676440849
+"3","T-lineage candidate","Erythroid","ALAS2",0,0
+"3","T-lineage candidate","Erythroid","AHSP",0.00708351448065698,1.01112234580384
+"3","T-lineage candidate","Cytotoxic","NKG7",0.0187633639784601,2.52780586450961
+"3","T-lineage candidate","Cytotoxic","GNLY",0.0044423438836204,0.606673407482305
+"3","T-lineage candidate","Cytotoxic","KLRD1",0.000848666498507659,0.101112234580384
+"3","T-lineage candidate","Cell cycle","MKI67",0.0620011815956857,8.89787664307381
+"3","T-lineage candidate","Cell cycle","TOP2A",0.0253108237838185,4.24671385237614
+"3","T-lineage candidate","Cell cycle","UBE2C",0.0194947594023732,3.53892821031345
+"4","T-lineage candidate","T lineage","CD3D",1.63320425025068,98.1132075471698
+"4","T-lineage candidate","T lineage","CD3E",1.61969048283093,99.1120976692564
+"4","T-lineage candidate","T lineage","TRAC",0.301487379414464,31.7425083240844
+"4","T-lineage candidate","T lineage","CD5",0.219525722565751,39.7336293007769
+"4","T-lineage candidate","T lineage","CD7",1.66524899506897,98.3351831298557
+"4","T-lineage candidate","Immaturity","DNTT",1.37001028588085,84.5726970033296
+"4","T-lineage candidate","Immaturity","PTCRA",0.783580340851543,64.8168701442841
+"4","T-lineage candidate","Immaturity","CD34",0.018157816910109,3.32963374028857
+"4","T-lineage candidate","Immaturity","SOX4",1.74502781976193,99.5560488346282
+"4","T-lineage candidate","B cell","MS4A1",0.00370507705038933,0.221975582685905
+"4","T-lineage candidate","B cell","CD79A",0.304421205650068,42.6193118756937
+"4","T-lineage candidate","B cell","CD79B",0.100337647087397,19.6448390677026
+"4","T-lineage candidate","Myeloid","LYZ",0.00735749253811113,1.66481687014428
+"4","T-lineage candidate","Myeloid","LST1",0.761923876377188,85.4605993340733
+"4","T-lineage candidate","Myeloid","FCN1",0.00382234592616798,0.887902330743618
+"4","T-lineage candidate","pDC","CLEC4C",0,0
+"4","T-lineage candidate","pDC","LILRA4",0,0
+"4","T-lineage candidate","pDC","TCF4",0.0545233167413644,11.4317425083241
+"4","T-lineage candidate","Erythroid","HBB",0.0396232502522646,7.10321864594895
+"4","T-lineage candidate","Erythroid","ALAS2",0.000362532259560279,0.110987791342952
+"4","T-lineage candidate","Erythroid","AHSP",0.00452342726029669,0.665926748057714
+"4","T-lineage candidate","Cytotoxic","NKG7",0.384918066304591,48.0577136514983
+"4","T-lineage candidate","Cytotoxic","GNLY",0.00572063733778989,0.998890122086571
+"4","T-lineage candidate","Cytotoxic","KLRD1",0.00380664894834749,0.776914539400666
+"4","T-lineage candidate","Cell cycle","MKI67",0.346380644526758,50.8324084350721
+"4","T-lineage candidate","Cell cycle","TOP2A",0.142609262783373,25.8601553829079
+"4","T-lineage candidate","Cell cycle","UBE2C",0.113000283332973,22.5305216426193
+"5","T-lineage candidate","T lineage","CD3D",2.14245347844243,99.6511627906977
+"5","T-lineage candidate","T lineage","CD3E",2.095180680021,99.3023255813954
+"5","T-lineage candidate","T lineage","TRAC",1.19993322133385,91.9767441860465
+"5","T-lineage candidate","T lineage","CD5",0.366484241425169,50
+"5","T-lineage candidate","T lineage","CD7",1.75245932758835,97.3255813953488
+"5","T-lineage candidate","Immaturity","DNTT",0.332383207828913,33.2558139534884
+"5","T-lineage candidate","Immaturity","PTCRA",0.00490520299550482,0.697674418604651
+"5","T-lineage candidate","Immaturity","CD34",0.000942942111879452,0.116279069767442
+"5","T-lineage candidate","Immaturity","SOX4",2.07056335183426,99.4186046511628
+"5","T-lineage candidate","B cell","MS4A1",0.00137465261697542,0.116279069767442
+"5","T-lineage candidate","B cell","CD79A",0.129154318950115,18.2558139534884
+"5","T-lineage candidate","B cell","CD79B",0.0515635233735888,8.95348837209302
+"5","T-lineage candidate","Myeloid","LYZ",0.00124652821979524,0.232558139534884
+"5","T-lineage candidate","Myeloid","LST1",0.953040369667436,85.3488372093023
+"5","T-lineage candidate","Myeloid","FCN1",0.00141605181250022,0.116279069767442
+"5","T-lineage candidate","pDC","CLEC4C",0.000781794000668118,0.116279069767442
+"5","T-lineage candidate","pDC","LILRA4",0,0
+"5","T-lineage candidate","pDC","TCF4",0.0199571669199993,3.02325581395349
+"5","T-lineage candidate","Erythroid","HBB",0.0100180294947937,1.62790697674419
+"5","T-lineage candidate","Erythroid","ALAS2",0,0
+"5","T-lineage candidate","Erythroid","AHSP",0.00067876284333529,0.116279069767442
+"5","T-lineage candidate","Cytotoxic","NKG7",0.373945532612426,42.6744186046512
+"5","T-lineage candidate","Cytotoxic","GNLY",0.0453350841341222,4.30232558139535
+"5","T-lineage candidate","Cytotoxic","KLRD1",0.00261765277820971,0.348837209302326
+"5","T-lineage candidate","Cell cycle","MKI67",0.125495606140332,15
+"5","T-lineage candidate","Cell cycle","TOP2A",0.0358585460299524,5.58139534883721
+"5","T-lineage candidate","Cell cycle","UBE2C",0.0153974685970037,2.32558139534884
+"6","T-lineage candidate","T lineage","CD3D",2.21477798682913,99.0014265335235
+"6","T-lineage candidate","T lineage","CD3E",2.39882629490094,99.2867332382311
+"6","T-lineage candidate","T lineage","TRAC",1.2613582004959,86.1626248216833
+"6","T-lineage candidate","T lineage","CD5",0.376521350813407,38.6590584878745
+"6","T-lineage candidate","T lineage","CD7",2.31663722641461,98.2881597717546
+"6","T-lineage candidate","Immaturity","DNTT",0.164861874651991,14.9786019971469
+"6","T-lineage candidate","Immaturity","PTCRA",0.00177490186571575,0.285306704707561
+"6","T-lineage candidate","Immaturity","CD34",0,0
+"6","T-lineage candidate","Immaturity","SOX4",1.94232312105796,96.1483594864479
+"6","T-lineage candidate","B cell","MS4A1",0.00255980629014168,0.427960057061341
+"6","T-lineage candidate","B cell","CD79A",0.555213069715939,48.2168330955777
+"6","T-lineage candidate","B cell","CD79B",0.0282587883429325,3.56633380884451
+"6","T-lineage candidate","Myeloid","LYZ",0.00429688449292588,0.427960057061341
+"6","T-lineage candidate","Myeloid","LST1",1.38628528320342,87.018544935806
+"6","T-lineage candidate","Myeloid","FCN1",0.00235052002972048,0.285306704707561
+"6","T-lineage candidate","pDC","CLEC4C",0.00181216841499888,0.14265335235378
+"6","T-lineage candidate","pDC","LILRA4",0,0
+"6","T-lineage candidate","pDC","TCF4",0.00230866443506153,0.285306704707561
+"6","T-lineage candidate","Erythroid","HBB",0.0235603988107183,2.1398002853067
+"6","T-lineage candidate","Erythroid","ALAS2",0.00127654844596139,0.14265335235378
+"6","T-lineage candidate","Erythroid","AHSP",0,0
+"6","T-lineage candidate","Cytotoxic","NKG7",0.881235812633335,66.7617689015692
+"6","T-lineage candidate","Cytotoxic","GNLY",0.107917415361985,7.2753209700428
+"6","T-lineage candidate","Cytotoxic","KLRD1",0.00242669704494749,0.285306704707561
+"6","T-lineage candidate","Cell cycle","MKI67",0.0446571866010908,3.99429386590585
+"6","T-lineage candidate","Cell cycle","TOP2A",0.0286430194111347,3.56633380884451
+"6","T-lineage candidate","Cell cycle","UBE2C",0.00658962970106081,0.855920114122682
+"7","T-lineage candidate","T lineage","CD3D",1.57153090178181,98.2758620689655
+"7","T-lineage candidate","T lineage","CD3E",1.57328584364254,99.1379310344828
+"7","T-lineage candidate","T lineage","TRAC",0.193141677917024,23.7068965517241
+"7","T-lineage candidate","T lineage","CD5",0.236744063250712,45.6896551724138
+"7","T-lineage candidate","T lineage","CD7",1.37468950579068,96.6954022988506
+"7","T-lineage candidate","Immaturity","DNTT",1.36536919078809,91.8103448275862
+"7","T-lineage candidate","Immaturity","PTCRA",0.848608034759325,74.2816091954023
+"7","T-lineage candidate","Immaturity","CD34",0.0193865995593273,4.31034482758621
+"7","T-lineage candidate","Immaturity","SOX4",1.58934682104171,99.1379310344828
+"7","T-lineage candidate","B cell","MS4A1",0.0032424971201895,0.718390804597701
+"7","T-lineage candidate","B cell","CD79A",0.322854238397978,47.7011494252874
+"7","T-lineage candidate","B cell","CD79B",0.0671359570793074,15.3735632183908
+"7","T-lineage candidate","Myeloid","LYZ",0.0050996811679716,1.4367816091954
+"7","T-lineage candidate","Myeloid","LST1",0.628056066150731,78.3045977011494
+"7","T-lineage candidate","Myeloid","FCN1",0.00252670983141647,0.718390804597701
+"7","T-lineage candidate","pDC","CLEC4C",0,0
+"7","T-lineage candidate","pDC","LILRA4",0,0
+"7","T-lineage candidate","pDC","TCF4",0.0796573791568675,17.9597701149425
+"7","T-lineage candidate","Erythroid","HBB",0.0481232257599891,7.32758620689655
+"7","T-lineage candidate","Erythroid","ALAS2",0.000516409422030741,0.14367816091954
+"7","T-lineage candidate","Erythroid","AHSP",0.00221222742393195,0.14367816091954
+"7","T-lineage candidate","Cytotoxic","NKG7",0.432888333157332,54.0229885057471
+"7","T-lineage candidate","Cytotoxic","GNLY",0.00746176101936241,1.72413793103448
+"7","T-lineage candidate","Cytotoxic","KLRD1",0.00492702964104562,1.00574712643678
+"7","T-lineage candidate","Cell cycle","MKI67",1.48788715488236,98.2758620689655
+"7","T-lineage candidate","Cell cycle","TOP2A",1.04360433112315,89.9425287356322
+"7","T-lineage candidate","Cell cycle","UBE2C",0.88347085903643,88.7931034482759
+"8","T-lineage candidate","T lineage","CD3D",1.65149541670452,96.6906474820144
+"8","T-lineage candidate","T lineage","CD3E",1.6485193234481,97.841726618705
+"8","T-lineage candidate","T lineage","TRAC",0.221833919075737,26.3309352517986
+"8","T-lineage candidate","T lineage","CD5",0.342247675322023,60.863309352518
+"8","T-lineage candidate","T lineage","CD7",1.37281054285343,95.2517985611511
+"8","T-lineage candidate","Immaturity","DNTT",1.53496033181439,93.2374100719424
+"8","T-lineage candidate","Immaturity","PTCRA",0.870767060849261,77.9856115107914
+"8","T-lineage candidate","Immaturity","CD34",0.0104958399766893,2.30215827338129
+"8","T-lineage candidate","Immaturity","SOX4",1.89201251468066,99.4244604316547
+"8","T-lineage candidate","B cell","MS4A1",0.00119058639322296,0.143884892086331
+"8","T-lineage candidate","B cell","CD79A",0.328153877144099,48.4892086330935
+"8","T-lineage candidate","B cell","CD79B",0.11179538203145,23.3093525179856
+"8","T-lineage candidate","Myeloid","LYZ",0.0114477607795809,2.73381294964029
+"8","T-lineage candidate","Myeloid","LST1",0.56906587620945,73.5251798561151
+"8","T-lineage candidate","Myeloid","FCN1",0.00599445386602021,1.29496402877698
+"8","T-lineage candidate","pDC","CLEC4C",0.000384611051896955,0.143884892086331
+"8","T-lineage candidate","pDC","LILRA4",0.000384611051896955,0.143884892086331
+"8","T-lineage candidate","pDC","TCF4",0.0998627303242439,21.726618705036
+"8","T-lineage candidate","Erythroid","HBB",0.0294757782528741,5.89928057553957
+"8","T-lineage candidate","Erythroid","ALAS2",0.000773048475808129,0.143884892086331
+"8","T-lineage candidate","Erythroid","AHSP",0.00188852642631282,0.575539568345324
+"8","T-lineage candidate","Cytotoxic","NKG7",0.416984743262913,53.9568345323741
+"8","T-lineage candidate","Cytotoxic","GNLY",0.00741622436020951,1.29496402877698
+"8","T-lineage candidate","Cytotoxic","KLRD1",0.00784962810946458,1.72661870503597
+"8","T-lineage candidate","Cell cycle","MKI67",1.83761150885777,97.410071942446
+"8","T-lineage candidate","Cell cycle","TOP2A",1.57812701831786,91.0791366906475
+"8","T-lineage candidate","Cell cycle","UBE2C",1.70416716746046,89.0647482014388
+"9","T-lineage candidate","T lineage","CD3D",1.2189355632503,76.6917293233083
+"9","T-lineage candidate","T lineage","CD3E",1.78840689179303,93.6842105263158
+"9","T-lineage candidate","T lineage","TRAC",0.32061414004716,30.2255639097744
+"9","T-lineage candidate","T lineage","CD5",0.394073081692826,36.9924812030075
+"9","T-lineage candidate","T lineage","CD7",1.26280516255611,74.8872180451128
+"9","T-lineage candidate","Immaturity","DNTT",0.0686798612427329,7.5187969924812
+"9","T-lineage candidate","Immaturity","PTCRA",0.0268106808701334,3.15789473684211
+"9","T-lineage candidate","Immaturity","CD34",0.000796090536128233,0.150375939849624
+"9","T-lineage candidate","Immaturity","SOX4",0.311678837233506,21.8045112781955
+"9","T-lineage candidate","B cell","MS4A1",0.0128096070051561,0.902255639097744
+"9","T-lineage candidate","B cell","CD79A",0.117388090854761,10.9774436090226
+"9","T-lineage candidate","B cell","CD79B",0.072135404176299,8.42105263157895
+"9","T-lineage candidate","Myeloid","LYZ",0.00933272895507213,1.35338345864662
+"9","T-lineage candidate","Myeloid","LST1",0.118744361353814,12.9323308270677
+"9","T-lineage candidate","Myeloid","FCN1",0.00624192336078337,0.75187969924812
+"9","T-lineage candidate","pDC","CLEC4C",0,0
+"9","T-lineage candidate","pDC","LILRA4",0,0
+"9","T-lineage candidate","pDC","TCF4",0.0121110880733203,1.95488721804511
+"9","T-lineage candidate","Erythroid","HBB",0.0771342303958837,6.61654135338346
+"9","T-lineage candidate","Erythroid","ALAS2",0.00173694695584091,0.150375939849624
+"9","T-lineage candidate","Erythroid","AHSP",0.00977769604697393,0.902255639097744
+"9","T-lineage candidate","Cytotoxic","NKG7",1.05002740299829,43.609022556391
+"9","T-lineage candidate","Cytotoxic","GNLY",0.213672674981111,8.27067669172932
+"9","T-lineage candidate","Cytotoxic","KLRD1",0.214004926688944,16.6917293233083
+"9","T-lineage candidate","Cell cycle","MKI67",0.0828698293636061,7.06766917293233
+"9","T-lineage candidate","Cell cycle","TOP2A",0.0597555709804875,6.31578947368421
+"9","T-lineage candidate","Cell cycle","UBE2C",0.0521708990496498,4.3609022556391
+"10","T-lineage candidate","T lineage","CD3D",2.2349414150295,98.159509202454
+"10","T-lineage candidate","T lineage","CD3E",2.34248076642206,99.079754601227
+"10","T-lineage candidate","T lineage","TRAC",0.879565419731526,62.2699386503067
+"10","T-lineage candidate","T lineage","CD5",0.399129569587474,36.0429447852761
+"10","T-lineage candidate","T lineage","CD7",2.1757739061279,96.1656441717791
+"10","T-lineage candidate","Immaturity","DNTT",0.77673509847937,47.239263803681
+"10","T-lineage candidate","Immaturity","PTCRA",0.124030732189876,10.7361963190184
+"10","T-lineage candidate","Immaturity","CD34",0.00419590839827394,0.306748466257669
+"10","T-lineage candidate","Immaturity","SOX4",2.14864514178809,94.0184049079755
+"10","T-lineage candidate","B cell","MS4A1",0.00638557205362845,0.460122699386503
+"10","T-lineage candidate","B cell","CD79A",0.889459686099182,59.5092024539877
+"10","T-lineage candidate","B cell","CD79B",0.0315736672163979,3.68098159509202
+"10","T-lineage candidate","Myeloid","LYZ",0.00113009346223851,0.153374233128834
+"10","T-lineage candidate","Myeloid","LST1",0.700796416528851,49.2331288343558
+"10","T-lineage candidate","Myeloid","FCN1",0.0027116311011784,0.306748466257669
+"10","T-lineage candidate","pDC","CLEC4C",0,0
+"10","T-lineage candidate","pDC","LILRA4",0,0
+"10","T-lineage candidate","pDC","TCF4",0.0247494513003316,2.60736196319018
+"10","T-lineage candidate","Erythroid","HBB",0.063943831813407,6.28834355828221
+"10","T-lineage candidate","Erythroid","ALAS2",0.00206668901648943,0.153374233128834
+"10","T-lineage candidate","Erythroid","AHSP",0.00656881820050734,0.766871165644172
+"10","T-lineage candidate","Cytotoxic","NKG7",0.553210411824211,35.8895705521472
+"10","T-lineage candidate","Cytotoxic","GNLY",0.212257828321861,7.97546012269939
+"10","T-lineage candidate","Cytotoxic","KLRD1",0.0545904427413061,4.29447852760736
+"10","T-lineage candidate","Cell cycle","MKI67",0.0485689548170251,4.75460122699387
+"10","T-lineage candidate","Cell cycle","TOP2A",0.0327739819864473,3.52760736196319
+"10","T-lineage candidate","Cell cycle","UBE2C",0.00781577017837159,0.920245398773006
+"11","B cell","T lineage","CD3D",0.17302558734894,12.4183006535948
+"11","B cell","T lineage","CD3E",0.173590530942531,11.7647058823529
+"11","B cell","T lineage","TRAC",0.143728979105478,13.7254901960784
+"11","B cell","T lineage","CD5",0.067273676084844,8.71459694989107
+"11","B cell","T lineage","CD7",0.177097957596238,12.2004357298475
+"11","B cell","Immaturity","DNTT",0.115077713404967,6.75381263616558
+"11","B cell","Immaturity","PTCRA",0.00266989530275194,0.435729847494553
+"11","B cell","Immaturity","CD34",0.00864455225665249,0.65359477124183
+"11","B cell","Immaturity","SOX4",0.612177484798699,44.880174291939
+"11","B cell","B cell","MS4A1",2.08311233813371,89.3246187363834
+"11","B cell","B cell","CD79A",2.7233156670617,98.6928104575163
+"11","B cell","B cell","CD79B",2.08032397710133,94.7712418300653
+"11","B cell","Myeloid","LYZ",0.0110713386245132,0.435729847494553
+"11","B cell","Myeloid","LST1",0.187816047481137,19.3899782135076
+"11","B cell","Myeloid","FCN1",0,0
+"11","B cell","pDC","CLEC4C",0.0140261816335639,1.52505446623094
+"11","B cell","pDC","LILRA4",0.048250639312263,5.44662309368192
+"11","B cell","pDC","TCF4",0.720793113438177,59.2592592592593
+"11","B cell","Erythroid","HBB",0.0455628061560573,3.92156862745098
+"11","B cell","Erythroid","ALAS2",0,0
+"11","B cell","Erythroid","AHSP",0,0
+"11","B cell","Cytotoxic","NKG7",0.0433478149416443,4.79302832244009
+"11","B cell","Cytotoxic","GNLY",0.00785391683150438,0.65359477124183
+"11","B cell","Cytotoxic","KLRD1",0,0
+"11","B cell","Cell cycle","MKI67",0.0195890890463,1.74291938997821
+"11","B cell","Cell cycle","TOP2A",0.0179210505449176,2.17864923747277
+"11","B cell","Cell cycle","UBE2C",0.0100329079187198,1.08932461873638
+"12","T-lineage candidate","T lineage","CD3D",1.14889832896081,62.7118644067797
+"12","T-lineage candidate","T lineage","CD3E",1.05435163758559,58.5956416464891
+"12","T-lineage candidate","T lineage","TRAC",0.226166137082488,11.3801452784504
+"12","T-lineage candidate","T lineage","CD5",0.16442823114526,14.2857142857143
+"12","T-lineage candidate","T lineage","CD7",1.25853179673761,60.5326876513317
+"12","T-lineage candidate","Immaturity","DNTT",0.847548551821992,45.5205811138014
+"12","T-lineage candidate","Immaturity","PTCRA",0.280270223779531,20.0968523002421
+"12","T-lineage candidate","Immaturity","CD34",0.00973333516083177,0.484261501210654
+"12","T-lineage candidate","Immaturity","SOX4",2.72513979980561,91.5254237288136
+"12","T-lineage candidate","B cell","MS4A1",0,0
+"12","T-lineage candidate","B cell","CD79A",0.304676918636014,23.0024213075061
+"12","T-lineage candidate","B cell","CD79B",0.0675374450154137,6.77966101694915
+"12","T-lineage candidate","Myeloid","LYZ",0.0302547644313703,1.93704600484262
+"12","T-lineage candidate","Myeloid","LST1",0.433344598620259,32.4455205811138
+"12","T-lineage candidate","Myeloid","FCN1",0.0221950785147664,1.21065375302663
+"12","T-lineage candidate","pDC","CLEC4C",0,0
+"12","T-lineage candidate","pDC","LILRA4",0,0
+"12","T-lineage candidate","pDC","TCF4",0.0330288942743873,2.90556900726392
+"12","T-lineage candidate","Erythroid","HBB",0.141559223266701,6.77966101694915
+"12","T-lineage candidate","Erythroid","ALAS2",0.00588961415952642,0.242130750605327
+"12","T-lineage candidate","Erythroid","AHSP",0.0101446210226568,0.484261501210654
+"12","T-lineage candidate","Cytotoxic","NKG7",0.161442423199265,13.8014527845036
+"12","T-lineage candidate","Cytotoxic","GNLY",0.00651489863932354,0.484261501210654
+"12","T-lineage candidate","Cytotoxic","KLRD1",0.00358973281073718,0.242130750605327
+"12","T-lineage candidate","Cell cycle","MKI67",0.0653585743852908,4.11622276029056
+"12","T-lineage candidate","Cell cycle","TOP2A",0.0378696475473881,2.90556900726392
+"12","T-lineage candidate","Cell cycle","UBE2C",0.0269619540928718,1.69491525423729
+"13","Myeloid","T lineage","CD3D",0.154563510764185,14.4366197183099
+"13","Myeloid","T lineage","CD3E",0.141981127094623,17.2535211267606
+"13","Myeloid","T lineage","TRAC",0.0205102792473238,2.8169014084507
+"13","Myeloid","T lineage","CD5",0.0163661227329234,4.92957746478873
+"13","Myeloid","T lineage","CD7",0.215288262462807,20.7746478873239
+"13","Myeloid","Immaturity","DNTT",0.07699195519372,12.3239436619718
+"13","Myeloid","Immaturity","PTCRA",0.0423769910872612,7.04225352112676
+"13","Myeloid","Immaturity","CD34",0,0
+"13","Myeloid","Immaturity","SOX4",0.541587438374269,54.2253521126761
+"13","Myeloid","B cell","MS4A1",0,0
+"13","Myeloid","B cell","CD79A",0.0561014747804683,8.45070422535211
+"13","Myeloid","B cell","CD79B",0.0953959613166742,13.3802816901408
+"13","Myeloid","Myeloid","LYZ",2.66231847355631,96.830985915493
+"13","Myeloid","Myeloid","LST1",1.61877632543558,96.1267605633803
+"13","Myeloid","Myeloid","FCN1",2.52484430734799,95.7746478873239
+"13","Myeloid","pDC","CLEC4C",0.00318269528399617,0.704225352112676
+"13","Myeloid","pDC","LILRA4",0.00121218713913732,0.352112676056338
+"13","Myeloid","pDC","TCF4",0.0848059100114113,15.1408450704225
+"13","Myeloid","Erythroid","HBB",0.0452594895073091,3.52112676056338
+"13","Myeloid","Erythroid","ALAS2",0,0
+"13","Myeloid","Erythroid","AHSP",0,0
+"13","Myeloid","Cytotoxic","NKG7",0.252836103110379,32.0422535211268
+"13","Myeloid","Cytotoxic","GNLY",0.0178918129595936,1.40845070422535
+"13","Myeloid","Cytotoxic","KLRD1",0.00500460152373673,1.05633802816901
+"13","Myeloid","Cell cycle","MKI67",0.0486310230738345,6.33802816901408
+"13","Myeloid","Cell cycle","TOP2A",0.0286724716612797,3.52112676056338
+"13","Myeloid","Cell cycle","UBE2C",0.0246187311266562,2.8169014084507
+"14","Cytotoxic T/NK","T lineage","CD3D",0.844893047069673,47.2868217054264
+"14","Cytotoxic T/NK","T lineage","CD3E",1.27434564029888,60.077519379845
+"14","Cytotoxic T/NK","T lineage","TRAC",0.176214053666608,14.3410852713178
+"14","Cytotoxic T/NK","T lineage","CD5",0.0813746867277649,8.52713178294574
+"14","Cytotoxic T/NK","T lineage","CD7",2.11363676574192,93.0232558139535
+"14","Cytotoxic T/NK","Immaturity","DNTT",0.100019829723115,8.52713178294574
+"14","Cytotoxic T/NK","Immaturity","PTCRA",0.0303375744186871,3.10077519379845
+"14","Cytotoxic T/NK","Immaturity","CD34",0.00284236883092627,0.387596899224806
+"14","Cytotoxic T/NK","Immaturity","SOX4",0.291762011093993,20.1550387596899
+"14","Cytotoxic T/NK","B cell","MS4A1",0,0
+"14","Cytotoxic T/NK","B cell","CD79A",0.0562335650872056,5.03875968992248
+"14","Cytotoxic T/NK","B cell","CD79B",0.122996386667465,12.015503875969
+"14","Cytotoxic T/NK","Myeloid","LYZ",0,0
+"14","Cytotoxic T/NK","Myeloid","LST1",0.0748378612687468,7.75193798449612
+"14","Cytotoxic T/NK","Myeloid","FCN1",0,0
+"14","Cytotoxic T/NK","pDC","CLEC4C",0,0
+"14","Cytotoxic T/NK","pDC","LILRA4",0,0
+"14","Cytotoxic T/NK","pDC","TCF4",0.0111859474247707,1.16279069767442
+"14","Cytotoxic T/NK","Erythroid","HBB",0.0794095697637065,6.58914728682171
+"14","Cytotoxic T/NK","Erythroid","ALAS2",0,0
+"14","Cytotoxic T/NK","Erythroid","AHSP",0,0
+"14","Cytotoxic T/NK","Cytotoxic","NKG7",3.95411915224349,100
+"14","Cytotoxic T/NK","Cytotoxic","GNLY",3.34677302339911,84.4961240310078
+"14","Cytotoxic T/NK","Cytotoxic","KLRD1",1.66952173353785,92.2480620155039
+"14","Cytotoxic T/NK","Cell cycle","MKI67",0.0199575061628967,2.32558139534884
+"14","Cytotoxic T/NK","Cell cycle","TOP2A",0.0246578985755346,2.32558139534884
+"14","Cytotoxic T/NK","Cell cycle","UBE2C",0.0052248366596585,0.775193798449612
+"15","T-lineage candidate","T lineage","CD3D",1.75045236358287,81.3084112149533
+"15","T-lineage candidate","T lineage","CD3E",1.68163042813972,78.5046728971963
+"15","T-lineage candidate","T lineage","TRAC",0.249607445875615,28.9719626168224
+"15","T-lineage candidate","T lineage","CD5",0.19261368761645,20.5607476635514
+"15","T-lineage candidate","T lineage","CD7",1.09433316047135,71.0280373831776
+"15","T-lineage candidate","Immaturity","DNTT",0.848853005648314,58.8785046728972
+"15","T-lineage candidate","Immaturity","PTCRA",0.0149810650136621,1.86915887850467
+"15","T-lineage candidate","Immaturity","CD34",0.0476544853044314,3.73831775700935
+"15","T-lineage candidate","Immaturity","SOX4",2.49811149433101,86.9158878504673
+"15","T-lineage candidate","B cell","MS4A1",0.0172801457230278,2.80373831775701
+"15","T-lineage candidate","B cell","CD79A",0.304991834199667,21.4953271028037
+"15","T-lineage candidate","B cell","CD79B",0.0941183785516215,14.018691588785
+"15","T-lineage candidate","Myeloid","LYZ",0,0
+"15","T-lineage candidate","Myeloid","LST1",0.156711451911539,16.8224299065421
+"15","T-lineage candidate","Myeloid","FCN1",0,0
+"15","T-lineage candidate","pDC","CLEC4C",0,0
+"15","T-lineage candidate","pDC","LILRA4",0,0
+"15","T-lineage candidate","pDC","TCF4",0.101189914978625,14.9532710280374
+"15","T-lineage candidate","Erythroid","HBB",0.13301060435685,13.0841121495327
+"15","T-lineage candidate","Erythroid","ALAS2",0,0
+"15","T-lineage candidate","Erythroid","AHSP",0.00789749484163387,0.934579439252336
+"15","T-lineage candidate","Cytotoxic","NKG7",0.039425153435831,2.80373831775701
+"15","T-lineage candidate","Cytotoxic","GNLY",0,0
+"15","T-lineage candidate","Cytotoxic","KLRD1",0,0
+"15","T-lineage candidate","Cell cycle","MKI67",0.11481522958803,13.0841121495327
+"15","T-lineage candidate","Cell cycle","TOP2A",0.0845433624568017,7.47663551401869
+"15","T-lineage candidate","Cell cycle","UBE2C",0.0701793472914089,8.41121495327103
+"16","Erythroid","T lineage","CD3D",0.241673726068298,21.6494845360825
+"16","Erythroid","T lineage","CD3E",0.25138028854625,25.7731958762887
+"16","Erythroid","T lineage","TRAC",0.0338297399972468,5.15463917525773
+"16","Erythroid","T lineage","CD5",0.0481967275011881,11.340206185567
+"16","Erythroid","T lineage","CD7",0.301503758743686,28.8659793814433
+"16","Erythroid","Immaturity","DNTT",0.151720673230983,17.5257731958763
+"16","Erythroid","Immaturity","PTCRA",0.180282448091393,15.4639175257732
+"16","Erythroid","Immaturity","CD34",0.270789832667563,29.8969072164948
+"16","Erythroid","Immaturity","SOX4",0.727214738722163,64.9484536082474
+"16","Erythroid","B cell","MS4A1",0.0271183169059278,1.03092783505155
+"16","Erythroid","B cell","CD79A",0.101357776067304,14.4329896907216
+"16","Erythroid","B cell","CD79B",0.0811347795972587,18.5567010309278
+"16","Erythroid","Myeloid","LYZ",0.0644800187336996,8.24742268041237
+"16","Erythroid","Myeloid","LST1",0.258646377462812,41.2371134020619
+"16","Erythroid","Myeloid","FCN1",0.00844199686039283,1.03092783505155
+"16","Erythroid","pDC","CLEC4C",0,0
+"16","Erythroid","pDC","LILRA4",0,0
+"16","Erythroid","pDC","TCF4",0.248617773508846,49.4845360824742
+"16","Erythroid","Erythroid","HBB",3.26224560086388,58.7628865979381
+"16","Erythroid","Erythroid","ALAS2",0.822098193390826,47.4226804123711
+"16","Erythroid","Erythroid","AHSP",1.55432176370788,49.4845360824742
+"16","Erythroid","Cytotoxic","NKG7",0.10792833065102,14.4329896907216
+"16","Erythroid","Cytotoxic","GNLY",0.00419445193738111,2.06185567010309
+"16","Erythroid","Cytotoxic","KLRD1",0,0
+"16","Erythroid","Cell cycle","MKI67",0.53597030452206,48.4536082474227
+"16","Erythroid","Cell cycle","TOP2A",0.37571600769422,45.360824742268
+"16","Erythroid","Cell cycle","UBE2C",0.424344766830667,48.4536082474227
+"17","T-lineage candidate","T lineage","CD3D",1.95561538024739,100
+"17","T-lineage candidate","T lineage","CD3E",1.99140333630437,100
+"17","T-lineage candidate","T lineage","TRAC",0.0970019698451817,17.6470588235294
+"17","T-lineage candidate","T lineage","CD5",0.174611330642267,27.4509803921569
+"17","T-lineage candidate","T lineage","CD7",1.25140766492893,96.078431372549
+"17","T-lineage candidate","Immaturity","DNTT",1.47324322453245,94.1176470588235
+"17","T-lineage candidate","Immaturity","PTCRA",0.0282819033983361,5.88235294117647
+"17","T-lineage candidate","Immaturity","CD34",0.0337137169687126,5.88235294117647
+"17","T-lineage candidate","Immaturity","SOX4",2.54409414418743,100
+"17","T-lineage candidate","B cell","MS4A1",0,0
+"17","T-lineage candidate","B cell","CD79A",0.0718683939710753,13.7254901960784
+"17","T-lineage candidate","B cell","CD79B",0.0192868394828776,3.92156862745098
+"17","T-lineage candidate","Myeloid","LYZ",0,0
+"17","T-lineage candidate","Myeloid","LST1",0.43335968495558,62.7450980392157
+"17","T-lineage candidate","Myeloid","FCN1",0,0
+"17","T-lineage candidate","pDC","CLEC4C",0,0
+"17","T-lineage candidate","pDC","LILRA4",0,0
+"17","T-lineage candidate","pDC","TCF4",0.0287857968798392,3.92156862745098
+"17","T-lineage candidate","Erythroid","HBB",0.105511717617376,15.6862745098039
+"17","T-lineage candidate","Erythroid","ALAS2",0,0
+"17","T-lineage candidate","Erythroid","AHSP",0,0
+"17","T-lineage candidate","Cytotoxic","NKG7",0.0367283303777746,3.92156862745098
+"17","T-lineage candidate","Cytotoxic","GNLY",0,0
+"17","T-lineage candidate","Cytotoxic","KLRD1",0,0
+"17","T-lineage candidate","Cell cycle","MKI67",0.372698703476909,47.0588235294118
+"17","T-lineage candidate","Cell cycle","TOP2A",0.0256182018159786,3.92156862745098
+"17","T-lineage candidate","Cell cycle","UBE2C",0.1499196009301,25.4901960784314
+"18","T-lineage candidate","T lineage","CD3D",1.07495515488284,85.7142857142857
+"18","T-lineage candidate","T lineage","CD3E",1.15328559344064,90.4761904761905
+"18","T-lineage candidate","T lineage","TRAC",0.147495277362203,11.9047619047619
+"18","T-lineage candidate","T lineage","CD5",0.238965238335445,35.7142857142857
+"18","T-lineage candidate","T lineage","CD7",1.5443425192588,85.7142857142857
+"18","T-lineage candidate","Immaturity","DNTT",1.4899433836432,85.7142857142857
+"18","T-lineage candidate","Immaturity","PTCRA",0.300977547855246,33.3333333333333
+"18","T-lineage candidate","Immaturity","CD34",0,0
+"18","T-lineage candidate","Immaturity","SOX4",1.93592003526077,92.8571428571429
+"18","T-lineage candidate","B cell","MS4A1",0,0
+"18","T-lineage candidate","B cell","CD79A",0.349023594870192,54.7619047619048
+"18","T-lineage candidate","B cell","CD79B",0.205306945955807,33.3333333333333
+"18","T-lineage candidate","Myeloid","LYZ",0.150602389497506,7.14285714285714
+"18","T-lineage candidate","Myeloid","LST1",0.720771335745888,71.4285714285714
+"18","T-lineage candidate","Myeloid","FCN1",0.010103626498743,2.38095238095238
+"18","T-lineage candidate","pDC","CLEC4C",0,0
+"18","T-lineage candidate","pDC","LILRA4",0,0
+"18","T-lineage candidate","pDC","TCF4",0.0502738292238284,11.9047619047619
+"18","T-lineage candidate","Erythroid","HBB",0,0
+"18","T-lineage candidate","Erythroid","ALAS2",0,0
+"18","T-lineage candidate","Erythroid","AHSP",0,0
+"18","T-lineage candidate","Cytotoxic","NKG7",0.246544132107498,30.952380952381
+"18","T-lineage candidate","Cytotoxic","GNLY",0.0100665042971325,2.38095238095238
+"18","T-lineage candidate","Cytotoxic","KLRD1",0,0
+"18","T-lineage candidate","Cell cycle","MKI67",0.0434825302142765,7.14285714285714
+"18","T-lineage candidate","Cell cycle","TOP2A",0.0749648268288485,4.76190476190476
+"18","T-lineage candidate","Cell cycle","UBE2C",0.094018540338415,7.14285714285714
+"19","pDC","T lineage","CD3D",0.0420220353062368,7.40740740740741
+"19","pDC","T lineage","CD3E",0.172318196204147,22.2222222222222
+"19","pDC","T lineage","TRAC",0,0
+"19","pDC","T lineage","CD5",0.0212916054573221,3.7037037037037
+"19","pDC","T lineage","CD7",0.284423592904454,29.6296296296296
+"19","pDC","Immaturity","DNTT",0,0
+"19","pDC","Immaturity","PTCRA",0.748180461820803,66.6666666666667
+"19","pDC","Immaturity","CD34",0,0
+"19","pDC","Immaturity","SOX4",0.780398612160526,77.7777777777778
+"19","pDC","B cell","MS4A1",0,0
+"19","pDC","B cell","CD79A",0.113437633129773,18.5185185185185
+"19","pDC","B cell","CD79B",0.0323492316343885,7.40740740740741
+"19","pDC","Myeloid","LYZ",0.0714572549698013,7.40740740740741
+"19","pDC","Myeloid","LST1",0.349455105624357,48.1481481481481
+"19","pDC","Myeloid","FCN1",0.0179282029495022,3.7037037037037
+"19","pDC","pDC","CLEC4C",1.66534560508628,96.2962962962963
+"19","pDC","pDC","LILRA4",2.29691316799388,100
+"19","pDC","pDC","TCF4",1.86656446095212,100
+"19","pDC","Erythroid","HBB",0.200537057551352,7.40740740740741
+"19","pDC","Erythroid","ALAS2",0.0392262457444809,3.7037037037037
+"19","pDC","Erythroid","AHSP",0.103920850752625,3.7037037037037
+"19","pDC","Cytotoxic","NKG7",0.212453723593719,37.037037037037
+"19","pDC","Cytotoxic","GNLY",0,0
+"19","pDC","Cytotoxic","KLRD1",0,0
+"19","pDC","Cell cycle","MKI67",0.238652817826007,14.8148148148148
+"19","pDC","Cell cycle","TOP2A",0.186633090717053,18.5185185185185
+"19","pDC","Cell cycle","UBE2C",0.230813077402981,18.5185185185185

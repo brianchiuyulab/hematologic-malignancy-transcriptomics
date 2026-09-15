@@ -1,0 +1,11 @@
+目前閱讀：01_Key_Results，或直接看 07_Student_Handoff/03_Tables。
+
+02_Full_Results：舊分析的 frozen 原始結果，保留供重現比對與方法輸入。
+不要將這裡的舊 FDR 或 cell definition 與目前核對版混用。
+
+03_Sensitivity_Checks：歷史多參數 sensitivity 結果。選擇 top15 是探索型，
+並非事前指定。該資料夾不是目前主圖的結果來源。
+
+04_Method_Inputs：可重現分析需要的原始方法輸入，不是讀者 summary。
+
+目前完整核對結果：05_Code_Availability/reviewer_audit_results。

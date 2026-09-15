@@ -1,0 +1,21 @@
+"cluster_res0.6","reviewed_cell_type","major_annotation","cells","samples","median_features","median_UMI","median_mt"
+"0","T-lineage candidate","Cycling_TALL_blast_like",2182,2,2632,8327,3.57332268838691
+"1","T-lineage candidate","Cycling_TALL_blast_like",2021,2,1929,6114,3.22231052669605
+"10","T-lineage candidate","Immature_HSC_like_TALL",652,4,1978.5,4397.5,2.89458854881079
+"11","B cell","B-cell-like_contaminant",459,5,1680,4394,4.05709992486852
+"12","T-lineage candidate","Quiescent_CD44_high_TALL_like",413,6,1098,1921,3.30046286979271
+"13","Myeloid","Myeloid-like_contaminant",284,6,2193.5,10174.5,3.54975180469247
+"14","Cytotoxic T/NK","Cytotoxic_T_or_NK_like",258,6,1718.5,3907,3.81364248920139
+"15","T-lineage candidate","ER_stress_TALL_like",107,4,1846,5249,1.73004144890971
+"16","Erythroid","Erythroid-like_contaminant",97,6,4253,19471,3.70439378027711
+"17","T-lineage candidate","Cycling_TALL_blast_like",51,1,2797,9823,1.91659443320813
+"18","T-lineage candidate","Cycling_TALL_blast_like",42,4,2687,10404,3.32449083408942
+"19","pDC","pDC-like_contaminant",27,3,3206,9171,2.4328954882924
+"2","T-lineage candidate","Quiescent_CD44_high_TALL_like",1853,2,1694,4735,1.87027457222443
+"3","T-lineage candidate","Immature_HSC_like_TALL",989,3,2883,9388,2.09181524638495
+"4","T-lineage candidate","Cycling_TALL_blast_like",901,5,3609,12921,3.08138731518585
+"5","T-lineage candidate","Cycling_TALL_blast_like",860,2,2917,8570,3.58301635432061
+"6","T-lineage candidate","Immature_HSC_like_TALL",701,3,2108,5184,3.50997935306263
+"7","T-lineage candidate","Cycling_TALL_blast_like",696,6,4054,15446,3.03316900895729
+"8","T-lineage candidate","Cycling_TALL_blast_like",695,6,4191,16798,2.64616080515662
+"9","T-lineage candidate","Quiescent_CD44_high_TALL_like",665,6,1347,4385,3.66945969373014

@@ -1,0 +1,7 @@
+"source","pathway_name","NES","pval","padj"
+"Stored original figure","Mitophagy - animal",1.44241575371799,0.0158390970690435,0.0998428797387919
+"Stored original figure","Proteasome",1.52779981316517,0.0181870601426723,0.108814105599378
+"Stored ranking; high-precision GSEA","Proteasome",1.51586668427521,0.0218004513217279,0.126156710107704
+"Stored ranking; high-precision GSEA","Mitophagy - animal",1.43218748568361,0.0217993643549833,0.126156710107704
+"Refit model; high-precision GSEA","Proteasome",1.51586668427521,0.0218004513217279,0.126156710107704
+"Refit model; high-precision GSEA","Mitophagy - animal",1.43218748568361,0.0217993643549833,0.126156710107704

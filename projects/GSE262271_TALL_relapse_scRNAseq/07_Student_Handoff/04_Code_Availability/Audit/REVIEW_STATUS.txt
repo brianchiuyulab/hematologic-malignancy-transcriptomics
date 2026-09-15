@@ -1,0 +1,14 @@
+Reviewed 2026-09-15
+
+Count aggregation: independent direct summation matches sparse aggregation exactly.
+Single-cell: all 10,950 stored gene statistics reproduce to floating-point precision.
+Bulk: all 17,991 stored gene statistics reproduce to floating-point precision.
+Historical single-cell ranking and refitted ranking give identical high-precision GSEA.
+Full-collection BH, common tested pathway membership, directions and counts pass
+verify_reviewed_tables.R assertions.
+R23 main figure regeneration from published CSVs gives identical PNG hashes.
+
+Scientific limitations are stated in REPRODUCIBILITY.txt and the reader report.
+No independent malignant-cell ground truth or same-sample doublet validation was
+added in this audit. Historical inferCNV burden and QC objects were not recomputed
+from raw FASTQ. This is not a claim of complete reviewer-ready biological validation.

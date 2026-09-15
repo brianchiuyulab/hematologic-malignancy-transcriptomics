@@ -1,0 +1,41 @@
+血癌 single-cell / STAT5B 交接：先讀這裡
+
+本資料夾共 11 個檔案，可整包交給學妹。先看唯一的 PPT（15 頁）。
+
+研究問題
+復發 T-ALL 的 potential malignant T cells，是否與 STAT5B 持續活化模型具有共同的轉錄路徑？先各自檢查完整 KEGG，再找同方向交集，最後才討論 proteasome / mitophagy。
+
+兩組資料與比較方向
+GSE262271：human T-ALL，3 位病人的 diagnosis / relapse 配對。主分析為 within-sample CNV top 15%，1926 顆 candidate T-lineage cells。edgeR paired pseudobulk（patient + condition），正 NES 表示 relapse 較高。
+GSE218858：mouse STAT5B N642H bulk RNA-seq，N642H / control 各 3 個獨立樣本。DESeq2 Wald ranking，正 NES 表示 N642H 較高。
+兩者皆採 fgseaMultilevel，FDR 分別在各自完整受測 KEGG 集合校正。兩物種以共同 pathway 名稱比較，不是合併樣本或合併 P value。
+
+主要結果
+Single-cell：61 上調、2 下調。Bulk：107 上調、6 下調。
+兩邊都 FDR < 0.05 且方向相同：40 上調、0 下調。
+Proteasome：single-cell NES 1.8806 / FDR 0.008379；bulk NES 1.8873 / FDR 0.001078。
+Mitophagy：single-cell NES 1.6703 / FDR 0.013197；bulk NES 1.5576 / FDR 0.028234。
+這是基因集合正向富集，不等同於已證明 mitophagy flux、proteasome 活性或 BTZ 抗藥性增加。一般 autophagy 未顯著，不能與 mitophagy 混用。
+
+檔案用途
+PPT：背景、樣本設計、annotation、全 KEGG 結果、交集、target、限制及重現方式。
+Fig01A / Fig01B：lineage UMAP 與 marker 證據。屬廣義 lineage annotation，沒有獨立 clonality / DNA 驗證。
+Fig05：兩組同方向 pathway 交集。
+Fig06：完整 40 條交集 dot plot。X = NES，星號 = 完整 KEGG FDR。所有 pathway 使用一般字體。
+FigS06：不同細胞定義的 target 敏感度，不可省略設定依賴性。
+Table04 / Table05：兩組完整 GSEA 結果，可查未顯著或下調路徑。
+Table07：40 條交集與精確 NES / FDR。
+DATA_AND_OBJECT_LOCATIONS：raw data、R 物件和原始 accession 位置。
+
+重要限制
+Top 15% 在探索多種 cutoff 後選定為報告主分析。完整 KEGG FDR 不包含這個選擇步驟的多重比較成本。不能稱為預先指定或 unbiased。
+正常 reference q95 是絕對 CNV 門檻。全體 15.4% 超過 q95，不等於每個 sample 的 top 15%；兩者只部分重疊。敏感度結果保留在完整專案。
+只有 3 對病人，須以獨立隊列或功能實驗驗證。
+
+Code availability / 重現
+https://github.com/brianchiuyulab/hematologic-malignancy-transcriptomics
+專案：projects/GSE262271_TALL_relapse_scRNAseq
+05_Code_Availability/run_reviewed_analysis.ps1：由原始資料及 R 物件重跑，ProjectRoot / BulkRoot 指向 DATA_AND_OBJECT_LOCATIONS 所列位置。
+R/22：模型及 GSEA；23、25、26：圖表；24 與 verify_reviewed_tables.R：重現及結果檢查。
+presentation/build_reviewed_handoff.mjs：PPT 來源。README 說明 R 套件與簡報執行環境。
+完整 07_Student_Handoff 保留額外 figures、tables、audit 與方法，不需先逐一閱讀。

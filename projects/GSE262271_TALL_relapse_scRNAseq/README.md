@@ -1,6 +1,6 @@
 # T-ALL relapse and STAT5B transcriptomics
 
-Current handoff: [07_Student_Handoff/00_READ_ME.txt](07_Student_Handoff/00_READ_ME.txt).
+Student starting point: [11-file compact handoff](07_Student_Handoff/00_Quick_Start/00_READ_FIRST.txt). The full technical handoff remains in [07_Student_Handoff/00_READ_ME.txt](07_Student_Handoff/00_READ_ME.txt).
 
 The 15-slide PPT follows datasets, lineage annotation, paired model, whole-KEGG enrichment in each dataset, same-direction intersection, target pathways, limitations and reproduction. Figure06 shows all40 shared pathways as aligned NES dot plots; slides9–10 show the same order in two readable pages. No pathways are omitted from the intersection presentation.
 

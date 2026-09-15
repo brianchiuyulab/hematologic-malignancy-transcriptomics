@@ -1,5 +1,7 @@
 血癌 transcriptomics 交接包｜主分析統一版 2026-09-15
 
+學妹先讀：00_Quick_Start。共 11 個檔案，可單獨交接；其餘資料夾為完整方法、補充證據與重現資料。
+
 現在主分析固定：within-sample CNV top 15% + 完整 KEGG BH FDR < 0.05。
 先看 01_Summary 的 15 頁 PPT；圖在 02_Figures，CSV 在 03_Tables。
 

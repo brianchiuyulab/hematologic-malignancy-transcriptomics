@@ -1,0 +1,30 @@
+CURRENT MAIN ANALYSIS DEFINITION
+
+Candidate T-lineage cells were identified using the stored clustering and reviewed
+broad lineage marker profiles. Within each sample, cells at or above the 85th
+percentile of the RNA-derived inferCNV score were retained as the CNV-high core
+for the main paired pseudobulk analysis. This relative selection retained 1,926
+cells across six patient samples, with at least 107 cells in each sample.
+
+As a descriptive reference comparison, the empirical 95th percentile of the
+score distribution among 867 putative non-malignant non-T cells was 0.0269455.
+A total of 1,978 of 12,828 T-lineage candidates (15.419%) exceeded this fixed score.
+Of the 1,926 cells selected by the within-sample top15 rule, 1,407 (73.1%) also
+exceeded the reference score. The two rules are therefore not interchangeable.
+
+The within-sample top15 setting was fixed after sensitivity analyses and is the
+designated main analysis of this report. It was not prospectively specified.
+The reference comparison supports reporting the scale of the high-CNV fraction,
+but does not uniquely determine the within-sample percentile or establish its
+malignant-cell specificity. Sensitivity results for alternative selection rules
+are retained separately. Whole-collection pathway BH adjustment does not account
+for the prior selection among analysis specifications.
+
+PATHWAY REPORTING
+
+For both datasets, significant pathways require BH FDR < 0.05 across the full
+tested KEGG collection. The cross-dataset intersection additionally requires that
+the pathway was tested in both datasets and has matching NES signs. The current
+intersection contains 40 shared up-enriched pathways and no shared down-enriched
+pathways. Changing this reporting threshold does not change the fitted gene
+statistics, nominal pathway P values or the already computed BH FDR values.

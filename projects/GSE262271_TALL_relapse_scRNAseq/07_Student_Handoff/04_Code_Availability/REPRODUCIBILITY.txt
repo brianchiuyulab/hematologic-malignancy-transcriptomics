@@ -2,6 +2,11 @@ Current analysis code: R/22_reviewer_audit.R, R/23_reviewer_figures.R,
 R/24_independent_reproduction_checks.R, R/25_reviewed_supporting_figures.R.
 The scripts are also tracked in the hematologic-malignancy-transcriptomics GitHub repository.
 
+Main reporting: within-sample CNV top15, whole-KEGG BH FDR < 0.05.
+Original global25 and alternative cutoffs are supplementary.
+See CNV_CUTOFF_METHODS.txt for the fixed rule and reference-q95 comparison.
+This reporting update does not re-fit models or change P/FDR values.
+
 Models
 GSE262271: summed raw RNA counts within each selected patient sample, edgeR
 filterByExpr, TMM, robust dispersion and quasi-likelihood fit, design
@@ -18,7 +23,7 @@ Single-cell frozen human KEGG membership, minSize 5, no upper size exclusion.
 Bulk frozen Enrichr KEGG 2019 Mouse membership, minSize 5, maxSize 2000.
 BH is recomputed and verified over all tested pathways in each analysis.
 The single-cell and bulk catalogs are not identical. Intersection uses
-canonical pathway names tested in both, with both FDR <0.10 and matching NES signs.
+canonical pathway names tested in both, with both FDR <0.05 and matching NES signs.
 This is a pathway-name comparison, not a one-to-one ortholog-level meta-analysis.
 The minor tied ranks are deterministic for the stored order and recorded in logs.
 The named symbol-resolution sensitivity resolves unambiguous aliases and known

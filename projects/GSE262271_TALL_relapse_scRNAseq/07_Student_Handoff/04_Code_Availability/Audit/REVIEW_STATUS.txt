@@ -1,5 +1,10 @@
 Reviewed 2026-09-15
 
+Current main reporting: within-sample CNV top15 and whole-KEGG FDR < 0.05.
+Main overlap: 40 up, 0 down. Other cell definitions are supplementary.
+This threshold update leaves audited count-model, P-value and BH FDR results unchanged.
+The top15/reference-q95 overlap is 1,407 cells out of 1,926 top15 cells.
+
 Count aggregation: independent direct summation matches sparse aggregation exactly.
 Single-cell: all 10,950 stored gene statistics reproduce to floating-point precision.
 Bulk: all 17,991 stored gene statistics reproduce to floating-point precision.

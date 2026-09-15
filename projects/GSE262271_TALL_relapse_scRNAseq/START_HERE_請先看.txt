@@ -5,9 +5,12 @@
 3. 02_Figures：各資料集 KEGG 概覽、交集、target、annotation / sensitivity。
 4. 03_Tables：完整 pathway 名單、NES、P、FDR，附閱讀說明。
 
-Top 15% 與 bulk 共有 54 條同方向上調 pathway，沒有共同下調。
-Proteasome / Mitophagy 在 exploratory within-sample top 15% 都上調且 FDR < 0.05。
-原始 global top 25% 是不同分析，不可混用顯著性。Top 15% 不能說成 unbiased。
+主分析固定 within-sample CNV top 15%，兩組完整 KEGG FDR 都 < 0.05。
+Top15 與 bulk 共有 40 條同方向上調 pathway，沒有共同下調。
+先讀 Table11 顯著清單及 Table07 交集。其他定義放補充分析。
+Proteasome / Mitophagy 在主分析 within-sample top 15% 都上調且 FDR < 0.05。
+原始 global top25 留作 sensitivity，不混入主分析。Q95 cutoff 的支持性資料和
+與 sample top15 的差異已整理於 PPT 第12頁及方法說明，保留設定選擇的歷史。
 Cell annotation 已補 marker 證據，仍需獨立 malignant-cell 驗證。
 
 Raw data、R objects 已保留。方法、Markdown、核對資料在 05_Code_Availability。

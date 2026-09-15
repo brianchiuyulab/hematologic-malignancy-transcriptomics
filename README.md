@@ -1,6 +1,6 @@
 # Hematologic malignancy transcriptomics
 
-血癌研究的可重現 transcriptomic analyses。請从 [目前交接包](projects/GSE262271_TALL_relapse_scRNAseq/07_Student_Handoff/) 開始。
+血癌研究的可重現 transcriptomic analyses。請從 [目前交接包](projects/GSE262271_TALL_relapse_scRNAseq/07_Student_Handoff/) 開始。
 
 ## GSE262271 and GSE218858
 
@@ -8,13 +8,13 @@
 - Mouse STAT5B N642H bulk RNA-seq: three N642H and three control samples, independent DESeq2.
 - Reviewed 2026-09-15: whole-KEGG discovery, direction-matched overlap, target follow-up, conservative lineage annotation and explicit sensitivity definitions.
 
-Within-sample CNV top 15% is an exploratory subset, selected after sensitivity analyses. At whole-collection FDR < 0.10, it has 83 up- and 5 down-enriched pathways. Bulk has 128 up and 8 down. Among 275 pathways tested in both catalogs, 54 are jointly up-enriched and none jointly down-enriched.
+The designated main analysis uses within-sample CNV top15 and whole-collection KEGG FDR < 0.05. It has 61 up- and 2 down-enriched pathways. Bulk has 107 up and 6 down. Among 275 commonly tested pathway names, 40 are jointly up-enriched and none jointly down-enriched. Alternative cell definitions are supplementary. Top15 was fixed after sensitivity analyses, so its selection remains exploratory.
 
 | Analysis | Proteasome FDR | Mitophagy FDR |
 |---|---:|---:|
-| Original scRNA-seq global top 25% | 0.126157 | 0.126157 |
-| Exploratory scRNA-seq within-sample top 15% | 0.008379 | 0.013197 |
+| Main scRNA-seq within-sample top 15% | 0.008379 | 0.013197 |
 | STAT5B N642H bulk | 0.001078 | 0.028234 |
+| Sensitivity: original scRNA-seq global top 25% | 0.126157 | 0.126157 |
 
 Both targets have positive NES, not downregulation. Fixed-seed, higher-precision GSEA replaces the old estimates. The original gene statistics reproduce to numerical precision.
 

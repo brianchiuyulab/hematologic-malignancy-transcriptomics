@@ -1,6 +1,6 @@
 # Code availability
 
-Current analysis: R22–25, reviewed 2026-09-15. Deck builder: presentation/build_reviewed_handoff.mjs.
+Current main analysis: within-sample CNV top15, whole-KEGG FDR < 0.05. R22–25, reviewed 2026-09-15. Deck builder: presentation/build_reviewed_handoff.mjs.
 
 | Script | Purpose |
 |---|---|
@@ -30,6 +30,6 @@ Historical wrappers support old file layouts. Use the reviewed wrapper for the c
 
 ## Interpretation
 
-Top15 is exploratory, not unbiased. Pooled reference q95 is not equivalent to within-sample15 or a validated malignancy threshold. Marker review is not independent reference mapping or genotype validation. GSEA on a paired gene ranking is not a paired phenotype-permutation test. Three patient pairs limit generalization. These transcriptomes do not establish drug resistance, mitophagy flux, mitochondrial STAT5 localization or proteasome dependency.
+Top15 is the designated main analysis. Because it was fixed after sensitivity analyses, the selection remains exploratory rather than prospectively specified. Pooled reference q95 is not equivalent to within-sample15 or a validated malignancy threshold. Marker review is not independent reference mapping or genotype validation. GSEA on a paired gene ranking is not a paired phenotype-permutation test. Three patient pairs limit generalization. These transcriptomes do not establish drug resistance, mitophagy flux, mitochondrial STAT5 localization or proteasome dependency.
 
 The 14-slide PPT has editable text/tables and embedded R figures. Its builder requires the OpenAI Artifact Tool JavaScript runtime. PNG and vector PDF figures are provided.

@@ -22,7 +22,7 @@ const core=summary.counts.find(x=>x.Dataset==='scRNAseq_within15'),bulk=summary.
  txt(s,'兩組 transcriptome 有哪些共同的 pathway 變化？',60,175,1120,90,38,true);
  txt(s,'先比較完整 KEGG enrichment 與同方向交集，再檢視 proteasome、mitophagy 和相關生物機制。',62,300,1110,105,28);
  txt(s,'GSE262271：3 位病人 diagnosis / relapse 配對\nGSE218858：STAT5B N642H 與對照各 3 個 bulk samples',62,465,1100,100,24);
- txt(s,'本報告保留原始 top 25% 結果，另列 exploratory within-sample top 15%。',62,609,1110,44,20,false,MUTED);
+ txt(s,'主分析固定 within-sample CNV top 15%，pathway 與交集皆採完整 KEGG FDR < 0.05。',62,609,1110,44,20,false,MUTED);
  notes(s,'研究目的由先前 STAT5 粒線體、mitophagy、proteasome 假說延伸。跨物種、不同實驗情境的 pathway 同方向只屬支持性關聯。不可稱為 bortezomib sensitivity、直接因果或獨立人類臨床驗證。');
 }
 // 2
@@ -52,8 +52,8 @@ const core=summary.counts.find(x=>x.Dataset==='scRNAseq_within15'),bulk=summary.
 {
  const s=slide('CNV 篩選與 paired pseudobulk','ANALYSIS DEFINITIONS');
  await image(s,'Fig02_paired_sample_cell_counts',40,112,800,460);
- txt(s,'原始：global top 25%\n3,207 cells，最小 sample 140',855,150,370,95,22,true);
- txt(s,'探索型：within-sample top 15%\n1,926 cells，最小 sample 107',855,290,370,110,22,true);
+ txt(s,'主分析：within-sample top 15%\n1,926 cells，最小 sample 107',855,150,370,105,22,true);
+ txt(s,'Non-T reference q95 = 0.0269\n全體候選 T 細胞有 15.4% 高於此值',855,305,370,110,22);
  txt(s,'~ patient_pair + condition\n以 condition coefficient 排名\nGSEA: sign(logFC) × √F',855,455,370,125,21);
  txt(s,'每個 sample 固定取 15%，無法用保留比例來證明 relapse 的 malignant population 增加。',60,605,1150,60,22,false,ORANGE);
  notes(s,'867 non-T reference cells yield empirical q95=0.0269455, and 1978/12828=15.419% candidates exceed it. The absolute cutoff is not equivalent to selecting 15% within every sample. The exploratory 15% was considered after outcome inspection, so it is not outcome-independent or unbiased.');
@@ -62,25 +62,25 @@ const core=summary.counts.find(x=>x.Dataset==='scRNAseq_within15'),bulk=summary.
 {
  const s=slide('Single-cell：完整 KEGG enrichment 概覽','DISCOVERY');
  await image(s,'Fig03B_scRNAseq_slide_overview',35,120,990,550);
- txt(s,`FDR < 0.10\n\n上調 ${core.up_FDR010} 條\n下調 ${core.down_FDR010} 條`,1025,190,220,185,24,true);
- txt(s,'圖依 FDR 排序，沒有預先只挑 mitophagy。完整結果在 Table04。',1025,430,220,170,21);
+ txt(s,`FDR < 0.05\n\n上調 ${core.up_FDR005} 條\n下調 ${core.down_FDR005} 條`,1025,190,220,185,24,true);
+ txt(s,'主圖依 FDR 排序。完整結果在 Table04，顯著清單在 Table11。',1025,430,220,170,21);
  notes(s,'Figure03B uses exploratory within-sample top15, original stored QC, paired edgeR ranking, fixed seed 20260915 and full KEGG BH. Up to eight pathways per direction are displayed on this slide. Figure03 displays up to fifteen per direction and Table04 contains the complete catalog. Disease-labeled gene sets often share metabolic/proteostasis genes and do not diagnose those diseases.');
 }
 // 7
 {
  const s=slide('Bulk：STAT5B N642H 的完整 KEGG enrichment','STAT5B PERTURBATION');
  await image(s,'Fig04B_bulk_slide_overview',35,120,990,550);
- txt(s,`FDR < 0.10\n\n上調 ${bulk.up_FDR010} 條\n下調 ${bulk.down_FDR010} 條`,1025,190,220,185,24,true);
+ txt(s,`FDR < 0.05\n\n上調 ${bulk.up_FDR005} 條\n下調 ${bulk.down_FDR005} 條`,1025,190,220,185,24,true);
  txt(s,'排名來自全部通過基因過濾的 DESeq2 Wald statistics。完整結果在 Table05。',1025,430,220,185,21);
  notes(s,'R2S5b_DN vs R2b_DN, independent n3 vs3. Enrichr KEGG2019 Mouse catalog differs from the frozen human KEGG catalog. Each complete catalog has its own BH denominator. Refit from deposited raw count matrix.');
 }
 // 8
 {
- const s=slide('先看同方向 pathway 交集','CROSS-DATASET OVERLAP');
- await image(s,'Fig05_direction_matched_intersection',35,109,920,563);
+ const s=slide('同方向 pathway 交集','CROSS-DATASET OVERLAP');
+ await image(s,'Fig05_direction_matched_intersection',35,140,920,470);
  txt(s,`Top 15% 與 bulk\n\n共同上調 ${overlap.shared_up} 條\n共同下調 ${overlap.shared_down} 條`,970,173,270,195,25,true);
- txt(s,'只比較兩邊都測到的 pathway。\n兩邊都需 FDR < 0.10，且 NES 同號。\n\n下排保留原始 top 25% 對照。',970,405,270,220,21);
- notes(s,'Figure05 restricts the universe to common tested canonical pathway names. It does not silently call pathways missing from one catalog non-significant. Circle area is schematic. Table06 has all membership; Table07 lists every shared pathway.');
+ txt(s,'只比較兩邊都測到的 pathway。\n兩邊都需 FDR < 0.05，且 NES 同號。\n\n其他 cutoff 與原始 top 25% 放在補充分析。',970,405,270,220,21);
+ notes(s,'Figure05 restricts the universe to common tested canonical pathway names. It does not call pathways missing from one catalog non-significant. Circle area is schematic. Table06 has all membership; Table07 lists all40 primary shared pathways. TableS05 retains global25 sensitivity. Primary display uses within15 as requested, while cutoff selection remains exploratory.');
 }
 // 9
 {
@@ -92,7 +92,7 @@ const core=summary.counts.find(x=>x.Dataset==='scRNAseq_within15'),bulk=summary.
 {
  const s=slide('Proteasome 與 mitophagy 的結果核對','TARGET PATHWAYS');
  await image(s,'Fig07_target_pathway_audit',35,143,1210,445);
- txt(s,'這兩條的 NES 是正值：relapse 與 N642H 都較高。Top 15% 的顯著性不能套用到原始 top 25%。',65,608,1150,59,22,true,ORANGE);
+ txt(s,'Proteasome、mitophagy 均上調，兩組資料的完整 KEGG FDR 都小於 0.05。',65,608,1150,59,22,true,ORANGE);
  notes(s,'Numeric results are read from regenerated tables, not hard-coded historical values. q means whole KEGG BH, not nominal P or two-target correction. Within15 is exploratory because cutoff was selected after multiverse results.');
 }
 // 11
@@ -100,16 +100,16 @@ const core=summary.counts.find(x=>x.Dataset==='scRNAseq_within15'),bulk=summary.
  const s=slide('三位病人的變化方向','PAIRED DIRECTION');
  await image(s,'Fig08_paired_leading_edge_direction',40,125,900,520);
  txt(s,'每條線是一位病人',970,200,260,65,25,true);
- txt(s,'Leading-edge genes 由同一份 GSEA 選出。\n\n方向檢查是描述性證據，不能再當成獨立驗證。',970,300,260,230,22);
+ txt(s,'Leading-edge genes 由同一份 GSEA 選出。\n\n這裡只描述三位病人的方向，不作額外的獨立驗證。',970,300,260,230,22);
  notes(s,'Three patients limit inference. A gene need not rise in all three pairs for fitting a paired model. Gene-level DEG FDR and gene-set GSEA FDR answer different hypotheses.');
 }
 // 12
 {
- const s=slide('15% 的依據與限制','CUTOFF INTERPRETATION');
- txt(s,'正常 reference 的 q95 與 within-sample top 15% 是兩個不同規則',62,145,1150,72,28,true);
- table(s,[['規則','怎麼選','本次保留'],['Absolute reference q95','每顆 cell 都與同一數值 0.0269 比較','1,978 cells\n最小 sample 66'],['Within-sample top 15%','每個 sample 各自選 CNV score 最高 15%','1,926 cells\n最小 sample 107']],[270,575,325],245,210,21);
- txt(s,'15.4% 高於 pooled reference q95，只是近似的描述性對照，不能把選 15% 說成 unbiased。',65,490,1120,77,24,false,ORANGE);
- txt(s,'完整 KEGG FDR 只校正該次 pathway 測試，沒有校正嘗試多套篩選條件後再挑選的影響。',65,593,1120,66,22);
+ const s=slide('CNV top 15% 設定與 reference 對照','CUTOFF INTERPRETATION');
+ txt(s,'每個 sample 保留 CNV score 最高的 15%，作為相對高 CNV 的 T-lineage core',62,145,1150,72,28,true);
+ table(s,[['規則','怎麼選','本次保留'],['主分析：sample top 15%','每個 sample 各自選 CNV score 最高 15%','1,926 cells\n最小 sample 107'],['Non-T reference q95','每顆 cell 都與同一數值 0.0269 比較','1,978 cells\n最小 sample 66']],[270,575,325],245,210,21);
+ txt(s,'Reference q95 提供比例尺度對照。Top 15% 中有 1,407 / 1,926 cells（73.1%）高於 q95，兩種規則選到的細胞並不相同。',65,490,1120,87,23);
+ txt(s,'Top 15% 在 sensitivity 檢查後固定為主分析。FDR < 0.05 是 pathway 門檻，沒有額外校正選擇分析條件的影響。',65,593,1120,66,21,false,ORANGE);
  notes(s,'inferCNV score is RNA-based deviation from reference, not measured DNA copy number, a probability of cancer, or a patient-independent validated specificity threshold. Reference sample/cell-type composition is unbalanced. Official workflow: https://github.com/broadinstitute/inferCNV/wiki/Running-InferCNV');
 }
 // 13

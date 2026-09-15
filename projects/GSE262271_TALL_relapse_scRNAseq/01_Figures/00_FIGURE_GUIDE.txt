@@ -1,16 +1,21 @@
-閱讀順序
-Fig01A / B：lineage UMAP 與每個 cluster 的 marker 證據。
-Fig02：每個病人 sample 真正送進 pseudobulk 的 cell counts。
-Fig03：single-cell 完整 KEGG 概覽（每個方向最多 15 條，完整名單在 Table04）。
-Fig04：bulk 完整 KEGG 概覽（每個方向最多 15 條，完整名單在 Table05）。
-Fig05：上調和下調分開做交集，並列 top 15% 與原始 top 25%。
-Fig06：全部 54 條同方向交集的 NES heatmap。
-Fig06B：交集中兩邊共同證據最強的最多 15 條，方便簡報閱讀。
-Fig07：target pathways 的 population / dataset / FDR 對照。
-Fig08：3 位病人的 leading-edge 平均表達方向。
-FigS01：原始 global top 25% 全 KEGG 概覽。
-FigS02：各 sample 的 CNV cutoff 與 pooled reference q95，顯示兩種規則不等價。
-FigS03：配對基因 heatmap，星號只代表 gene-level FDR，不挪用 pathway-level 星號。
+主分析：within-sample CNV top 15%，完整 KEGG BH FDR < 0.05。
 
-Fig03B / Fig04B 是同一結果的簡報縮編版（每個方向最多 8 條），沒有換統計。
-PNG 是閱讀版；PDF 是相同內容的向量排版版。P / FDR 精確數字請看 CSV。
+Fig01A：Cell lineage UMAP。
+Fig01B：所有 20 個 cluster 的 marker 證據。
+Fig02：主分析六個 paired samples 的 cells 數。
+Fig03 / Fig03B：Single-cell 顯著 KEGG（完整圖 / PPT 精簡圖）。
+Fig04 / Fig04B：Bulk 顯著 KEGG（完整圖 / PPT 精簡圖）。
+Fig05：主分析同方向 Venn，40 條共同上調、0 條共同下調。
+Fig06：全部 40 條交集 NES 熱圖。
+Fig06B：交集中按兩邊較大 FDR 排序的前 15 條。
+Fig07：主分析 target pathways，包含不顯著結果。
+Fig08：三位病人的 leading-edge 平均表達方向，屬描述性檢查。
+
+FigS01：原始 global top25 的 KEGG。
+FigS02：Reference q95 與 sample top15 實際 cutoff 分布。
+FigS03：Paired gene heatmap，星號以 gene-level FDR 為準。
+FigS04：Top15 與原始 top25 的細胞數比較。
+FigS05：原始 top25 與 bulk 的交集，13 條共同上調。
+FigS06：主分析、原始 top25、bulk 的 target 比較。
+
+所有圖提供 PNG 與 PDF。主分析 enrichment 門檻一致為 FDR < 0.05。

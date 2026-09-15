@@ -18,26 +18,30 @@ stopifnot(nrow(cmp) == 353L,
           max(abs(cmp$pval.x - cmp$pval.y)) < 1e-12)
 
 cx <- table('Table06_cross_dataset_pathway_membership')
-shared <- table('Table07_same_direction_intersection')
+shared_main <- table('Table07_same_direction_intersection')
+stopifnot(nrow(shared_main)==40L,all(shared_main$analysis=='within15'))
 for (a in c('within15', 'global25')) {
+  shared <- if(a=='within15') shared_main else table('TableS05_global25_intersection')
   d <- cx[cx$analysis == a, ]
-  expected <- with(d, tested_in_both & sc_FDR < 0.1 & bulk_FDR < 0.1 & sign(sc_NES) == sign(bulk_NES))
+  expected <- with(d, tested_in_both & sc_FDR < 0.05 & bulk_FDR < 0.05 & sign(sc_NES) == sign(bulk_NES))
   expected[is.na(expected)] <- FALSE
   stopifnot(!anyDuplicated(d$key), sum(d$tested_in_both) == 275L,
-            identical(expected, d$shared_FDR010),
+            identical(expected, d$shared_FDR005),
             setequal(d$key[expected], shared$key[shared$analysis == a]))
   stopifnot(sum(expected & d$sc_NES < 0, na.rm = TRUE) == 0L)
-  stopifnot(sum(expected & d$sc_NES > 0, na.rm = TRUE) == if (a == 'within15') 54L else 23L)
+  stopifnot(sum(expected & d$sc_NES > 0, na.rm = TRUE) == if (a == 'within15') 40L else 13L)
 }
 within <- rd('KEGG_within15')
 bulk <- rd('KEGG_bulk')
-stopifnot(sum(within$padj < 0.1 & within$NES > 0) == 83L,
-          sum(within$padj < 0.1 & within$NES < 0) == 5L,
-          sum(bulk$padj < 0.1 & bulk$NES > 0) == 128L,
-          sum(bulk$padj < 0.1 & bulk$NES < 0) == 8L)
+stopifnot(sum(within$padj < 0.05 & within$NES > 0) == 61L,
+          sum(within$padj < 0.05 & within$NES < 0) == 2L,
+          sum(bulk$padj < 0.05 & bulk$NES > 0) == 107L,
+          sum(bulk$padj < 0.05 & bulk$NES < 0) == 6L)
 t <- within[within$pathway_id %in% c('hsa03050','hsa04137'), ]
 stopifnot(nrow(t) == 2L, all(t$NES > 0), all(t$padj < 0.05))
 counts <- rd('selection_cell_counts')
 stopifnot(sum(counts$cells[counts$analysis == 'within15']) == 1926L,
           min(counts$cells[counts$analysis == 'within15']) == 107L)
+qcheck<-table('TableS06_top15_reference_q95_overlap')
+stopifnot(qcheck$top15_cells==1926L,qcheck$above_reference_q95==1978L,qcheck$overlap_cells==1407L)
 cat('PASS: full-collection BH, historical rank reproduction, pathway intersections, directions and cell counts.\n')

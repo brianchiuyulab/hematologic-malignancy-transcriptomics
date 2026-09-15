@@ -4,25 +4,19 @@
       "Dataset": "bulk_STAT5B",
       "tested_pathways": 300,
       "up_FDR005": 107,
-      "down_FDR005": 6,
-      "up_FDR010": 128,
-      "down_FDR010": 8
+      "down_FDR005": 6
     },
     {
       "Dataset": "scRNAseq_global25",
       "tested_pathways": 353,
       "up_FDR005": 28,
-      "down_FDR005": 0,
-      "up_FDR010": 47,
-      "down_FDR010": 1
+      "down_FDR005": 0
     },
     {
       "Dataset": "scRNAseq_within15",
       "tested_pathways": 353,
       "up_FDR005": 61,
-      "down_FDR005": 2,
-      "up_FDR010": 83,
-      "down_FDR010": 5
+      "down_FDR005": 2
     }
   ],
   "targets": [
@@ -133,13 +127,13 @@
     {
       "analysis": "global25",
       "common_tested": 275,
-      "shared_up": 23,
+      "shared_up": 13,
       "shared_down": 0
     },
     {
       "analysis": "within15",
       "common_tested": 275,
-      "shared_up": 54,
+      "shared_up": 40,
       "shared_down": 0
     }
   ],
